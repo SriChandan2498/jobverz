@@ -1,0 +1,25 @@
+{
+    "package.json": [
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Wed May 26 2021 16:54:41",
+            "keyStrokeInfo": "    \"@emotion/react\": \"^11.4.0\",\n",
+            "position": "6,1"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Wed May 26 2021 17:08:57",
+            "keyStrokeInfo": "    \"@emotion/core\": \"^10.1.1\",\n",
+            "position": "6,1"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Wed May 26 2021 17:13:39",
+            "keyStrokeInfo": "    \"@emotion/styled\": \"^11.3.0\",\n",
+            "position": "8,1"
+        }
+    ]
+}
