@@ -2,72 +2,64 @@ import React, { Component } from 'react';
 import { Element } from 'react-faux-dom';
 import * as d3 from 'd3';
 import './App.css';
-// import Select from 'react-dropdown-select';
-import walmartData from './skillsData/WalmartSkills'
-import amazonData from './skillsData/AmazonData'
-import indeedData from './skillsData/IndeedSkills'
-import exxonData from './skillsData/ExxonSkills'
-import monsterData from './skillsData/MonsterSkills'
+// // import Select from 'react-dropdown-select';
+// import walmartData from './skillsData/WalmartSkills'
+// // import amazonData from './skillsData/AmazonData'
+// // import indeedData from './skillsData/IndeedSkills'
+// // import exxonData from './skillsData/ExxonSkills'
+// // import monsterData from './skillsData/MonsterSkills'
 
 class Graph extends Component {
     constructor(props)
     {
         super(props)
         this.state = {page : 1, step : 20,
-                      data : [...walmartData.slice(0,20)] ,masterData : walmartData,
-                      value: ''}
+                      data :[],masterData : [],
+                      value: 'Walmart'}
         this.handleChange = this.handleChange.bind(this);
         this.handlePage = this.handlePage.bind(this);
         // this.handleSubmit = this.handleSubmit.bind(this);
     }
 
-    // handleChange = (selectedOption) => 
-    // {
-    //     console.log(typeof(selectedOption))
-    //     var x = [...selectedOption.slice(0,this.state.step)]
-    //     console.log(x)
-    //     this.setState({ masterData : selectedOption['0']['value'], data : x })
-    //     this.drawChart()
-    // }
-
-    handleChange(event) {
-        // console.log("helo")
-        var Data
-        switch(event.target.value) {
-            case "walmartData":
-                Data = walmartData
-                break;
-            case "amazonData":
-                Data = amazonData
-                break;
-            case "indeedData":
-                Data = indeedData
-                break;
-            case "exxonData":
-                Data = exxonData
-                break;
-            case "monsterData":
-                Data = monsterData
-                break;
-            default:
-                return
-          }
-        var x = [...Data.slice(0,this.state.step)]
-        this.setState({value: event.target.value, masterData: Data, data : x});
+    handleChange = (event) => {
+        var company = event.target.value
+        var url = "http://192.168.0.5:5000/"+company
+        fetch(url)
+        .then((response) => response.json())
+        .then( (result) => 
+                {
+                    var Data = JSON.parse(result.data.replace(/'/g, '"'))
+                    var x = [...Data.slice(0,this.state.step)]
+                    this.setState({value: company, masterData:Data, data : x })
+                // console.log(typeof(JSON.parse(result.data.replace(/'/g, '"'))))
+                })
+        // this.getData(event.target.value)
+        // var x = [...Data.slice(0,this.state.step)]
+        // this.setState({value: event.target.value, masterData:Data, data : x});
         // console.log('-->',this.state.masterData,this.state.data)
     }
 
-    // handleSubmit(event) 
+    // getData = (company) =>
     // {
-    //     // alert('A name was submitted: ' + this.state.step);
-    //     console.log(this.state.step)
-    //     event.preventDefault();
-    // }
-
+    //     var url = "http://192.168.0.5:5000/"+company
+    //     fetch(url)
+    //     .then((response) => response.json())
+    //     .then( (result) => 
+    //             {
+    //                 var Data = JSON.parse(result.data.replace(/'/g, '"'))
+    //                 var x = [...Data.slice(0,this.state.step)]
+    //                 this.setState({value: company, masterData:Data, data : x })
+    //             // console.log(typeof(JSON.parse(result.data.replace(/'/g, '"'))))
+    //             })
+        // console.log(this.state.masterData)
+        // console.log(Data,typeof(Data))
+        // return Data
+        
     handlePage(event)
     {
         // console.log(typeof(parseInt(event.target.value)))
-        this.setState({step : parseInt(event.target.value)})
+        var x = [...this.state.masterData.slice(0,parseInt(event.target.value))]
+        this.setState({step : parseInt(event.target.value),page:1,data:x})
     }
 
     prev = () =>
@@ -240,41 +232,37 @@ class Graph extends Component {
     render() {
         return(
             <div>
-                <form>
+                <center>
+                <h1>Skill Frequency Distribution of {this.state.value}</h1>
+                <form > 
                 <label>
                 Enter No. of records per page
                 <input type="number" onChange ={this.handlePage} placeholder="enter a number" />
                 </label>
-                </form>
-                <form > {/* onSubmit={this.handleSubmit} */}
                 <label>
                 Select a compamny
-                <select value={this.state.value} onChange={this.handleChange}> 
-                    <option value = "walmartData" >Walmart</option>
-                    <option value="amazonData">Amazon</option>
-                    <option value = "indeedData">Indeed</option>
-                    <option value= "exxonData">ExxonMobil</option>
-                    <option value= "monsterData">Monster</option>
+                <select value={this.state.value} onChange={this.handleChange}>
+                    <option value = "Apple" >Apple</option>
+                    <option value = "AmeriSourceBergen" >AmeriSourceBergen</option>
+                    <option value = "Berkshire Hathaway" >Berkshire Hathaway</option>
+                    <option value = "AT&T" >AT&T</option>
+                    <option value = "McKesson" >McKesson</option>
+                    <option value = "Exxon Mobil" >Exxon Mobil</option>
+                    <option value = "General Motors" >General Motors</option>
+                    <option value = "UnitedHealth Group" >UnitedHealth Group</option>
+                    <option value = "Walgreens" >Walgreens</option>
+                    <option value = "Verizon" >Verizon</option>
+                    <option value = "Amazon" >Amazon</option>
+                    <option value = "Walmart" >Walmart</option>
+                    <option value = "CVS Health" >CVS Health</option>
                 </select>
                 </label>
                 </form>
-                {/* <input type="submit" value="Submit" /> */}
-                {/* <form onSubmit={this.handleSubmit}>
-                    <label> Enter No. of records per page
-                    <input type="number" onChange ={this.handlePage} placeholder="enter a number"/>
-                    <input type="submit" value="Submit" />
-                    </label>
-                </form> */}
-                {/* <form>
-                <label>
-                Enter No. of records per page
-                <input type="number" onChange ={this.handlePage} placeholder="enter a number" />
-                </label>
-                {/* <input type="submit" value="Submit" /> */}
-                {/* </form> */} 
+                {/* {this.getData('Amazon')} */}
                 {this.drawChart()}
                 <button className="previous" onClick={this.prev}>Previous</button>
-                <button className="next" onClick={this.next}>Next</button>    
+                <button className="next" onClick={this.next}>Next</button>
+                </center>    
             </div>
             );
     }
