@@ -2,8 +2,14 @@
   text-align: center;
 }
 
+label{
+  color: blue;
+  font-weight: 500;
+  font-size: 25px;
+}
+
 .App-logo {
-  height: 120vmin;
+  height: 40vmin;
   pointer-events: none;
 }
 
@@ -15,12 +21,12 @@
 
 .App-header {
   background-color: #282c34;
-  min-height: 800vh;
+  min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(30px + 2vmin);
+  font-size: calc(10px + 2vmin);
   color: white;
 }
 
@@ -37,34 +43,60 @@
   }
 }
 
-.bubbles {
-  stroke-width: 9px;
-  stroke: white;
-}
-.bubbles:hover {
-  stroke: black;
+
+.bar {
+shape-rendering: crispEdges;
 }
 
-.container {
-  height: 200px;
-  position: relative;
-  border: 3px solid green;
+.bar-label{
+  fill: #000;
+text-anchor: middle;
+font-size: 18px;
 }
-
-.vertical-center {
-  margin: 0;
-  position: absolute;
-  top: 50%;
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
-}
-
 .next
 {
+  margin: 0 10% 0 0;
   float: right;
+  background-color: rgb(221, 218, 218); 
+  color: black; 
+  border: 2px solid #008CBA;
+  border-radius: 12px;
+  padding: 14px;
+  font-size: large;
+}
+.next:hover{
+  background-color: #008CBA;
+  color: white;
 }
 
 .previous
 {
+  margin: 0 0 0 10%;
   float: left;
+  background-color: rgb(221, 218, 218); 
+  color: black; 
+  border: 2px solid #008CBA;
+  border-radius: 12px;
+  padding: 14px;
+  font-size: large;
+}
+.previous:hover{
+  background-color: #008CBA;
+  color: white;
+}
+.tooltip-area__text
+{
+  padding-left: 40%;
+  float: left;
+  color: red;
+  font-size: larger;
+  font-weight: bolder;
+}
+
+.dropdown{
+  padding: 5px;
+    color: #000;
+    font-size: 25px;
+    background-color: red;
+    border:1px solid red;
 }

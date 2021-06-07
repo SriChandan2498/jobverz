@@ -8,7 +8,7 @@ class App extends Component
 {
     render() 
     {
-        return(<Graph/>);
+        return(<Graph height={600} width = {1400}/>);
     }
 }
 export default App;

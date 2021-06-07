@@ -2,23 +2,18 @@ import React, { Component } from 'react';
 import { Element } from 'react-faux-dom';
 import * as d3 from 'd3';
 import './App.css';
-// // import Select from 'react-dropdown-select';
-// import walmartData from './skillsData/WalmartSkills'
-// // import amazonData from './skillsData/AmazonData'
-// // import indeedData from './skillsData/IndeedSkills'
-// // import exxonData from './skillsData/ExxonSkills'
-// // import monsterData from './skillsData/MonsterSkills'
 
 class Graph extends Component {
     constructor(props)
     {
         super(props)
-        this.state = {page : 1, step : 20,
+        this.state = {height: this.props.height ,width: this.props.width ,
+                    page : 1, step : 20,
                       data :[],masterData : [],
-                      value: 'Walmart'}
+                      value: 'Apple'}
         this.handleChange = this.handleChange.bind(this);
         this.handlePage = this.handlePage.bind(this);
-        // this.handleSubmit = this.handleSubmit.bind(this);
+        this.handleSubmit = this.handleSubmit.bind(this);
     }
 
     handleChange = (event) => {
@@ -33,33 +28,31 @@ class Graph extends Component {
                     this.setState({value: company, masterData:Data, data : x })
                 // console.log(typeof(JSON.parse(result.data.replace(/'/g, '"'))))
                 })
-        // this.getData(event.target.value)
-        // var x = [...Data.slice(0,this.state.step)]
-        // this.setState({value: event.target.value, masterData:Data, data : x});
-        // console.log('-->',this.state.masterData,this.state.data)
     }
 
-    // getData = (company) =>
-    // {
-    //     var url = "http://192.168.0.5:5000/"+company
-    //     fetch(url)
-    //     .then((response) => response.json())
-    //     .then( (result) => 
-    //             {
-    //                 var Data = JSON.parse(result.data.replace(/'/g, '"'))
-    //                 var x = [...Data.slice(0,this.state.step)]
-    //                 this.setState({value: company, masterData:Data, data : x })
-    //             // console.log(typeof(JSON.parse(result.data.replace(/'/g, '"'))))
-    //             })
-        // console.log(this.state.masterData)
-        // console.log(Data,typeof(Data))
-        // return Data
-        
     handlePage(event)
     {
-        // console.log(typeof(parseInt(event.target.value)))
-        var x = [...this.state.masterData.slice(0,parseInt(event.target.value))]
-        this.setState({step : parseInt(event.target.value),page:1,data:x})
+        // // console.log(typeof(parseInt(event.target.value)))
+        // var x = [...this.state.masterData.slice(0,parseInt(event.target.value))]
+        // this.setState({step : parseInt(event.target.value),page:1,data:x})
+        var step
+        if(event.target.value === '')
+        {
+            step = 20
+        }
+        else
+        {
+            step = parseInt(event.target.value)
+        }
+        this.setState({step : step })
+    }
+
+    handleSubmit=(event)=>
+    {
+        // alert('A name was submitted: ' + this.state.value);
+        var x = [...this.state.masterData.slice(0,parseInt(this.state.step))]
+        this.setState({page:1,data:x})
+        event.preventDefault();
     }
 
     prev = () =>
@@ -171,36 +164,11 @@ class Graph extends Component {
             .style('font-size', '20px')
             .style('text-anchor', 'middle')
             .text('Frequency of skills');   
-
-        // chart.select('.x.axis')
-        //     .selectAll('text')
-        //     .attr('x',  width/2)
-        //     .attr('y', 60)
-        //     .attr("dx","-.8em")
-        //     .attr("dy","-.15em")
-        //     .attr("transform","rotate(-90)")
-        //     .attr('fill', '#000')
-        //     .style('font-size', '20px')
-        //     .style('text-anchor', 'end');
-            
-            //.text('AmazonSkills');    
-            
-        // chart.select('.y.axis')
-        //     .append('text')
-        //     .attr('x', 0)
-        //     .attr('y', 0)
-        //     .attr('transform', `translate(-50, ${height/2}) rotate(-90)`)
-        //     .attr('fill', '#000')
-        //     .style('font-size', '20px')
-        //     .style('text-anchor', 'middle')
-        //     .text('Frequency of skills');   
-            
-       
     }
 
     drawChart() {
-        const width = 1400;
-        const height = 600;
+        const width = this.state.width;
+        const height = this.state.height;
         // console.log('hi')
         const el = new Element('div');
         const svg = d3.select(el)
@@ -233,15 +201,14 @@ class Graph extends Component {
         return(
             <div>
                 <center>
-                <h1>Skill Frequency Distribution of {this.state.value}</h1>
-                <form > 
+                <h1 style={{color: "blue"}}>Skill Frequency Distribution of {this.state.value}</h1>
+                {/* <form>
+                
+                </form> */}
+                <form onSubmit={this.handleSubmit}>
                 <label>
-                Enter No. of records per page
-                <input type="number" onChange ={this.handlePage} placeholder="enter a number" />
-                </label>
-                <label>
-                Select a compamny
-                <select value={this.state.value} onChange={this.handleChange}>
+                &nbsp; &nbsp; &nbsp;Select a company &nbsp;
+                <select id="dropdown" value = {this.state.value} onChange={this.handleChange}>
                     <option value = "Apple" >Apple</option>
                     <option value = "AmeriSourceBergen" >AmeriSourceBergen</option>
                     <option value = "Berkshire Hathaway" >Berkshire Hathaway</option>
@@ -256,8 +223,14 @@ class Graph extends Component {
                     <option value = "Walmart" >Walmart</option>
                     <option value = "CVS Health" >CVS Health</option>
                 </select>
+                </label> 
+                <label>
+                &nbsp; &nbsp; &nbsp; Enter No. of records per page &nbsp;
+                <input type="number" onChange ={this.handlePage} placeholder="enter a number" />
                 </label>
+                <input type="submit" value="Submit" />
                 </form>
+                
                 {/* {this.getData('Amazon')} */}
                 {this.drawChart()}
                 <button className="previous" onClick={this.prev}>Previous</button>
