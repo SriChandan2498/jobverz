@@ -1,0 +1,2849 @@
+Skills,Apple,AmeriSourceBergen,Berkshire Hathaway,AT&T,McKesson,Exxon Mobil,General Motors,UnitedHealth Group,Walgreens,Verizon,Amazon,Walmart,CVS Health,Total,Type
+commercial drivers license,0,0,0,0,5,0,0,0,0,0,1,0,0,6,#N/A
+customer,0,0,1,0,0,0,0,0,0,0,0,0,0,1,#N/A
+enforcem google hangouts,0,0,1,0,0,0,0,0,0,0,0,0,0,1,#N/A
+microsooperations,0,0,1,0,0,0,0,0,0,0,0,0,0,1,#N/A
+pl,0,0,1,0,0,0,0,0,0,0,0,0,0,1,#N/A
+researsparency,0,0,1,0,0,0,0,0,0,0,0,0,0,1,#N/A
+social media workers compensation,0,0,1,0,0,0,0,0,0,0,0,0,0,1,#N/A
+sractive c,0,0,1,0,0,0,0,0,0,0,0,0,0,1,#N/A
+tranance monitor,0,0,1,0,0,0,0,0,0,0,0,0,0,1,#N/A
+valid drivers license,0,1,4,0,0,1,4,1,0,1,1,0,0,13,#N/A
+workers compensation,0,0,51,0,0,0,0,0,0,0,2,0,0,53,#N/A
+workers compensation claims,0,0,8,0,0,0,0,0,0,0,0,0,0,8,#N/A
+accountability,1,3,0,1,3,4,12,7,0,3,2,4,30,70,Soft Skill
+action oriented,0,0,0,1,0,0,2,0,0,0,2,0,0,5,Soft Skill
+active listening,0,0,2,0,0,0,0,1,0,0,1,0,0,4,Soft Skill
+adaptability,0,3,2,0,1,2,0,1,0,0,1,5,0,15,Soft Skill
+advocacy,0,1,0,0,1,0,0,1,0,0,0,0,0,3,Soft Skill
+agenda,0,0,0,0,0,0,1,0,0,0,2,0,0,3,Soft Skill
+android,0,0,0,1,0,0,1,0,0,2,1,0,0,5,Soft Skill
+application development,0,3,4,3,2,2,9,1,0,0,1,0,0,25,Soft Skill
+basic math,0,0,5,0,0,0,0,0,2,0,0,4,0,11,Soft Skill
+basic writing,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Soft Skill
+brainstorming,0,2,0,0,0,0,0,0,0,0,0,0,0,2,Soft Skill
+business acumen,0,2,0,0,2,1,4,1,3,3,4,0,0,20,Soft Skill
+business administration,0,21,0,0,4,11,1,3,0,2,3,0,0,45,Soft Skill
+business ethics,0,0,0,0,1,0,0,0,4,0,0,0,0,5,Soft Skill
+business operations,0,2,2,0,2,4,1,4,0,1,5,0,0,21,Soft Skill
+business savvy,0,0,0,0,0,0,1,0,0,0,2,0,0,3,Soft Skill
+checklists,0,1,0,0,1,0,1,2,0,0,0,0,0,5,Soft Skill
+cleanliness,0,0,0,0,2,0,0,0,0,0,0,5,0,7,Soft Skill
+collaboration,1,11,52,25,11,34,91,38,4,8,7,2,29,313,Soft Skill
+communications,39,61,24,68,41,66,58,51,28,99,59,3,52,649,Soft Skill
+compassion,1,0,0,0,0,0,0,24,0,0,0,0,66,91,Soft Skill
+complex problem solving,0,0,0,0,0,0,1,0,0,1,2,0,0,4,Soft Skill
+composure,11,0,0,0,0,0,0,0,0,0,5,0,0,16,Soft Skill
+computer literacy,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Soft Skill
+computer terminals,0,0,1,0,0,0,0,0,0,0,0,0,65,66,Soft Skill
+construction,0,1,1,0,6,3,3,0,0,0,1,0,0,15,Soft Skill
+constructive feedback,0,3,3,0,0,0,0,0,11,0,0,0,0,17,Soft Skill
+consulting,0,6,0,3,3,5,0,7,4,6,7,3,1,45,Soft Skill
+contract reviews,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Soft Skill
+cooperation,0,0,0,0,0,2,0,1,0,3,0,0,0,6,Soft Skill
+coordinating,0,2,6,1,5,2,0,2,7,0,3,3,0,31,Soft Skill
+creative problem-solving,0,0,0,0,0,0,1,0,0,0,1,0,0,2,Soft Skill
+creative thinking,0,0,2,0,0,1,2,0,0,0,0,0,0,5,Soft Skill
+creativity,0,3,5,1,2,17,15,1,0,6,0,0,0,50,Soft Skill
+critical thinking,0,6,5,0,1,3,3,4,0,8,1,0,0,31,Soft Skill
+curiosity,10,0,0,9,1,1,2,0,0,3,6,0,0,32,Soft Skill
+customer service,11,26,56,18,20,11,0,20,100,43,10,38,93,446,Soft Skill
+data entry,0,2,9,0,2,0,0,10,4,0,0,0,0,27,Soft Skill
+decision making,1,7,17,0,3,3,11,3,4,1,7,1,0,58,Soft Skill
+decisiveness,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Soft Skill
+detail oriented,0,3,2,0,2,0,4,9,0,0,6,0,0,26,Soft Skill
+editing,0,0,0,0,0,0,0,6,0,0,5,0,0,11,Soft Skill
+empathy,12,0,2,1,0,0,0,0,0,0,0,1,1,17,Soft Skill
+engagement skills,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Soft Skill
+english language,0,22,0,1,0,2,1,0,0,0,3,0,0,29,Soft Skill
+enthusiasm,7,0,0,0,1,0,1,0,1,0,4,2,1,17,Soft Skill
+ethical conduct,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Soft Skill
+eye contact,0,0,0,0,0,0,0,0,96,0,0,0,35,131,Soft Skill
+filing,0,1,2,0,0,2,1,1,0,0,0,1,0,8,Soft Skill
+first aid,0,0,0,0,0,1,0,1,0,0,2,0,0,4,Soft Skill
+french language,0,1,0,0,0,1,0,0,0,0,0,0,0,2,Soft Skill
+gmail,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Soft Skill
+goal setting,0,0,0,0,0,0,0,1,1,0,1,0,0,3,Soft Skill
+good driving record,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Soft Skill
+google+,0,0,50,4,1,1,0,1,0,21,1,0,0,79,Soft Skill
+governance,0,4,8,0,4,1,1,2,0,3,2,1,0,26,Soft Skill
+grammar,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Soft Skill
+hospitality,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Soft Skill
+humility,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Soft Skill
+ideation,0,1,0,0,0,0,2,1,0,0,2,0,0,6,Soft Skill
+imagination,0,0,0,0,0,0,0,1,0,12,0,0,0,13,Soft Skill
+influencing skills,0,2,0,0,2,1,0,0,0,0,2,0,1,8,Soft Skill
+information technology,0,5,9,2,3,23,20,10,8,5,3,1,0,89,Soft Skill
+infrastructure,0,6,7,9,4,8,21,8,0,21,15,1,0,100,Soft Skill
+ingenuity,0,2,0,0,0,0,0,1,0,0,0,0,0,3,Soft Skill
+innovation,0,5,6,0,12,51,23,54,0,9,13,1,0,174,Soft Skill
+integration,0,7,14,7,7,12,41,13,0,12,7,1,0,121,Soft Skill
+intellectual curiosity,0,0,0,0,0,0,0,0,0,0,2,0,0,2,Soft Skill
+internet research,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Soft Skill
+interpersonal communications,5,6,3,0,4,7,7,3,0,4,6,1,0,46,Soft Skill
+investigation,0,1,14,0,1,9,1,2,0,0,5,3,0,36,Soft Skill
+leadership,17,26,6,5,15,32,26,22,23,40,47,9,28,296,Soft Skill
+leadership development,0,1,0,0,1,0,0,0,0,1,1,0,0,4,Soft Skill
+learning agility,4,0,0,0,0,0,2,0,0,0,0,0,0,6,Soft Skill
+learning strategies,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Soft Skill
+lifelong learning,0,0,0,0,0,0,0,0,0,1,1,0,0,2,Soft Skill
+listening skills,2,0,0,0,0,0,0,1,0,0,1,0,0,4,Soft Skill
+literacy,0,1,0,0,0,0,0,0,0,1,0,0,0,2,Soft Skill
+management,37,53,58,38,44,52,58,66,65,53,71,33,67,695,Soft Skill
+memos,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Soft Skill
+mentorship,1,0,12,1,1,0,2,2,0,0,11,2,0,32,Soft Skill
+microsoft excel,0,0,0,0,1,0,0,7,0,1,1,0,0,10,Soft Skill
+microsoft office,0,15,13,0,5,7,10,10,0,18,7,1,1,87,Soft Skill
+microsoft outlook,0,0,0,0,1,0,0,1,0,0,2,0,0,4,Soft Skill
+microsoft powerpoint,0,2,0,0,0,0,0,1,0,0,0,0,0,3,Soft Skill
+microsoft windows,0,0,0,0,0,2,0,0,0,1,0,0,0,3,Soft Skill
+microsoft word,0,31,12,0,1,0,1,5,0,0,1,0,0,51,Soft Skill
+mobile devices,0,0,0,18,0,0,0,1,0,0,0,0,0,19,Soft Skill
+motor control,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Soft Skill
+negotiation,10,4,7,6,7,5,6,1,0,4,2,0,0,52,Soft Skill
+non-verbal communication,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Soft Skill
+numbers,0,0,7,0,1,0,0,0,0,2,1,0,0,11,Soft Skill
+operations,14,21,22,28,47,28,38,27,100,12,54,14,25,430,Soft Skill
+organizational awareness,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Soft Skill
+organizational skills,13,52,5,2,3,1,4,5,0,0,5,0,0,90,Soft Skill
+patience,12,0,0,0,0,1,0,1,0,0,0,0,0,14,Soft Skill
+people management,0,3,0,0,0,0,0,0,4,3,7,0,0,17,Soft Skill
+persistence,1,0,0,0,0,0,0,1,0,0,2,0,0,4,Soft Skill
+personal computers,0,0,7,0,1,0,0,9,0,0,0,0,0,17,Soft Skill
+personal integrity,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Soft Skill
+persuasive communication,0,0,6,0,0,0,0,0,0,0,0,0,0,6,Soft Skill
+physical stamina,0,0,0,0,0,0,4,0,0,0,0,0,0,4,Soft Skill
+planning,1,15,18,5,10,16,21,10,8,53,13,10,1,181,Soft Skill
+portuguese language,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Soft Skill
+preparedness,0,0,0,0,0,1,0,1,0,0,1,0,0,3,Soft Skill
+presentations,27,34,8,25,8,1,8,16,0,5,13,20,0,165,Soft Skill
+prioritization,2,4,6,0,0,2,4,3,0,5,7,0,0,33,Soft Skill
+proactivity,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Soft Skill
+problem solving,25,45,5,6,9,22,28,14,0,30,32,0,0,216,Soft Skill
+professionalism,0,0,3,0,0,2,0,0,0,0,2,0,0,7,Soft Skill
+program management,0,5,1,0,1,0,6,1,0,4,8,0,0,26,Soft Skill
+punctuality,0,11,0,0,0,0,0,0,0,0,0,0,0,11,Soft Skill
+quality assurance,0,4,7,0,3,3,6,9,0,0,1,4,1,38,Soft Skill
+quality driven,0,0,0,0,0,0,0,1,0,0,1,0,0,2,Soft Skill
+rapport building,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Soft Skill
+real estate,0,0,0,0,0,1,0,0,0,1,1,0,0,3,Soft Skill
+recall,0,0,0,0,0,0,0,0,0,0,0,1,2,3,Soft Skill
+relationship management,3,1,2,0,3,1,7,1,0,0,3,0,0,21,Soft Skill
+reliability,0,2,2,23,0,9,5,2,0,26,17,1,0,87,Soft Skill
+requirement prioritization,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Soft Skill
+research,0,14,17,0,8,2,7,14,0,35,15,1,0,113,Soft Skill
+reservations,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Soft Skill
+resilience,0,1,0,0,0,0,0,1,0,3,0,0,0,5,Soft Skill
+resourcefulness,0,0,2,1,0,0,1,1,0,0,0,0,0,5,Soft Skill
+retail sales,0,0,0,17,0,0,1,1,0,6,0,1,0,26,Soft Skill
+sales,49,20,3,56,18,11,3,8,88,46,15,45,46,408,Soft Skill
+sanitation,0,0,0,0,0,0,0,0,0,0,0,27,1,28,Soft Skill
+scheduling,0,10,0,0,1,0,2,5,42,3,4,6,0,73,Soft Skill
+self starter,0,2,2,35,2,4,3,2,0,9,7,2,0,68,Soft Skill
+self-motivation,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Soft Skill
+self-sufficiency,0,0,0,0,0,0,0,0,0,0,2,0,0,2,Soft Skill
+skype,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Soft Skill
+social media,0,0,49,0,0,1,0,2,0,1,1,0,0,54,Soft Skill
+social skills,6,0,0,0,0,0,0,0,0,0,0,0,0,6,Soft Skill
+solutions focused,0,0,0,0,0,0,1,1,0,0,1,0,0,3,Soft Skill
+sorting,0,2,0,0,14,0,0,2,0,0,1,0,0,19,Soft Skill
+sourcing,0,4,4,0,5,0,21,2,0,3,2,1,0,42,Soft Skill
+spanish language,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Soft Skill
+spreadsheets,0,2,8,0,1,0,1,7,0,1,2,1,0,23,Soft Skill
+strategic thinking,0,0,0,0,1,1,0,1,0,0,1,0,0,4,Soft Skill
+success driven,0,0,2,0,0,0,0,0,0,0,0,0,0,2,Soft Skill
+support colleagues,0,0,0,0,0,0,0,0,0,0,0,0,6,6,Soft Skill
+teaching,12,0,0,7,0,0,1,1,0,0,2,7,0,30,Soft Skill
+team building,0,0,0,0,0,0,3,1,0,5,2,0,1,12,Soft Skill
+team leadership,9,2,2,1,3,1,0,3,3,6,4,0,0,34,Soft Skill
+team management,3,1,1,2,8,1,2,1,0,3,12,0,29,63,Soft Skill
+team motivation,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Soft Skill
+team oriented,0,5,0,1,15,2,2,1,0,0,2,7,0,35,Soft Skill
+team performance management,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Soft Skill
+teamwork,0,3,12,0,3,17,6,1,8,7,6,0,0,63,Soft Skill
+technical acumen,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Soft Skill
+technical curiosity,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Soft Skill
+telecommuting,0,0,0,0,0,0,0,25,0,0,0,0,0,25,Soft Skill
+telephone skills,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Soft Skill
+tenacity,4,0,0,0,0,0,0,0,0,0,1,0,0,5,Soft Skill
+time constraints,1,1,0,0,0,0,1,0,0,6,0,0,0,9,Soft Skill
+time management,13,6,2,1,4,4,5,3,0,1,7,0,0,46,Soft Skill
+timelines,0,12,4,0,2,1,8,5,4,0,3,7,0,46,Soft Skill
+training and development,0,1,0,0,0,0,0,0,0,0,0,0,1,2,Soft Skill
+transcribing,0,0,0,0,0,0,0,0,0,0,0,1,30,31,Soft Skill
+troubleshooting,13,7,1,6,16,22,13,0,0,29,7,0,0,114,Soft Skill
+typing,0,4,0,0,0,0,4,1,0,0,0,0,1,10,Soft Skill
+unpacking,0,0,0,0,0,0,0,0,37,0,1,0,0,38,Soft Skill
+verbal communication skills,10,3,0,2,1,4,9,4,0,2,9,1,0,45,Soft Skill
+virtual teams,0,0,0,0,0,5,0,0,0,0,0,0,0,5,Soft Skill
+visionary,0,0,0,0,1,0,0,0,0,0,1,0,0,2,Soft Skill
+web browsers,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Soft Skill
+writing,8,24,13,24,7,4,17,3,92,1,14,1,8,216,Soft Skill
+written communication,2,8,7,1,9,20,21,12,0,4,12,0,2,98,Soft Skill
+written english,0,0,0,1,0,3,0,0,0,1,1,0,0,6,Soft Skill
+.net framework,0,0,4,0,0,0,2,0,0,0,0,0,0,6,Hard Skill
+12factor,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+3d graphic design,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+3d modeling,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+3gpp,0,0,0,0,0,0,0,0,0,26,0,0,0,26,Hard Skill
+5g technology,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Hard Skill
+ab initio,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Hard Skill
+abaqus,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+academic achievement,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+acceptance test procedures,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+acceptance testing,0,1,0,0,1,2,4,0,0,0,0,0,0,8,Hard Skill
+access controls,0,1,1,0,0,0,1,0,0,0,1,0,0,4,Hard Skill
+access network,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+access project,0,0,0,0,0,0,0,1,0,0,1,0,0,2,Hard Skill
+account analysis,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Hard Skill
+account development,0,0,0,0,0,0,0,0,0,1,0,0,1,2,Hard Skill
+account management,11,0,0,6,2,2,2,1,0,0,2,0,1,27,Hard Skill
+accounting,0,8,3,2,5,14,1,2,0,1,1,4,0,41,Hard Skill
+accounting records,0,0,0,0,0,4,0,0,0,0,0,2,0,6,Hard Skill
+accounting softwares,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+accounts payable,0,0,0,0,0,3,0,1,0,0,0,0,2,6,Hard Skill
+accounts receivable,0,1,0,0,1,3,1,1,0,0,0,0,0,7,Hard Skill
+aceproject,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+acting,1,2,0,0,1,1,7,2,0,0,2,0,0,16,Hard Skill
+action research,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+active directory,0,0,0,0,0,4,0,0,0,0,0,0,0,4,Hard Skill
+active safety,0,0,0,0,0,0,9,0,0,0,0,0,0,9,Hard Skill
+activiti,0,0,0,0,0,0,47,0,0,0,0,0,0,47,Hard Skill
+actuarial science,0,0,0,0,1,0,0,1,0,0,0,0,0,2,Hard Skill
+acute care,0,5,0,0,2,0,0,5,0,0,0,0,0,12,Hard Skill
+ad serving,0,1,0,1,0,0,0,0,0,0,0,0,0,2,Hard Skill
+ad tracking,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+ada,0,0,0,0,1,0,11,0,0,1,1,0,0,14,Hard Skill
+ada compliance,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+additives,0,0,0,0,0,2,0,0,0,0,0,0,0,2,Hard Skill
+adjudication process,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+ado.net,0,0,0,1,0,0,0,1,0,0,0,0,0,2,Hard Skill
+ado.net,0,0,0,1,0,0,0,1,0,0,0,0,0,2,Hard Skill
+adobe creative suite,0,0,0,0,0,0,1,1,0,0,0,0,0,2,Hard Skill
+adobe illustrator,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+adobe photoshop,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Hard Skill
+adobe xd,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+adolescent medicine,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+adp vantage,15,1,6,1,15,18,5,13,0,0,4,0,0,78,Hard Skill
+adult education,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+advanced driver assistance systems,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+advanced mathematics,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+adverse event monitoring,0,2,0,0,0,0,0,0,0,0,0,0,0,2,Hard Skill
+advising,4,0,0,0,0,1,3,0,0,0,1,0,2,11,Hard Skill
+advisories,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+aerospace engineering,0,0,0,0,0,0,4,0,0,0,0,0,0,4,Hard Skill
+aerospike,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Hard Skill
+aftersales,1,0,0,0,0,0,1,0,0,0,0,0,0,2,Hard Skill
+agile management,0,0,0,3,0,1,0,0,0,0,0,0,0,4,Hard Skill
+agile methodology,0,0,3,21,0,1,1,2,0,0,0,0,0,28,Hard Skill
+agile product management,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+agile project management,0,0,0,3,0,0,1,0,0,0,1,0,0,5,Hard Skill
+agile projects,0,0,0,0,0,1,1,0,0,0,2,0,0,4,Hard Skill
+agile software development,0,0,3,0,1,0,2,1,0,0,2,0,0,9,Hard Skill
+agility,4,0,0,21,0,0,5,1,0,2,1,0,0,34,Hard Skill
+airflow,0,0,0,0,0,0,0,1,0,0,0,1,0,2,Hard Skill
+ajax,0,0,5,0,0,0,1,0,0,0,0,0,0,6,Hard Skill
+ajax.net,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+akka,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+algebra,0,0,4,0,0,0,0,0,0,0,0,0,0,4,Hard Skill
+algorithm design,0,0,0,0,0,0,3,0,0,0,1,0,0,4,Hard Skill
+algorithms,0,0,0,0,1,1,13,2,0,0,11,1,0,29,Hard Skill
+alterations,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+alteryx,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+amazon alexa,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+amazon connect,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+amazon elastic compute cloud,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+amazon lex,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+amazon marketplace,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+amazon redshift,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+amazon s3,0,0,0,0,0,0,0,0,0,0,2,0,0,2,Hard Skill
+amazon web services,0,0,0,0,0,0,0,0,0,0,15,0,0,15,Hard Skill
+ammunitions,0,0,0,0,0,0,0,0,0,0,0,2,0,2,Hard Skill
+ampl,0,0,0,0,0,0,5,0,0,0,0,0,0,5,Hard Skill
+analytical techniques,0,0,0,0,0,1,0,1,0,0,0,0,0,2,Hard Skill
+analytical thinking,0,0,0,0,2,0,0,0,0,0,1,0,0,3,Hard Skill
+analytics,0,6,10,2,11,14,6,9,0,15,11,1,2,87,Hard Skill
+anaplan,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+anatomy,0,0,1,0,0,0,0,2,0,0,0,0,0,3,Hard Skill
+android development,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Hard Skill
+android sdk,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+android testing,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Hard Skill
+anesthesias,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Hard Skill
+angular,0,0,0,1,0,7,7,3,0,0,2,0,0,20,Hard Skill
+animations,0,0,0,0,0,0,1,0,0,0,1,0,0,2,Hard Skill
+annual enrollments,0,0,0,0,1,0,2,0,0,0,0,0,0,3,Hard Skill
+anomaly detection,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+ansi c,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+ansible,0,0,0,14,2,8,0,0,0,2,0,0,0,26,Hard Skill
+antenna,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+anthropology,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+anti-patterns,0,0,0,0,0,0,3,0,0,0,0,0,0,3,Hard Skill
+apache cassandra,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+apache flink,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+apache hadoop,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+apache hbase,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+apache hive,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+apache kafka,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Hard Skill
+apache pulsar,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+apache spark,0,0,0,0,0,0,1,0,0,0,2,1,0,4,Hard Skill
+apache storm,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+apache tomcat,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+api design,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+api gateway,0,0,3,0,0,0,0,0,0,0,1,0,0,4,Hard Skill
+api management,0,0,0,0,0,1,1,0,0,0,0,0,0,2,Hard Skill
+appdynamics,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+appeals,0,1,4,0,0,0,2,0,0,0,0,0,0,7,Hard Skill
+appium,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Hard Skill
+apple products,22,0,0,0,0,0,0,0,0,0,0,0,0,22,Hard Skill
+appleshare,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+applicant tracking systems,0,1,3,0,0,0,0,0,0,0,0,0,0,4,Hard Skill
+application client,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+application data,0,1,1,0,0,0,2,0,0,0,1,0,0,5,Hard Skill
+application deployment,0,0,0,1,82,0,0,0,0,0,0,0,0,83,Hard Skill
+application environments,0,0,0,1,0,0,0,0,0,0,1,0,0,2,Hard Skill
+application firewall,0,0,3,0,1,0,0,0,0,0,0,0,0,4,Hard Skill
+application frameworks,0,0,3,0,0,0,0,0,0,0,0,0,0,3,Hard Skill
+application integration architecture,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+application layers,0,0,0,0,0,0,1,0,0,0,1,0,0,2,Hard Skill
+application lifecycle management,0,1,0,0,0,2,0,0,0,0,0,0,0,3,Hard Skill
+application security,0,0,1,0,1,0,1,0,0,0,2,0,0,5,Hard Skill
+application servers,0,0,0,0,0,1,1,0,0,0,1,0,0,3,Hard Skill
+application services,0,1,3,0,0,0,1,2,0,0,0,0,0,7,Hard Skill
+application streaming,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+application testing,0,0,2,0,0,0,0,0,0,0,0,1,0,3,Hard Skill
+applications architecture,0,2,0,22,0,1,1,2,0,0,1,0,0,29,Hard Skill
+applied mathematics,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+applied mechanics,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+appraisals,0,0,2,0,0,0,0,0,0,0,0,0,2,4,Hard Skill
+arbitration,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+architectural development,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+architectural engineering,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+architectural models,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+architecture analysis,0,0,0,0,0,2,0,0,0,0,0,0,0,2,Hard Skill
+architecture framework,0,0,3,0,0,0,0,0,0,0,0,0,0,3,Hard Skill
+arity,0,0,0,0,0,0,18,0,0,0,0,0,0,18,Hard Skill
+arping,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+art direction,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+article,0,0,0,0,0,0,0,0,0,0,0,0,2,2,Hard Skill
+articulate storyline,0,0,0,0,0,0,0,1,0,0,1,0,0,2,Hard Skill
+artifactory,0,0,0,0,0,0,4,0,0,0,0,0,0,4,Hard Skill
+artificial intelligence,0,0,0,0,0,1,0,1,0,11,7,0,0,20,Hard Skill
+artwork,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+asic programming language,0,0,0,0,0,0,0,2,0,0,1,0,0,3,Hard Skill
+asp.net,0,0,0,1,0,0,0,1,0,0,0,0,0,2,Hard Skill
+asp.net,0,0,0,1,0,0,0,1,0,0,0,0,0,2,Hard Skill
+assembly lines,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+asset protection,0,0,0,0,0,0,0,0,84,0,0,0,2,86,Hard Skill
+asset tracking,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+assisted living,0,0,0,0,0,0,0,7,0,0,0,0,0,7,Hard Skill
+association management,0,0,0,0,0,0,0,0,0,3,0,0,0,3,Hard Skill
+astyle,0,0,0,0,0,0,0,0,0,0,0,6,0,6,Hard Skill
+asynchronous javascript,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+atoll,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Hard Skill
+atscale,0,0,0,1,0,0,0,0,0,6,0,0,0,7,Hard Skill
+attachmate extra,0,0,0,0,0,2,0,0,0,0,0,0,0,2,Hard Skill
+audio signal processing,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+audit risk,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+auditing,0,5,3,0,1,1,0,4,0,0,2,0,0,16,Hard Skill
+auditing standards,0,0,2,0,0,0,0,0,0,0,0,0,0,2,Hard Skill
+aurora,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+authentication protocols,0,0,0,0,0,3,0,0,0,0,0,0,0,3,Hard Skill
+authentications,0,0,7,0,0,8,0,1,0,1,3,0,0,20,Hard Skill
+authorization,0,3,6,0,14,2,1,7,0,3,1,1,0,38,Hard Skill
+authorization certificates,0,0,3,0,0,0,0,0,0,0,0,0,0,3,Hard Skill
+autocad,0,0,0,0,0,0,1,0,0,0,1,0,0,2,Hard Skill
+automake,0,0,0,0,0,0,14,0,0,0,0,0,0,14,Hard Skill
+automated testing framework,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+automation,0,2,6,9,18,13,18,10,4,23,16,1,0,120,Hard Skill
+automation controls,0,0,0,0,0,0,1,0,0,0,1,0,0,2,Hard Skill
+automotive design,0,0,0,0,0,0,4,0,0,0,0,0,0,4,Hard Skill
+automotive engineering,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+automotive industry,0,0,0,0,0,0,20,0,0,0,0,1,0,21,Hard Skill
+automotive manufacturing,0,0,0,0,0,0,3,0,0,0,0,0,0,3,Hard Skill
+automotive services,0,0,0,0,0,0,1,0,0,0,0,1,0,2,Hard Skill
+autonomous system,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+autonomous vehicles,0,0,0,0,0,0,6,0,0,0,1,0,0,7,Hard Skill
+avg,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+aviation,0,0,0,0,0,3,0,0,0,0,0,0,0,3,Hard Skill
+aws amplify,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+aws key management service,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+aws lambda,0,0,0,0,0,1,0,0,0,0,1,0,0,2,Hard Skill
+aws sagemaker,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+azure cloud services,0,0,3,0,0,0,0,0,0,0,0,0,0,3,Hard Skill
+azure databricks,0,0,3,0,0,0,0,0,0,0,0,0,0,3,Hard Skill
+azure devops,0,0,7,0,0,12,5,0,0,0,0,0,0,24,Hard Skill
+azure kubernetes service,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+azuread,0,0,3,0,0,0,0,0,0,0,0,0,0,3,Hard Skill
+b,0,0,3,0,5,1,0,3,0,1,1,0,0,14,Hard Skill
+back end,0,0,0,0,1,2,4,1,0,0,3,2,0,13,Hard Skill
+backlogs,0,0,0,0,0,0,3,0,0,0,0,0,0,3,Hard Skill
+balance sheet,0,0,0,0,1,3,0,0,0,0,0,0,0,4,Hard Skill
+balancing,0,0,0,0,1,2,3,2,0,4,2,1,1,16,Hard Skill
+bandsaws,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+barcodes,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+bargaining,0,0,0,0,2,1,3,0,0,0,0,0,30,36,Hard Skill
+baseband,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+bash,0,0,0,0,0,7,0,0,0,0,0,0,0,7,Hard Skill
+basic a+,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+basic first aid,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+basic life support,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Hard Skill
+baton,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+batteries,0,0,0,0,0,0,2,0,0,0,0,1,0,3,Hard Skill
+battery pack,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+battery technology,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+behavioral health,0,0,0,0,0,0,0,12,0,0,1,0,0,13,Hard Skill
+behavioral science,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+benchmarking,0,0,0,0,0,0,4,0,0,0,0,0,0,4,Hard Skill
+benefits administration,0,0,1,0,1,0,0,0,0,0,0,0,0,2,Hard Skill
+best execution,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+bid management,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+bidding,0,0,0,0,0,1,0,0,0,0,1,0,0,2,Hard Skill
+big data,0,0,0,27,0,3,4,4,0,13,6,1,0,58,Hard Skill
+big ip,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+bilingual,0,10,4,0,4,0,0,28,0,0,2,0,2,50,Hard Skill
+billing,0,0,3,1,2,3,1,7,0,0,3,0,2,22,Hard Skill
+billing systems,0,0,0,0,0,0,0,1,0,0,3,0,0,4,Hard Skill
+bind,0,0,4,0,0,0,0,0,0,0,0,0,0,4,Hard Skill
+biomedical engineering,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+biometrics,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+biopharmaceuticals,0,2,0,0,3,0,0,0,0,0,0,0,0,5,Hard Skill
+biostatistics,0,2,0,0,0,0,0,0,0,0,0,0,0,2,Hard Skill
+biotechnology,0,10,0,0,1,0,0,0,0,0,0,0,0,11,Hard Skill
+birth certificates,0,0,0,0,0,2,0,0,0,0,0,0,0,2,Hard Skill
+bitbucket,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+blended learning,0,0,0,0,0,0,0,1,0,0,1,0,0,2,Hard Skill
+blogs,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+blood pressure,0,0,0,0,0,0,0,0,3,0,0,1,0,4,Hard Skill
+bluetooth,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+boilers,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+booking,3,3,0,0,0,0,0,0,0,0,0,0,0,6,Hard Skill
+bookkeeping,0,0,0,0,0,0,0,0,17,0,0,0,0,17,Hard Skill
+boost,1,0,0,0,0,0,1,0,0,0,0,0,0,2,Hard Skill
+boosting,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+boot loaders,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+bootstrap,0,0,3,0,0,0,0,1,0,0,0,0,0,4,Hard Skill
+brake,0,0,0,0,0,0,3,0,0,0,0,0,0,3,Hard Skill
+brand awareness,0,0,0,0,0,0,0,1,0,0,1,0,0,2,Hard Skill
+brand management,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+brand marketing,0,0,0,0,2,0,0,0,0,0,1,0,0,3,Hard Skill
+brand strategy,0,0,5,0,0,0,1,0,0,0,0,0,0,6,Hard Skill
+branding,0,0,3,0,0,0,0,1,0,0,2,0,0,6,Hard Skill
+brazing,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+bridge building,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Hard Skill
+bridges,0,0,0,0,0,0,0,0,0,4,0,0,0,4,Hard Skill
+broadband,0,0,0,2,0,0,0,0,0,0,2,0,0,4,Hard Skill
+browser compatibility,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+browserstack,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Hard Skill
+budget process,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+budget support,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+budgeting,0,1,0,0,1,0,0,1,0,6,1,3,0,13,Hard Skill
+build automation,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+build events,0,0,0,0,0,0,1,0,4,0,0,0,0,5,Hard Skill
+build pipeline,0,0,0,0,0,0,1,0,0,1,0,0,0,2,Hard Skill
+build process,0,0,0,1,0,2,2,0,0,0,2,0,0,7,Hard Skill
+build tools,0,0,0,1,0,0,0,0,0,0,1,1,0,3,Hard Skill
+building automation,0,0,0,0,0,0,0,0,0,0,3,0,0,3,Hard Skill
+building automation systems,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+building design,0,0,0,0,0,0,1,0,0,2,0,0,0,3,Hard Skill
+building management,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+building performance,0,0,0,0,0,0,0,0,0,0,0,0,22,22,Hard Skill
+buildout,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+bullet,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Hard Skill
+business acquisition,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Hard Skill
+business analysis,0,3,2,0,1,3,1,1,0,0,2,1,0,14,Hard Skill
+business analytics,0,4,0,0,1,0,1,0,0,3,2,0,0,11,Hard Skill
+business case,0,2,0,0,1,0,3,0,0,0,4,1,0,11,Hard Skill
+business communication,0,0,0,0,0,0,0,1,0,1,0,3,0,5,Hard Skill
+business continuity,0,2,3,0,1,4,0,0,0,0,1,0,0,11,Hard Skill
+business correspondence,0,0,15,0,0,0,0,0,0,0,0,0,0,15,Hard Skill
+business development,12,2,2,0,4,0,2,1,0,0,8,0,1,32,Hard Skill
+business directory,0,0,3,0,0,0,0,2,0,0,1,0,0,6,Hard Skill
+business economics,0,0,0,0,1,7,0,0,0,0,2,0,0,10,Hard Skill
+business education,2,1,0,0,0,0,0,0,0,0,0,0,0,3,Hard Skill
+business english,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+business events,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+business excellence,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+business information system,0,3,0,0,0,0,0,0,0,0,0,0,0,3,Hard Skill
+business intelligence,0,3,2,1,1,0,2,1,0,3,4,0,0,17,Hard Skill
+business intelligence development,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+business intelligence tools,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+business law,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+business liaison,0,1,0,0,2,0,1,0,0,0,1,0,0,5,Hard Skill
+business logic,0,0,0,0,0,0,0,1,0,0,1,0,0,2,Hard Skill
+business marketing,1,0,0,0,0,0,0,0,0,0,3,0,0,4,Hard Skill
+business mathematics,0,0,0,0,0,3,0,0,0,0,0,0,0,3,Hard Skill
+business model,0,0,2,1,1,0,0,0,0,3,3,0,0,10,Hard Skill
+business objects processing framework,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+business partnering,0,1,0,0,1,1,2,0,0,0,1,0,0,6,Hard Skill
+business performance management,0,0,0,0,0,0,0,0,4,0,0,0,0,4,Hard Skill
+business planning,0,2,0,0,1,0,0,2,4,0,1,0,0,10,Hard Skill
+business priorities,0,3,0,9,0,1,0,1,0,0,3,3,0,20,Hard Skill
+business process,0,4,0,1,0,2,6,4,0,1,2,0,0,20,Hard Skill
+business process improvement,0,1,0,1,0,0,0,0,0,1,0,0,0,3,Hard Skill
+business process management,0,0,0,0,0,0,1,0,0,1,0,0,0,2,Hard Skill
+business process modeling,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+business process outsourcing,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+business reporting,0,0,0,1,0,2,0,1,0,0,0,0,0,4,Hard Skill
+business requirements,0,7,4,2,1,4,7,9,0,9,5,1,0,49,Hard Skill
+business science,0,0,0,0,0,0,0,0,0,3,0,2,0,5,Hard Skill
+business sense,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+business software,0,1,0,0,1,1,1,0,0,0,3,0,0,7,Hard Skill
+business statistics,0,1,4,0,0,0,0,0,0,0,0,0,0,5,Hard Skill
+business strategies,0,1,3,1,0,0,0,0,0,3,0,2,0,10,Hard Skill
+business studies,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+business systems,0,3,0,1,0,2,16,1,0,6,1,0,0,30,Hard Skill
+business technologies,2,0,0,0,0,0,0,0,0,0,1,0,0,3,Hard Skill
+business to business,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Hard Skill
+business transformation,12,0,0,0,0,1,0,1,0,9,0,0,0,23,Hard Skill
+business writing,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+c,0,0,5,11,2,9,25,7,0,0,17,0,0,76,Hard Skill
+c#,0,0,5,11,2,9,21,7,0,0,17,0,0,72,Hard Skill
+c++,0,0,5,11,2,9,21,7,0,0,17,0,0,72,Hard Skill
+calculations,0,0,1,0,0,0,1,1,0,0,0,0,0,3,Hard Skill
+calibration,0,1,0,0,0,0,12,0,0,0,0,0,0,13,Hard Skill
+calipers,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+call centers,0,4,7,0,0,0,2,11,0,1,3,0,2,30,Hard Skill
+call flow,0,0,0,0,0,0,0,0,0,28,0,0,0,28,Hard Skill
+canalyzer,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+cancer,0,0,0,0,1,0,0,1,0,0,0,0,0,2,Hard Skill
+cancer treatments,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+candidate key,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+capability development,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+capacity management,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+capacity planning,0,0,0,0,2,0,0,0,0,2,0,0,0,4,Hard Skill
+capacity utilization,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+capital assets,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+capital expenditure,0,0,0,0,0,0,0,0,0,3,0,0,0,3,Hard Skill
+cardiology,0,0,0,0,0,0,0,10,0,0,0,0,0,10,Hard Skill
+cardiopulmonary resuscitation,0,0,0,0,0,0,0,1,0,0,0,1,0,2,Hard Skill
+cardiovascular disease,0,0,0,0,0,0,0,7,0,0,0,0,0,7,Hard Skill
+care coordination,0,0,0,0,0,0,0,6,0,0,0,0,0,6,Hard Skill
+care planning,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+career development,0,0,0,0,1,4,2,0,0,3,6,1,0,17,Hard Skill
+carsim,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+case analysis,0,1,3,5,0,5,9,1,0,2,1,1,0,28,Hard Skill
+case management,0,3,2,0,2,1,0,6,0,0,3,0,1,18,Hard Skill
+case management systems,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+casecomplete,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+cash flows,0,0,0,0,0,0,0,0,0,3,0,0,0,3,Hard Skill
+cash handling,0,0,0,0,0,0,0,0,16,0,0,0,35,51,Hard Skill
+cash management,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+cash register,0,0,0,0,0,0,0,0,88,0,0,19,2,109,Hard Skill
+casting,0,0,0,0,0,0,3,0,0,0,0,0,0,3,Hard Skill
+casualty insurance,0,0,4,0,0,0,0,0,0,0,0,0,0,4,Hard Skill
+catalogues,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+cataloguing,0,0,0,0,0,1,0,0,0,0,1,0,0,2,Hard Skill
+catalyst,0,0,0,0,15,0,0,1,0,1,0,0,0,17,Hard Skill
+category development,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+category growth,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+category management,0,0,0,0,2,1,0,0,0,0,0,0,0,3,Hard Skill
+category strategy,0,0,0,0,2,0,0,0,0,3,0,0,0,5,Hard Skill
+cath lab,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Hard Skill
+causal inference,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+central venous catheter,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+cfile,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+chain drive,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+chain linking,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+change control,0,0,0,0,1,0,3,0,0,2,1,0,0,7,Hard Skill
+change management,0,3,0,10,5,11,3,1,0,1,4,1,0,39,Hard Skill
+change request,0,1,0,3,2,3,2,0,0,0,0,0,0,11,Hard Skill
+changeset,0,0,0,0,0,0,0,1,0,6,0,0,0,7,Hard Skill
+chassis,0,0,0,0,0,0,6,0,0,0,0,0,0,6,Hard Skill
+chatbot,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+chef,0,0,0,0,1,1,1,2,0,1,1,0,0,7,Hard Skill
+chemical engineering,0,0,0,0,0,2,2,0,0,0,0,0,0,4,Hard Skill
+chemistry,0,0,0,0,0,3,3,0,0,0,2,0,0,8,Hard Skill
+chilled water,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+chiropractics,0,0,0,0,0,0,0,2,0,0,0,0,0,2,Hard Skill
+chronic care,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+circuit design,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+cisco firepower,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+cisco nexus switches,0,0,0,0,2,0,0,0,0,0,0,0,0,2,Hard Skill
+civil engineering,0,0,0,0,0,2,1,0,0,0,0,0,0,3,Hard Skill
+claim processing,0,0,0,0,0,0,0,5,0,0,0,0,0,5,Hard Skill
+class a surfaces,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+class design,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+client services,0,1,7,0,0,0,0,1,0,3,0,0,1,13,Hard Skill
+clinical assessments,0,0,0,0,0,0,0,3,0,0,0,0,0,3,Hard Skill
+clinical consulting,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+clinical monitoring,0,2,0,0,0,0,0,1,0,0,0,0,0,3,Hard Skill
+clinical nursing,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Hard Skill
+clinical pharmacy,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+clinical practices,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+clinical research,0,3,0,0,1,0,0,1,0,0,0,0,0,5,Hard Skill
+clinical social work,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+clinical supervision,0,0,0,0,0,0,0,2,0,0,0,0,0,2,Hard Skill
+clinical trials,0,0,0,0,2,0,0,1,0,0,0,0,0,3,Hard Skill
+closed loop,0,0,0,0,0,0,2,0,0,2,0,0,0,4,Hard Skill
+closing,0,1,3,0,0,1,0,1,7,26,2,0,56,97,Hard Skill
+cloud applications,0,0,0,1,0,2,1,1,0,0,1,0,0,6,Hard Skill
+cloud computing,0,0,0,0,0,0,0,0,0,6,10,0,0,16,Hard Skill
+cloud computing security,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Hard Skill
+cloud database,0,0,2,0,0,0,0,0,0,0,0,0,0,2,Hard Skill
+cloud development,0,0,0,0,0,1,2,1,0,0,0,0,0,4,Hard Skill
+cloud engineering,0,0,0,0,0,0,1,0,0,0,1,0,0,2,Hard Skill
+cloud formation,0,1,0,0,0,0,0,0,0,0,2,0,0,3,Hard Skill
+cloud foundry,0,0,0,0,0,0,3,0,0,0,0,0,0,3,Hard Skill
+cloud hosting,0,1,0,0,0,0,0,1,0,0,0,0,0,2,Hard Skill
+cloud infrastructure,0,0,0,4,1,0,3,0,0,0,2,0,0,10,Hard Skill
+cloud migration,0,0,3,0,0,0,0,0,0,0,0,0,0,3,Hard Skill
+cloud operations,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+cloud services,0,1,3,0,0,1,0,0,0,1,5,0,0,11,Hard Skill
+cloud storage,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+cloud technologies,0,0,2,0,0,5,0,2,0,0,3,1,0,13,Hard Skill
+cloud-native architecture,0,0,0,0,0,2,0,0,0,0,0,0,0,2,Hard Skill
+cloudfoundry,0,0,0,0,0,0,3,0,0,0,0,0,0,3,Hard Skill
+code coverage,0,0,6,0,0,0,0,1,0,0,0,0,0,7,Hard Skill
+code generation,0,0,0,0,0,0,3,0,0,0,0,0,0,3,Hard Skill
+code refactoring,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+code reuse,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+code review,0,0,10,2,0,0,5,2,0,1,10,0,0,30,Hard Skill
+code structure,0,0,0,2,0,0,0,0,0,0,0,1,0,3,Hard Skill
+code testing,0,0,0,21,0,0,0,0,0,0,0,0,0,21,Hard Skill
+cognitive psychology,0,0,0,0,1,0,0,0,0,0,1,0,0,2,Hard Skill
+cognitive science,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+cold calling,0,0,0,7,0,0,0,0,0,1,1,1,0,10,Hard Skill
+cold chain,0,0,0,0,0,0,0,1,0,0,0,11,0,12,Hard Skill
+collections,0,10,1,0,3,4,2,6,26,0,6,1,0,59,Hard Skill
+collective bargaining,0,0,0,0,2,1,3,0,0,0,0,0,30,36,Hard Skill
+comit,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+commercialization,0,2,0,0,3,0,0,0,0,0,0,0,0,5,Hard Skill
+commissioning,0,0,0,0,0,2,0,0,0,0,1,0,0,3,Hard Skill
+commodity trading,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+common controls,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+communication planning,0,0,0,4,0,0,1,0,0,0,0,0,0,5,Hard Skill
+communication strategies,0,0,0,0,4,0,0,0,0,0,0,0,0,4,Hard Skill
+communications management,0,0,0,0,2,1,1,0,0,18,1,0,0,23,Hard Skill
+communications protocols,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+communications server,0,0,0,0,0,0,0,0,17,0,0,0,0,17,Hard Skill
+communications systems,0,0,0,0,0,0,0,1,0,0,1,0,0,2,Hard Skill
+communications training,0,1,0,0,1,1,0,0,0,0,0,0,0,3,Hard Skill
+community design,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+community health,0,0,0,0,0,1,0,7,0,0,0,0,0,8,Hard Skill
+community marketing,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+community mental health,0,0,0,0,0,0,0,4,0,0,0,0,0,4,Hard Skill
+community sustainability,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Hard Skill
+company structure,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+comparative analysis,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+compensation analysis,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+compensation management,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+competitive analysis,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+competitive intelligence,0,0,2,0,1,0,0,0,0,0,0,0,0,3,Hard Skill
+complex sales,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Hard Skill
+compliance requirements,0,0,0,0,0,0,0,0,0,0,2,0,0,2,Hard Skill
+compliance training,0,0,2,0,0,0,0,0,0,0,0,0,0,2,Hard Skill
+component design,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+component engineering,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+component services,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+composites,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+compression,0,0,0,0,2,0,0,0,0,0,1,0,0,3,Hard Skill
+compressors,0,0,0,0,7,1,2,0,0,0,0,0,0,10,Hard Skill
+computer animation,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+computer design,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+computer engineering,0,1,1,1,0,4,16,0,0,10,7,0,0,40,Hard Skill
+computer forensics,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+computer graphics,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+computer programming,0,1,0,0,0,0,1,0,0,0,0,0,0,2,Hard Skill
+computer science,0,26,22,35,2,9,30,3,0,45,30,3,0,205,Hard Skill
+computer security,0,0,0,2,0,0,1,0,0,0,1,0,0,4,Hard Skill
+computer systems,0,5,3,0,3,0,2,4,0,0,0,0,0,17,Hard Skill
+computer vision,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+computerized maintenance management systems,0,0,0,0,0,0,0,0,0,0,0,2,0,2,Hard Skill
+computing platforms,0,0,0,0,0,0,0,1,0,0,1,0,0,2,Hard Skill
+concept testing,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+conceptual design,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+conceptual framework,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+conceptualization,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+concussion management,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+condensers,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+configuration design,0,1,0,0,0,1,0,0,0,2,0,0,0,4,Hard Skill
+configuration management,0,0,0,0,0,1,3,0,0,0,2,0,0,6,Hard Skill
+conflict management,0,0,0,0,0,0,2,1,0,0,0,0,0,3,Hard Skill
+conflict resolution,0,0,2,0,1,3,6,1,0,12,0,0,0,25,Hard Skill
+connect-direct,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+connected devices,0,0,0,1,0,0,0,0,0,0,1,0,0,2,Hard Skill
+consignment,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+console applications,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Hard Skill
+consolidation,0,1,0,0,0,1,0,0,0,0,1,0,0,3,Hard Skill
+constant contact,9,0,0,0,0,0,0,0,0,0,0,0,0,9,Hard Skill
+construction engineering,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+construction management,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+consultative selling,0,0,0,2,0,0,1,0,0,1,0,0,0,4,Hard Skill
+consumables,1,0,0,0,0,0,0,0,56,0,1,0,0,58,Hard Skill
+consumer privacy,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+contact centre,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+contact lenses,0,0,0,0,0,0,0,0,0,0,0,4,0,4,Hard Skill
+contact manager,1,0,0,0,1,0,0,0,0,0,0,0,0,2,Hard Skill
+containerization,0,0,4,0,2,2,2,0,0,0,0,0,0,10,Hard Skill
+content design,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+content development,0,1,0,0,0,0,0,0,0,0,1,0,0,2,Hard Skill
+content management,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Hard Skill
+content marketing,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+contingency plan,0,1,0,0,0,0,1,1,0,0,0,0,0,3,Hard Skill
+contingent workforce,0,0,0,0,0,0,0,0,0,3,0,0,0,3,Hard Skill
+continuing medical education,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+continuous availability,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+continuous delivery,0,2,0,0,0,2,2,3,0,0,0,0,0,9,Hard Skill
+continuous improvement process,0,0,0,0,1,2,2,0,0,0,0,0,0,5,Hard Skill
+continuous integration,0,0,3,5,0,4,6,3,0,0,1,0,0,22,Hard Skill
+continuous quality improvement,0,2,0,0,0,0,0,1,4,0,0,0,0,7,Hard Skill
+continuous training,0,0,0,0,0,1,0,0,0,0,0,0,1,2,Hard Skill
+contract lifecycle management,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+contract management,4,0,0,0,0,2,0,2,0,3,1,0,0,12,Hard Skill
+contract manufacturing,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+contract negotiation,0,0,0,0,2,1,2,0,0,1,0,0,0,6,Hard Skill
+contractor management,0,0,0,0,0,2,0,2,0,3,1,0,0,8,Hard Skill
+contraindication,0,0,0,0,0,0,0,0,7,0,0,0,0,7,Hard Skill
+control arm,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+control engineering,0,0,0,0,0,0,6,0,0,0,0,0,0,6,Hard Skill
+control networks,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+control systems,0,0,2,0,3,0,10,1,0,0,1,0,0,17,Hard Skill
+conveyor systems,0,0,0,0,2,0,2,0,0,0,0,0,0,4,Hard Skill
+cooking,0,0,0,0,0,2,0,0,0,0,0,0,0,2,Hard Skill
+cooling systems,0,0,0,0,0,0,2,0,0,0,1,0,0,3,Hard Skill
+coordinate systems,0,0,0,0,0,0,3,1,0,0,0,0,0,4,Hard Skill
+copywriting,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+corda,0,0,0,0,0,0,11,0,0,0,0,0,0,11,Hard Skill
+core services,0,0,0,0,0,0,0,0,0,0,2,0,0,2,Hard Skill
+corporate communications,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+corporate finance,0,0,0,0,0,1,0,0,0,0,0,1,0,2,Hard Skill
+corporate laws,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Hard Skill
+corporate services,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+corporate strategy,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+corrective maintenance,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+cosmetology,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Hard Skill
+cost containment,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+cost engineering,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+cost reduction,0,0,0,0,0,0,4,0,0,0,1,0,0,5,Hard Skill
+cost structures,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+counters,0,0,0,0,0,0,0,1,43,0,0,0,0,44,Hard Skill
+coupa,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Hard Skill
+coupling,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+cpt coding,0,0,0,0,0,0,0,5,0,0,0,0,0,5,Hard Skill
+crane rigging,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+crankcase,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+crash reports,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Hard Skill
+creational patterns,0,0,0,0,0,2,0,0,0,0,0,0,0,2,Hard Skill
+creative brief,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+credit reports,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+credit risk,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+crf++,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+criminal justice,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+crisis management,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+critical care,0,5,0,0,0,0,0,0,0,6,0,0,0,11,Hard Skill
+cron,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+crossover,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+crypto++,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+cryptography,0,0,0,0,0,0,0,0,0,0,5,0,0,5,Hard Skill
+crystal reports,0,2,0,0,0,0,0,0,0,0,0,0,0,2,Hard Skill
+cucumber,0,0,0,0,0,2,0,2,0,0,0,0,0,4,Hard Skill
+curl,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+custom component,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+customer analysis,1,0,0,1,1,0,0,0,0,0,0,0,0,3,Hard Skill
+customer analytics,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+customer development,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+customer insight,6,0,0,0,0,3,0,0,0,0,1,0,0,10,Hard Skill
+customer relationship building,1,0,0,0,1,0,0,0,0,0,0,0,0,2,Hard Skill
+customer relationship management,2,0,0,0,1,0,0,0,0,0,1,0,0,4,Hard Skill
+customer retention,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+customer satisfaction,0,3,0,0,3,3,2,2,0,0,1,4,0,18,Hard Skill
+customer success,1,0,0,0,0,0,0,0,0,0,2,0,0,3,Hard Skill
+customer support,17,2,0,5,2,1,2,1,7,0,5,0,38,80,Hard Skill
+cyber defense,0,0,0,0,0,0,0,0,0,3,0,0,0,3,Hard Skill
+cyber resilience,0,0,0,0,0,0,0,0,0,3,0,0,0,3,Hard Skill
+cyber security,0,1,3,8,0,5,5,1,0,3,0,0,0,26,Hard Skill
+cyber security strategy,0,0,0,0,0,0,0,0,0,3,0,0,0,3,Hard Skill
+cycle counting,0,11,0,0,0,0,1,0,0,0,0,0,0,12,Hard Skill
+damping,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+dari,0,0,0,0,0,0,3,0,0,0,0,0,0,3,Hard Skill
+dashboard,0,2,2,9,4,1,4,0,0,0,6,1,0,29,Hard Skill
+data acquisition,0,0,0,1,0,0,1,0,0,0,0,1,0,3,Hard Skill
+data analysis,0,5,0,1,3,2,4,11,0,11,7,2,0,46,Hard Skill
+data architecture,0,0,0,0,0,2,0,0,0,0,2,0,0,4,Hard Skill
+data auditing,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+data centers,0,0,0,2,2,0,1,0,0,1,4,0,0,10,Hard Skill
+data class,0,0,0,0,0,0,1,0,0,0,0,1,0,2,Hard Skill
+data collection,0,7,0,0,0,3,2,2,0,0,4,0,0,18,Hard Skill
+data compilation,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+data control,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+data conversion,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Hard Skill
+data dictionary,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+data discovery,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+data domain,0,1,0,0,0,0,1,0,0,0,0,0,0,2,Hard Skill
+data element,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+data engineering,0,0,0,0,0,0,0,1,0,3,2,1,0,7,Hard Skill
+data extraction,0,0,0,0,0,2,0,2,0,0,1,0,0,5,Hard Skill
+data files,0,1,0,0,0,2,2,0,0,0,0,0,0,5,Hard Skill
+data governance,0,1,5,0,0,1,1,2,0,0,0,1,0,11,Hard Skill
+data infrastructure,0,0,0,1,0,0,2,2,0,0,0,1,0,6,Hard Skill
+data ingestion,0,0,2,2,0,3,0,1,0,0,0,0,0,8,Hard Skill
+data integration,0,0,0,0,0,2,5,0,0,0,0,1,0,8,Hard Skill
+data integrity,0,4,1,0,0,2,0,4,0,0,1,0,0,12,Hard Skill
+data intelligence,0,1,0,0,0,0,1,0,0,0,3,0,0,5,Hard Skill
+data interfaces,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+data lakes,0,1,2,1,0,1,1,1,0,0,4,0,0,11,Hard Skill
+data loss prevention,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+data maintenance,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+data management,0,2,10,2,1,3,1,2,0,1,2,0,0,24,Hard Skill
+data manipulation,0,0,0,0,1,0,0,1,0,0,0,0,0,2,Hard Skill
+data mapping,0,0,0,0,0,0,0,2,0,0,0,0,0,2,Hard Skill
+data mart,0,0,5,0,0,0,0,0,0,0,0,0,0,5,Hard Skill
+data migration,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+data mining,0,1,0,0,0,0,0,2,0,3,2,0,0,8,Hard Skill
+data modeling,0,1,0,0,0,5,3,2,0,0,2,1,0,14,Hard Skill
+data normalization,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+data pipeline,0,0,0,2,0,3,1,0,0,0,3,1,0,10,Hard Skill
+data preprocessing,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+data presentation,0,0,2,0,0,0,0,0,0,0,0,0,0,2,Hard Skill
+data privacy laws,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+data processing,0,2,0,0,0,0,2,1,0,0,1,1,0,7,Hard Skill
+data processing systems,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+data profiling,0,1,0,0,0,0,1,0,0,0,0,0,0,2,Hard Skill
+data quality,0,2,2,0,0,2,2,1,0,0,0,0,0,9,Hard Skill
+data retrieval,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+data science,0,1,0,2,1,4,1,2,0,9,6,0,0,26,Hard Skill
+data security,0,1,3,0,0,2,0,3,0,0,0,0,0,9,Hard Skill
+data sharing,3,0,0,0,0,0,0,0,0,0,0,0,0,3,Hard Skill
+data steward,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+data store,0,1,7,0,0,0,2,1,0,0,2,0,0,13,Hard Skill
+data streaming,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+data structures,0,0,0,0,0,1,5,2,0,0,6,0,0,14,Hard Skill
+data system,0,2,2,1,0,1,1,1,0,0,1,0,0,9,Hard Skill
+data transformation,0,1,0,0,0,0,0,1,0,0,0,0,0,2,Hard Skill
+data validation,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+data verification,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+data visualization,0,0,0,0,3,3,1,1,0,6,2,0,0,16,Hard Skill
+data warehouse architectures,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Hard Skill
+data warehousing,0,1,0,1,0,0,1,2,0,6,2,0,0,13,Hard Skill
+data wrangling,0,0,0,1,0,0,0,0,0,0,1,0,0,2,Hard Skill
+database administration,0,1,0,1,0,0,0,0,0,0,0,0,0,2,Hard Skill
+database application,0,0,1,23,0,1,0,0,0,0,0,0,0,25,Hard Skill
+database design,0,2,0,2,0,2,0,1,0,8,0,0,0,15,Hard Skill
+database development,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+database management systems,0,0,0,1,0,0,1,1,0,0,0,0,0,3,Hard Skill
+database mirroring,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+database models,0,0,2,0,0,0,0,0,0,0,0,0,0,2,Hard Skill
+database queries,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+database security,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+database servers,0,0,0,0,0,0,1,1,0,0,0,0,0,2,Hard Skill
+database systems,0,2,11,0,0,0,0,2,0,0,0,0,0,15,Hard Skill
+database tuning,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+databricks,0,0,3,0,0,1,0,1,0,0,0,1,0,6,Hard Skill
+datadog,0,0,0,0,0,2,0,0,0,0,0,0,0,2,Hard Skill
+datafield,0,0,3,0,0,0,0,0,0,0,1,0,0,4,Hard Skill
+dataformat,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+datamodel,0,3,0,0,0,7,0,0,0,0,1,1,0,12,Hard Skill
+dataservice,0,0,1,0,0,0,0,0,0,0,1,0,0,2,Hard Skill
+dataspaces,0,0,0,0,0,0,1,1,0,0,1,0,0,3,Hard Skill
+datatable,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+debugging,0,0,0,0,0,12,9,4,0,0,3,1,0,29,Hard Skill
+decision support systems,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+deconstruction,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+decoupling,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+deductive reasoning,0,0,0,0,0,0,0,0,0,0,1,0,1,2,Hard Skill
+deep diving,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+deep learning,0,0,0,0,0,0,2,1,0,0,5,0,0,8,Hard Skill
+defect tracking,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+deformation,0,5,0,0,1,0,0,0,0,0,1,0,0,7,Hard Skill
+delivery performance,0,0,0,1,0,1,0,0,0,0,1,0,0,3,Hard Skill
+delivery pipeline,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+demand generation,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+demand modeling,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+demandware,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+demonstration skills,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Hard Skill
+dental health,0,0,2,0,0,0,0,25,0,0,0,0,0,27,Hard Skill
+dependency injection,0,0,3,0,0,0,0,0,0,0,0,0,0,3,Hard Skill
+deployment project,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+deployment support,0,0,0,0,1,0,1,2,0,0,0,0,0,4,Hard Skill
+deposition,0,0,4,0,0,0,1,1,0,0,2,0,0,8,Hard Skill
+dermatology,0,0,0,0,0,0,0,2,0,0,0,0,0,2,Hard Skill
+design and technology,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+design codes,0,0,0,14,0,1,2,1,0,0,0,0,0,18,Hard Skill
+design consideration,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+design flow,0,0,0,0,0,1,1,0,0,0,0,0,0,2,Hard Skill
+design management,0,1,0,0,0,0,0,0,0,0,1,0,0,2,Hard Skill
+design methods,0,0,0,0,0,1,1,0,0,0,0,0,0,2,Hard Skill
+design review,0,0,0,1,0,0,3,2,0,0,1,0,0,7,Hard Skill
+design specifications,0,1,7,1,0,2,7,3,0,0,0,0,0,21,Hard Skill
+design strategies,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+design studio,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+design technology,0,0,0,0,0,0,5,0,0,0,0,0,0,5,Hard Skill
+design thinking,0,3,0,0,0,0,1,0,0,0,0,0,0,4,Hard Skill
+design tool,0,0,0,0,0,0,2,2,0,0,2,0,0,6,Hard Skill
+desire2learn,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+desksite,0,0,0,0,1,0,0,1,0,0,0,0,0,2,Hard Skill
+desktop virtualization,0,0,0,0,0,2,0,0,0,0,0,0,0,2,Hard Skill
+devaluation,0,2,2,0,2,8,8,3,4,0,4,2,0,35,Hard Skill
+development environment,0,0,7,0,0,0,6,1,0,0,3,0,0,17,Hard Skill
+development management,0,1,8,1,0,0,1,0,0,0,1,0,3,15,Hard Skill
+development planning,0,0,3,0,0,0,0,0,0,3,0,0,0,6,Hard Skill
+development programmes,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+development review,0,0,3,0,0,0,2,0,0,0,0,0,0,5,Hard Skill
+development support,0,5,0,0,3,6,12,1,0,5,0,0,6,38,Hard Skill
+development testing,0,0,2,1,0,2,8,2,0,2,1,1,0,19,Hard Skill
+device detection,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+devicenet,0,0,0,0,0,0,2,0,0,1,0,0,0,3,Hard Skill
+devops,0,1,4,44,2,15,9,11,0,1,2,0,0,89,Hard Skill
+devsecops,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Hard Skill
+diagnostic tests,0,0,0,1,0,0,0,0,0,0,0,4,0,5,Hard Skill
+diagnostic tools,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+dial indicators,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+diction,0,0,0,0,0,0,3,0,0,0,0,0,0,3,Hard Skill
+die casting,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+differentials,0,0,0,0,3,0,0,0,0,0,0,0,0,3,Hard Skill
+differentiated services,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+digital assets,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+digital controls,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+digital design,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+digital integration,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+digital marketing,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+digital media,0,0,0,4,1,0,0,0,0,0,0,0,0,5,Hard Skill
+digital radiography,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+digital security,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+digital transformation,0,0,0,27,0,1,0,0,0,4,0,0,0,32,Hard Skill
+digitization,0,0,0,0,0,17,0,0,0,3,0,0,0,20,Hard Skill
+dimensional analysis,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+dimensioning,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+direct connect,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+direct tax,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+disabilities,0,5,0,0,85,0,0,0,0,0,63,0,0,153,Hard Skill
+disaster recovery,0,1,5,0,0,3,2,0,0,0,1,0,0,12,Hard Skill
+disaster recovery plan,0,1,0,0,0,0,2,0,0,0,0,0,0,3,Hard Skill
+disaster recovery solution,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+disaster response,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+discharge summaries,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+disease management,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+diskspace,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+displacement,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+dispute resolution,0,2,2,0,0,0,0,0,0,0,0,0,0,4,Hard Skill
+distributed cache,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+distributed computing,0,0,0,0,1,0,1,0,0,0,5,0,0,7,Hard Skill
+distributed computing environment,0,0,0,0,1,0,0,0,0,0,2,0,0,3,Hard Skill
+distributed design patterns,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Hard Skill
+distributed development,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+distribution softwares,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+distribution theory,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+diversification,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+diversity and inclusion,0,0,0,0,0,0,1,0,0,95,0,0,0,96,Hard Skill
+diversity management,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+diversity marketing,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+diversity programs,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+divestitures,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+diving,0,0,0,0,0,0,0,0,0,0,3,0,0,3,Hard Skill
+docker,0,1,4,2,1,8,10,5,0,21,0,1,0,53,Hard Skill
+docker container,0,0,0,0,0,0,3,2,0,0,0,0,0,5,Hard Skill
+document control,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+document management,0,0,1,0,1,0,1,0,0,6,0,0,0,9,Hard Skill
+document management systems,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+document process automation,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+document processing,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+dog training,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+domain driven design,0,0,6,0,0,0,0,0,0,0,0,0,0,6,Hard Skill
+door security,0,0,0,0,0,0,0,0,0,0,0,0,2,2,Hard Skill
+dot,0,0,0,0,9,0,1,1,0,0,3,0,0,14,Hard Skill
+draft,0,0,0,0,0,0,0,1,0,1,0,0,0,2,Hard Skill
+drawing,0,0,0,0,0,0,6,0,0,0,1,0,0,7,Hard Skill
+drill press,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+drilling,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+driveworks,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+drools,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+drug development,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+drug interaction,0,0,0,0,0,0,0,0,4,0,0,0,0,4,Hard Skill
+drug utilization review,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+dspace,0,0,0,0,0,0,3,0,0,0,0,0,0,3,Hard Skill
+dual diagnosis,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+due diligence,0,1,0,0,3,1,0,0,0,0,0,0,0,5,Hard Skill
+due process,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+durable medical equipment,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+dvise,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+dynamic data,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+dynamic positioning,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+dynamo,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+dynamometer,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+dynatrace,0,0,0,2,0,1,0,0,0,0,0,0,0,3,Hard Skill
+e,0,0,1,0,0,1,0,8,0,0,2,10,0,22,Hard Skill
+e-business,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+e-learning development,0,1,0,0,0,0,0,1,0,0,2,0,0,4,Hard Skill
+ear,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Hard Skill
+early adopter,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Hard Skill
+ebase,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+eclipse,0,0,0,0,0,0,1,0,0,1,0,0,0,2,Hard Skill
+ecognition,0,0,1,0,0,1,89,8,1,2,1,4,0,107,Hard Skill
+econometrics,0,1,0,0,0,0,0,0,0,0,1,0,0,2,Hard Skill
+economics,0,3,0,0,0,11,0,2,0,4,4,0,0,24,Hard Skill
+edge device,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+edos,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+eels,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+einstruction,0,0,1,0,0,2,0,0,0,0,0,0,0,3,Hard Skill
+elasticsearch,0,0,0,1,0,1,0,1,0,6,0,0,0,9,Hard Skill
+electric arc,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+electric machines,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+electric motors,0,0,0,0,0,0,3,0,0,0,0,0,0,3,Hard Skill
+electric vehicle,0,0,0,0,0,0,5,0,0,0,0,0,0,5,Hard Skill
+electrical and computer engineering,0,0,0,0,0,0,2,0,0,8,0,0,0,10,Hard Skill
+electrical codes,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+electrical engineering,0,0,0,1,0,1,22,0,0,33,5,0,0,62,Hard Skill
+electrical equipment,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+electrical process,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+electrical systems,0,0,0,0,2,0,6,0,0,18,0,0,0,26,Hard Skill
+electrochemistry,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+electronic article surveillance,0,0,0,0,0,0,0,0,0,0,0,0,2,2,Hard Skill
+electronic components,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+electronic control unit,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+electronic design,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+electronic document management,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+electronic document management systems,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+electronic documents,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+electronic medical record,0,0,0,0,1,0,0,14,0,0,0,0,0,15,Hard Skill
+electronic paper,0,0,0,0,0,0,0,2,0,0,0,0,0,2,Hard Skill
+electronic signatures,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Hard Skill
+electronics,0,4,7,0,7,0,16,22,0,0,1,3,2,62,Hard Skill
+elk stack,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+email management,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+embedded c,0,0,0,0,0,0,6,0,0,0,0,0,0,6,Hard Skill
+embedded software,0,0,0,0,0,0,4,0,0,0,0,0,0,4,Hard Skill
+embedded systems,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+emc cloud computing,0,0,0,0,0,0,0,0,0,5,0,0,0,5,Hard Skill
+emergency departments,0,0,0,0,0,1,0,1,0,0,0,0,0,2,Hard Skill
+emergency medicine,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+emergency preparedness,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+emergency support,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+emerging technologies,0,0,0,0,0,0,4,1,0,1,3,0,0,9,Hard Skill
+emotional intelligence,0,1,0,0,0,0,0,0,0,3,0,0,0,4,Hard Skill
+empirical research,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+employee assistance programs,0,0,49,0,9,0,1,24,0,1,0,0,0,84,Hard Skill
+employee engagement,0,3,0,0,2,0,0,0,0,0,3,0,0,8,Hard Skill
+employee relations,0,1,0,0,0,0,0,0,4,0,1,0,0,6,Hard Skill
+employee retention,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+employer branding,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+employment applications,0,0,0,0,82,0,0,0,0,0,0,0,0,82,Hard Skill
+employment compliance,0,0,0,0,0,0,0,0,3,0,0,0,0,3,Hard Skill
+employment contracts,0,0,0,0,0,0,0,11,0,0,0,0,0,11,Hard Skill
+empowerment,0,0,0,0,0,1,0,1,0,0,0,0,0,2,Hard Skill
+enclosure,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+encompass,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+encryption,0,0,6,0,0,0,0,0,0,0,1,0,0,7,Hard Skill
+end systems,0,0,0,0,0,0,2,0,0,0,2,0,0,4,Hard Skill
+endevor,0,0,0,0,0,2,0,0,0,0,0,0,0,2,Hard Skill
+endocrinology,0,0,0,0,0,0,0,8,0,0,0,0,0,8,Hard Skill
+endpoint devices,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Hard Skill
+endpoint management,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Hard Skill
+endpoint security,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+enforcement,0,1,49,0,1,1,0,0,0,0,1,0,0,53,Hard Skill
+engagement surveys,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+engineering change order,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+engineering drawings,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+engineering economics,0,0,0,0,0,1,0,0,0,3,0,0,0,4,Hard Skill
+engineering management,0,0,0,3,0,0,2,0,0,0,1,0,0,6,Hard Skill
+engineering research,0,0,0,0,0,1,0,1,0,0,0,0,0,2,Hard Skill
+engineering statistics,0,0,0,0,0,1,0,0,0,0,1,0,0,2,Hard Skill
+engineering support,0,0,0,0,0,0,2,0,0,0,1,0,0,3,Hard Skill
+enterprise application integration,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+enterprise architecture,0,0,4,0,1,1,0,1,0,0,1,0,0,8,Hard Skill
+enterprise resource planning,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+enterprise security,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+entertainment technology,0,0,0,15,0,0,0,0,0,0,0,0,0,15,Hard Skill
+entity framework,0,0,0,0,0,2,0,2,0,0,0,0,0,4,Hard Skill
+entry point,0,0,0,0,0,0,0,0,15,0,0,0,0,15,Hard Skill
+environment management,0,0,0,0,1,1,0,0,0,0,0,0,0,2,Hard Skill
+environmental analysis,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+environmental consulting,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+environmental control,0,0,0,0,0,0,2,0,0,0,1,0,0,3,Hard Skill
+environmental engineering,0,0,0,0,0,0,0,0,0,0,2,0,0,2,Hard Skill
+environmental health,0,0,0,0,0,3,0,0,0,0,1,0,0,4,Hard Skill
+environmental issue,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+environmental laws,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+environmental protection,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+environmental reporting,0,0,0,0,0,2,0,0,0,0,0,0,0,2,Hard Skill
+environmental science,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+environmental technology,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+epidemiology,0,2,0,0,0,0,0,0,0,0,0,0,0,2,Hard Skill
+eprint,0,0,0,0,0,0,3,0,0,0,0,0,0,3,Hard Skill
+equations,0,0,2,0,0,0,0,0,0,0,0,0,0,2,Hard Skill
+equipment maintenance,0,0,0,0,3,1,0,1,0,0,0,0,0,5,Hard Skill
+erequirements,93,37,22,63,70,44,73,50,5,24,44,13,68,606,Hard Skill
+ergonomics,0,0,0,0,0,1,2,0,0,0,2,0,0,5,Hard Skill
+escalation management,0,0,0,0,1,0,0,0,0,0,2,0,0,3,Hard Skill
+etching,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+ethernet,0,0,0,5,3,0,7,0,0,2,0,0,0,17,Hard Skill
+ethics and compliance,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+evaluation projects,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+evaporator,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+event management,0,0,3,0,0,0,0,0,0,0,0,0,0,3,Hard Skill
+event planning,0,0,0,0,0,0,0,1,0,1,1,0,0,3,Hard Skill
+event store,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Hard Skill
+eviews,0,0,0,0,0,0,23,0,0,0,0,0,0,23,Hard Skill
+exec,0,0,0,0,0,0,55,0,0,0,0,0,0,55,Hard Skill
+executable,0,0,0,0,0,0,0,0,0,3,0,0,0,3,Hard Skill
+executive leadership,0,1,0,0,0,0,0,0,0,0,3,0,0,4,Hard Skill
+executive protection,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+expense reports,0,1,0,0,1,0,1,1,0,0,2,0,0,6,Hard Skill
+experience design,0,0,3,1,1,3,7,1,0,7,5,0,0,28,Hard Skill
+experiential learning,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+experimental design,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Hard Skill
+experimentation,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+exploratory data analysis,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+expresso!,0,0,0,0,0,0,0,8,0,0,0,0,0,8,Hard Skill
+external relations,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+eye examination,0,0,0,0,0,0,0,0,0,0,0,4,0,4,Hard Skill
+eyes,0,0,0,1,3,1,0,0,0,0,0,2,0,7,Hard Skill
+f#,0,0,0,0,2,0,0,0,0,0,0,0,0,2,Hard Skill
+fabrication,0,0,0,0,0,3,4,0,0,0,0,0,0,7,Hard Skill
+facilities engineering,0,0,0,0,0,2,0,0,0,0,0,0,0,2,Hard Skill
+facsimile transmission,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+fact-finding,0,0,0,0,1,0,0,1,0,0,0,0,0,2,Hard Skill
+factor analysis,0,0,2,0,0,0,0,0,0,0,0,0,0,2,Hard Skill
+failover,0,0,0,0,0,1,1,0,0,0,0,0,0,2,Hard Skill
+failover clustering,0,0,0,0,0,1,1,0,0,0,0,0,0,2,Hard Skill
+failure analysis,0,0,0,0,0,1,0,0,0,0,0,1,0,2,Hard Skill
+failure causes,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+family medicine,0,0,0,0,0,0,0,2,0,0,0,0,0,2,Hard Skill
+fascia,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+fatigue,0,0,0,0,0,1,1,0,0,0,0,0,0,2,Hard Skill
+fault,0,0,0,24,0,0,1,0,0,0,1,0,0,26,Hard Skill
+fault tolerance,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+federal laws,0,0,0,0,0,0,0,1,7,0,0,1,0,9,Hard Skill
+field research,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+field testing,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+figma,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+file management,0,0,8,0,0,0,0,2,0,0,0,0,0,10,Hard Skill
+file servers,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+file systems,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Hard Skill
+finance softwares,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+financeworks,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+financial accounting,0,0,1,0,1,8,0,0,0,0,0,0,0,10,Hard Skill
+financial analysis,0,2,0,0,1,7,1,1,0,0,2,3,0,17,Hard Skill
+financial analytics,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+financial auditing,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+financial data,0,1,0,0,0,3,0,0,0,0,0,0,0,4,Hard Skill
+financial management,0,1,0,0,1,0,0,0,0,3,0,0,3,8,Hard Skill
+financial modeling,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+financial planning,0,0,0,0,1,0,0,1,0,1,0,1,0,4,Hard Skill
+financial services,0,1,0,0,0,1,0,1,0,0,1,0,0,4,Hard Skill
+financial statements,0,0,0,0,1,5,0,0,0,0,0,1,0,7,Hard Skill
+financial systems,0,0,0,1,1,0,0,0,0,0,1,0,0,3,Hard Skill
+finger dexterity,0,3,0,0,0,0,0,0,0,0,0,0,0,3,Hard Skill
+fire prevention,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+firefighting,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+firefox,0,0,0,0,0,0,0,0,0,0,2,0,0,2,Hard Skill
+firewall,0,0,2,0,0,4,0,0,0,2,0,0,0,8,Hard Skill
+fixed asset,0,0,0,0,0,3,0,0,0,0,0,0,0,3,Hard Skill
+flange,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+flash,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+flexray,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+floor management,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+floor planning,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+floor scrubbers,0,0,0,0,0,0,0,0,0,0,0,5,0,5,Hard Skill
+flow control,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+flowcharts,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+fluid mechanics,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+flux,0,0,0,0,2,0,0,0,0,0,1,0,0,3,Hard Skill
+flywheel,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+focus group,0,2,0,0,0,0,0,0,0,0,1,0,0,3,Hard Skill
+food quality,0,0,0,0,0,0,0,0,0,0,0,3,0,3,Hard Skill
+food safety,0,0,0,0,0,0,0,0,0,0,1,11,0,12,Hard Skill
+foods,0,0,0,0,0,0,0,0,56,0,0,3,0,59,Hard Skill
+forecasting,0,2,0,0,1,1,1,1,0,7,3,4,0,20,Hard Skill
+forensics tools,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Hard Skill
+forging,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+formability,0,0,1,0,0,0,2,0,0,0,0,0,0,3,Hard Skill
+forth,0,0,4,0,2,0,0,0,0,0,0,0,0,6,Hard Skill
+foundry,0,0,0,0,0,0,3,0,0,0,0,0,0,3,Hard Skill
+frame relay,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Hard Skill
+framer,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+framework design,0,0,0,0,0,0,0,2,0,0,0,0,0,2,Hard Skill
+framework7,0,4,13,1,0,8,8,6,0,6,6,0,0,52,Hard Skill
+framing,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+freight forwarding,0,2,0,0,0,0,0,0,0,0,0,0,0,2,Hard Skill
+frequency distribution,0,0,2,0,0,0,0,0,0,0,0,0,0,2,Hard Skill
+fresh product,0,0,0,0,0,0,0,0,0,0,0,2,0,2,Hard Skill
+front end,0,0,0,0,0,4,4,3,0,0,6,11,0,28,Hard Skill
+front office,0,1,0,0,0,1,0,3,0,0,0,0,0,5,Hard Skill
+fuel cell,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+functional design,0,1,0,1,0,0,0,0,0,6,0,0,0,8,Hard Skill
+functional interface,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Hard Skill
+functional process,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Hard Skill
+functional requirement,0,2,0,0,0,1,4,1,0,6,2,0,0,16,Hard Skill
+functional specification,0,3,0,0,0,1,1,1,0,0,2,0,0,8,Hard Skill
+functional testing,0,0,0,0,0,0,1,1,0,1,0,0,0,3,Hard Skill
+fundamental analysis,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+fundamental science,0,0,0,0,0,0,1,0,0,0,3,0,0,4,Hard Skill
+funnels,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+g programming language,0,0,0,0,0,0,1,0,0,0,3,0,0,4,Hard Skill
+g suite,0,0,0,0,0,0,0,0,0,2,0,0,0,2,Hard Skill
+gap analysis,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+gaskets,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+gastroenterology,0,0,0,0,2,0,0,2,0,0,0,0,0,4,Hard Skill
+gemba,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+general ledger,0,0,0,1,1,0,0,3,0,0,0,0,0,5,Hard Skill
+general practitioner,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+generally accepted accounting principles,0,1,0,0,1,0,0,0,0,0,0,0,0,2,Hard Skill
+geography,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+geos,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+geriatrics,0,0,0,0,0,0,0,12,0,0,0,0,0,12,Hard Skill
+gerontology,0,0,0,0,0,0,0,8,0,0,0,0,0,8,Hard Skill
+git,0,1,7,8,0,15,13,3,0,1,1,0,0,49,Hard Skill
+git flow,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Hard Skill
+github,0,0,0,0,0,2,0,6,0,26,0,0,0,34,Hard Skill
+gitlab,0,0,0,0,0,5,0,0,0,0,0,0,0,5,Hard Skill
+glaucoma,0,0,0,0,0,0,0,0,0,0,0,2,0,2,Hard Skill
+global logistics,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+global procurement,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+global sourcing,0,0,0,0,2,0,0,0,0,0,0,0,0,2,Hard Skill
+go,1,0,0,2,4,1,0,59,0,2,5,17,1,92,Hard Skill
+google ads,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+google applications,0,0,0,0,0,0,0,1,0,1,0,0,0,2,Hard Skill
+google calendar,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Hard Skill
+google cloud,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+google cloud platform,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+google drive,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Hard Skill
+google hangouts,0,0,49,0,0,0,0,0,0,0,0,0,0,49,Hard Skill
+google maps,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+google play,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Hard Skill
+government contracting,0,0,0,0,1,0,0,1,0,0,1,0,0,3,Hard Skill
+gradle,0,0,0,0,0,0,0,1,0,0,0,1,0,2,Hard Skill
+grafana,0,0,0,0,0,0,0,1,0,32,0,0,0,33,Hard Skill
+graphic design,0,0,0,0,1,0,2,1,0,0,1,0,0,5,Hard Skill
+greenplum,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+grinding,0,0,0,0,0,0,0,0,0,0,0,2,0,2,Hard Skill
+groovy,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+groundwater,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+group work,0,0,0,0,0,0,4,1,0,0,0,0,0,5,Hard Skill
+growth planning,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+growth strategies,0,0,0,0,0,0,0,2,0,0,0,0,0,2,Hard Skill
+handle systems,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+handsfree,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+hardware design,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+hardware security module,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+hazard analysis,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+healing,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+health administration,0,0,0,0,0,1,0,2,0,0,0,0,0,3,Hard Skill
+health assessment,0,0,0,0,0,0,0,9,0,0,0,0,0,9,Hard Skill
+health care benefits,0,0,0,0,0,0,2,0,0,0,1,0,0,3,Hard Skill
+health care industry,0,0,0,0,0,0,0,18,0,0,0,0,0,18,Hard Skill
+health care system,0,0,0,0,0,0,0,9,0,0,0,0,0,9,Hard Skill
+health economics,0,3,0,0,0,0,0,1,0,0,0,0,0,4,Hard Skill
+health economics and outcomes research,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+health education,0,0,0,0,0,0,0,2,0,0,0,0,0,2,Hard Skill
+health facility,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+health fairs,0,0,0,0,0,0,0,2,0,0,0,0,0,2,Hard Skill
+health information technology,0,0,0,0,2,0,0,0,0,0,0,0,0,2,Hard Skill
+health marketing,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+health products,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+health research,0,2,0,0,0,0,0,0,0,0,1,0,0,3,Hard Skill
+health sciences,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+health services research,0,2,0,0,0,0,0,0,0,0,0,0,0,2,Hard Skill
+health systems,0,0,0,0,8,0,0,27,0,0,1,0,0,36,Hard Skill
+health technology,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+healthcare customer service,0,0,0,0,0,0,0,3,0,0,0,0,0,3,Hard Skill
+healthcare services,0,0,0,0,0,0,0,4,11,0,1,0,1,17,Hard Skill
+heat exchanger,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+heat transfer,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+heater core,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+heavy equipment,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+help desk support,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+help system,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+hematology,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+hibernate,0,0,0,0,0,0,0,2,0,0,0,0,0,2,Hard Skill
+hibernate3,0,0,0,0,0,0,0,2,0,0,0,0,0,2,Hard Skill
+high voltage,0,0,0,0,0,0,6,0,0,0,0,0,0,6,Hard Skill
+higher education,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+home automation,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+home care,0,7,0,0,17,0,0,12,0,0,0,0,0,36,Hard Skill
+home healthcare,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Hard Skill
+home networks,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+hospice,0,0,0,0,0,0,0,5,0,0,0,0,1,6,Hard Skill
+hospital pharmacy,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+hosting,0,1,0,1,0,2,0,2,0,0,0,0,0,6,Hard Skill
+hot spots,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+house call,0,0,0,0,0,0,0,10,0,0,0,0,0,10,Hard Skill
+hp application lifecycle management,0,0,0,0,0,2,0,0,0,0,0,0,0,2,Hard Skill
+html5,0,1,0,8,0,2,1,0,0,0,0,0,0,12,Hard Skill
+http protocols,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Hard Skill
+human capital,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+human factors,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+human resource management,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+human resource planning,0,1,0,0,1,0,0,0,0,0,0,0,0,2,Hard Skill
+human services,0,0,0,0,0,0,0,3,0,0,0,0,0,3,Hard Skill
+hvac,0,0,0,0,2,0,2,0,0,0,0,0,0,4,Hard Skill
+hydraulics,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+hydrocarbon,0,0,0,0,0,4,0,0,0,0,0,0,0,4,Hard Skill
+hygiene,0,0,0,0,0,0,0,0,0,0,0,1,1,2,Hard Skill
+hypertension,0,0,0,0,0,0,0,3,0,0,0,0,0,3,Hard Skill
+hypervisor,0,0,0,0,0,2,0,0,0,0,0,0,0,2,Hard Skill
+hyperworks,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+ibm rational team concert,0,0,0,0,0,0,3,0,0,0,0,0,0,3,Hard Skill
+ic programming,0,0,0,10,0,0,2,0,0,0,0,0,0,12,Hard Skill
+icd coding,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+iconography,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+igen,0,0,0,0,0,0,5,0,0,0,0,0,0,5,Hard Skill
+igraph,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+iis manager,0,0,0,0,0,0,0,0,0,0,0,0,3,3,Hard Skill
+illustration,0,0,0,0,1,0,0,1,0,0,1,0,0,3,Hard Skill
+image processing,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+imagine,0,0,0,9,0,0,3,2,0,0,3,0,0,17,Hard Skill
+imaging,0,0,0,0,1,0,0,2,0,0,1,1,0,5,Hard Skill
+immigration law,0,0,0,0,14,0,0,0,0,0,0,0,0,14,Hard Skill
+immunization,0,0,0,0,0,0,0,0,12,0,0,3,1,16,Hard Skill
+immunology,0,0,0,0,1,0,0,2,0,0,0,0,0,3,Hard Skill
+impact assessment,0,1,0,4,0,0,0,0,0,0,0,0,0,5,Hard Skill
+implement projects,0,1,0,0,0,1,0,0,0,0,0,0,0,2,Hard Skill
+imr,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+incident management,0,1,0,2,1,3,1,0,0,0,0,0,0,8,Hard Skill
+incident reporting,0,0,0,0,0,2,0,0,0,0,1,0,0,3,Hard Skill
+incident response,0,0,3,0,1,0,0,0,0,0,1,0,0,5,Hard Skill
+income tax,0,0,0,0,0,2,0,1,0,0,0,0,0,3,Hard Skill
+indexing,0,0,0,1,0,0,0,1,0,0,0,0,0,2,Hard Skill
+indicators,0,9,2,0,2,3,1,2,4,26,5,0,0,54,Hard Skill
+industrial engineering,0,0,0,0,1,1,3,0,0,0,1,0,0,6,Hard Skill
+industrial networking,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+industrial robotics,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+industry analysis,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+industry practices,0,0,0,0,0,1,0,0,0,0,2,0,0,3,Hard Skill
+infection,0,0,0,0,0,0,0,6,0,0,0,0,0,6,Hard Skill
+infection control,0,0,0,0,0,0,0,3,0,0,0,0,0,3,Hard Skill
+infectious diseases,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+inflection,0,0,0,0,0,0,0,3,0,0,0,0,0,3,Hard Skill
+informatica,0,1,0,1,0,0,0,1,0,0,0,0,0,3,Hard Skill
+information access,0,0,0,0,0,0,0,0,2,0,0,0,0,2,Hard Skill
+information architecture,0,0,3,0,1,0,0,1,0,0,2,0,0,7,Hard Skill
+information design,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+information management,0,3,8,0,0,2,2,1,0,0,0,0,0,16,Hard Skill
+information model,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+information organization,0,0,47,0,0,0,0,0,0,0,0,0,0,47,Hard Skill
+information policy,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+information privacy,0,0,0,0,0,0,0,7,7,0,0,0,0,14,Hard Skill
+information processing,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Hard Skill
+information processor,0,0,0,0,0,0,0,2,41,0,0,0,0,43,Hard Skill
+information retrieval,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+information sciences,0,7,2,1,0,0,3,1,0,20,3,1,0,38,Hard Skill
+information sharing,1,0,0,0,0,0,0,0,0,0,1,0,0,2,Hard Skill
+information systems,0,13,2,0,0,3,1,1,0,21,5,0,0,46,Hard Skill
+information technology operations,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Hard Skill
+informetica,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+infrastructure architecture,0,0,0,0,1,0,1,0,0,0,1,0,0,3,Hard Skill
+infrastructure as a service,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+infrastructure automation,0,1,0,0,0,3,0,0,0,0,3,0,0,7,Hard Skill
+infrastructure management,0,1,0,4,0,0,0,0,0,0,1,0,0,6,Hard Skill
+infrastructure security,0,0,3,0,2,0,0,0,0,0,0,0,0,5,Hard Skill
+infusions,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+injection molding,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+inquiry,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+inquisit,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+insolation,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+insourcing,0,0,0,0,0,0,14,0,0,0,0,0,0,14,Hard Skill
+installation,0,1,0,0,1,6,4,0,0,0,0,1,0,13,Hard Skill
+instructing,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+instructional design,0,0,0,0,0,0,0,1,0,0,2,0,0,3,Hard Skill
+instrumentation,0,0,0,0,0,2,3,0,0,0,0,0,0,5,Hard Skill
+insurance products,0,0,2,0,0,0,0,0,0,0,0,0,0,2,Hard Skill
+integrated care,0,0,0,0,0,0,0,6,0,0,0,0,0,6,Hard Skill
+integrated delivery systems,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+integrated design,0,0,0,0,0,1,2,0,0,0,0,0,0,3,Hard Skill
+integrated services,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+integration platforms,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Hard Skill
+integration testing,0,2,1,1,0,0,2,0,0,8,0,0,0,14,Hard Skill
+intellectual property,0,0,0,0,0,0,1,0,0,0,1,0,0,2,Hard Skill
+intelligent networks,0,0,0,0,0,0,0,0,0,7,0,0,0,7,Hard Skill
+intensive care unit,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+interaction design,0,0,0,0,1,0,0,1,0,0,0,0,0,2,Hard Skill
+interactive c,1,0,3,0,1,0,0,69,0,0,2,1,0,77,Hard Skill
+interactive voice response,0,0,0,0,0,0,0,67,0,0,0,0,0,67,Hard Skill
+interactivity,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+intercom,0,0,0,0,0,0,0,0,8,0,0,0,0,8,Hard Skill
+interconnection,0,0,0,0,0,0,0,0,0,2,0,0,0,2,Hard Skill
+interface control document,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+interface technologies,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+interior design,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+internal auditing,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+internal communications,0,3,0,0,1,0,0,1,0,0,2,0,0,7,Hard Skill
+internal controls,0,2,0,0,1,0,4,0,0,0,1,0,0,8,Hard Skill
+internal investigations,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+internal medicine,0,0,0,0,0,0,0,13,0,0,0,0,0,13,Hard Skill
+international business,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+international trade,0,0,0,0,0,22,0,0,0,0,0,0,0,22,Hard Skill
+internet protocols,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+internet radio,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+internet services,0,0,0,0,0,0,0,7,0,0,0,0,0,7,Hard Skill
+interoperability,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+intramuscular injection,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+intrathecal,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+inventory control,0,0,0,0,0,0,1,1,50,0,2,0,0,54,Hard Skill
+inventory management,0,1,0,0,4,2,2,1,49,0,2,17,39,117,Hard Skill
+investment banking,0,0,0,0,0,0,0,2,0,0,0,0,0,2,Hard Skill
+investment strategy,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+investments,0,0,0,0,1,0,1,2,0,1,7,0,0,12,Hard Skill
+invision,0,0,0,0,0,0,0,1,0,0,1,0,0,2,Hard Skill
+invoice processing,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Hard Skill
+ion laser,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+ionizing radiation,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+ios applications,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+ipconfig,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+iperf,0,0,0,0,0,0,0,0,0,18,0,0,0,18,Hard Skill
+ipv4,0,0,0,0,0,0,0,0,0,2,0,0,0,2,Hard Skill
+ipv6,0,0,0,1,0,0,0,0,0,2,0,0,0,3,Hard Skill
+isight,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+it portfolio management,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+it service management,0,1,0,0,0,1,0,0,0,0,1,0,0,3,Hard Skill
+it++,11,17,7,7,15,25,23,20,0,0,16,0,0,141,Hard Skill
+iterative and incremental development,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+iterative design,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+itilv3,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Hard Skill
+jasmine,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+java,0,1,3,12,0,6,20,9,0,27,24,3,0,105,Hard Skill
+java 8,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Hard Skill
+java architectures,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+javascript,0,2,5,11,0,8,5,1,0,0,6,0,0,38,Hard Skill
+javascript frameworks,0,0,0,8,0,0,1,0,0,0,0,0,0,9,Hard Skill
+jaws scripting language,0,0,0,0,0,0,0,2,0,0,0,0,0,2,Hard Skill
+jcomponent,0,0,2,1,1,1,21,2,0,1,3,0,1,33,Hard Skill
+jdeveloper,0,2,1,8,0,8,14,4,0,0,11,0,0,48,Hard Skill
+jenkins,0,0,0,9,0,7,3,8,0,1,0,1,0,29,Hard Skill
+jenkins 2,0,0,0,0,0,0,0,2,0,0,0,0,0,2,Hard Skill
+jest,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+jira,0,0,1,0,0,0,1,0,0,2,0,0,0,4,Hard Skill
+jitter,0,0,0,0,0,0,0,0,0,18,0,0,0,18,Hard Skill
+jmp,0,0,0,0,0,0,1,0,0,0,1,0,0,2,Hard Skill
+job descriptions,0,0,2,1,1,6,0,0,0,0,1,36,3,50,Hard Skill
+job interviews,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+job rotation,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+job safety analysis,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+joint ventures,0,0,0,0,0,50,2,0,0,0,0,0,0,52,Hard Skill
+journalism,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+journals,0,1,17,0,0,0,0,1,7,0,0,0,0,26,Hard Skill
+jquery,0,1,4,0,0,1,0,1,0,0,1,0,0,8,Hard Skill
+jquery ui,0,0,3,0,0,0,0,0,0,0,0,0,0,3,Hard Skill
+json,0,2,0,0,0,1,1,0,0,0,0,0,0,4,Hard Skill
+jtemplates,0,0,5,0,0,4,2,0,0,2,2,1,0,16,Hard Skill
+junit,0,0,0,0,0,0,4,2,0,0,0,1,0,7,Hard Skill
+junos,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+jupyter,0,0,0,0,0,0,1,0,0,8,0,0,0,9,Hard Skill
+jupyter notebook,0,0,0,0,0,0,0,0,0,8,0,0,0,8,Hard Skill
+justice,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+kerberos,0,0,0,0,0,3,0,0,0,0,1,0,0,4,Hard Skill
+key control,0,0,0,0,0,3,0,0,0,0,0,0,0,3,Hard Skill
+key management,0,1,3,0,1,0,0,0,0,0,1,0,1,7,Hard Skill
+key performance indicators,0,7,0,0,2,1,0,2,0,8,3,0,0,23,Hard Skill
+keying,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Hard Skill
+kibana,0,0,0,0,0,0,1,1,0,6,0,0,0,8,Hard Skill
+knime,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+knowledge base,1,0,3,0,0,0,1,3,0,1,1,0,0,10,Hard Skill
+knowledge graph,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+knowledge management,0,1,0,0,0,0,1,0,0,1,1,0,0,4,Hard Skill
+knowledgeman,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+koffice,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+korn shell,0,0,0,0,0,4,0,0,0,0,0,0,0,4,Hard Skill
+kotlin,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Hard Skill
+kpi reporting,0,0,0,0,0,1,0,0,0,0,1,0,0,2,Hard Skill
+kubernetes,0,0,4,1,1,4,12,5,0,28,0,0,0,55,Hard Skill
+labor law,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+labor relations,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+ladder logic,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+lamp,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+land development,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+land registration,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+language development,0,0,0,0,0,0,3,0,0,0,0,0,0,3,Hard Skill
+laser,0,0,0,0,1,0,3,0,0,0,0,0,0,4,Hard Skill
+laser scanning,0,0,0,0,1,0,1,0,0,0,0,0,0,2,Hard Skill
+lathes,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+latin,0,0,0,0,0,0,4,0,0,0,0,0,0,4,Hard Skill
+lauterbach,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+law enforcement,0,0,51,0,1,1,0,0,0,0,1,0,0,54,Hard Skill
+lazy loading,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+lead generation,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+lead management,0,0,0,0,1,0,0,0,4,0,0,0,3,8,Hard Skill
+leadership styles,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+lean manufacturing,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+lean product development,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+lean project management,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+lean six sigma,0,1,0,0,0,0,0,1,0,3,1,0,0,6,Hard Skill
+learning design,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+learning development,0,1,0,0,0,0,0,1,0,0,2,0,0,4,Hard Skill
+learning management systems,0,0,0,0,0,0,0,1,0,0,1,0,0,2,Hard Skill
+learning styles,1,0,0,0,0,0,0,0,0,0,1,0,0,2,Hard Skill
+learning support,0,0,0,0,0,0,1,2,0,0,2,0,0,5,Hard Skill
+learnshare,6,0,0,0,0,0,1,0,0,0,0,0,0,7,Hard Skill
+ledgers,0,0,0,0,0,0,0,0,16,0,0,0,0,16,Hard Skill
+legal analysis,0,0,4,0,0,0,0,0,0,0,0,0,0,4,Hard Skill
+legal knowledge,0,0,4,0,0,0,0,0,0,0,0,0,0,4,Hard Skill
+legal research,0,0,4,0,0,0,0,0,0,0,0,0,0,4,Hard Skill
+legibility,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+legislation,0,4,0,0,0,0,0,0,0,0,1,0,0,5,Hard Skill
+less,0,7,1,5,3,2,0,6,7,1,1,27,0,60,Hard Skill
+lex,0,0,0,0,0,0,0,0,0,0,2,0,0,2,Hard Skill
+library,0,0,0,0,0,0,2,0,0,0,1,0,0,3,Hard Skill
+library science,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+licensing,0,1,2,0,0,1,0,1,0,0,1,0,30,36,Hard Skill
+liens,0,0,2,0,0,0,0,0,0,0,0,0,0,2,Hard Skill
+life cycle planning,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+life sciences,0,1,0,0,1,0,0,0,0,0,0,0,0,2,Hard Skill
+life support,0,0,0,0,0,0,0,0,0,0,1,1,0,2,Hard Skill
+lifecycle management,0,1,0,0,0,2,0,0,0,6,1,0,0,10,Hard Skill
+limiter,0,0,0,0,2,0,0,0,0,0,0,0,0,2,Hard Skill
+lina,0,0,0,0,0,0,7,0,0,0,0,0,0,7,Hard Skill
+linguistics,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+link budget,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+linux,0,0,0,21,1,5,6,1,0,9,6,0,0,49,Hard Skill
+linux commands,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+linux servers,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Hard Skill
+liquefied natural gas,0,0,0,0,0,2,0,0,0,0,0,0,0,2,Hard Skill
+litigation strategy,0,0,4,0,0,0,0,1,0,0,0,0,0,5,Hard Skill
+livechat,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+livers,0,0,0,0,0,0,14,0,0,0,0,0,0,14,Hard Skill
+load balancing,0,0,0,0,0,2,0,0,0,3,1,0,0,6,Hard Skill
+load testing,0,0,0,2,0,0,1,0,0,1,0,0,0,4,Hard Skill
+local anesthesia,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Hard Skill
+local area networks,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+localization,0,0,0,0,0,0,4,0,0,0,0,0,0,4,Hard Skill
+locks,0,0,0,0,1,0,6,0,0,0,0,0,2,9,Hard Skill
+log analysis,0,0,0,2,0,0,0,0,0,0,0,0,0,2,Hard Skill
+logical reasoning,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+logistic engineering,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+logistics management,0,0,0,0,0,0,2,0,0,0,1,0,0,3,Hard Skill
+logistics planning,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+logstash,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+long-term care,0,0,0,0,25,0,0,6,0,0,0,0,0,31,Hard Skill
+lookahead,0,0,0,0,0,0,3,0,0,0,0,0,0,3,Hard Skill
+loss mitigation,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+loss prevention,0,0,1,0,0,1,0,0,0,0,1,3,5,11,Hard Skill
+low latency,0,0,0,1,0,0,0,0,0,0,1,0,0,2,Hard Skill
+loyalty marketing,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+loyalty programs,0,0,0,0,0,0,0,0,0,0,0,0,35,35,Hard Skill
+lte,0,0,0,0,0,0,5,0,0,34,0,0,0,39,Hard Skill
+ltspice,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+lua,0,0,0,0,0,0,22,0,0,0,0,0,0,22,Hard Skill
+lview,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+lysis,0,0,0,0,0,0,41,0,0,0,0,0,0,41,Hard Skill
+machine learning,0,0,3,2,1,2,5,1,0,12,15,0,0,41,Hard Skill
+machine vision,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+machinery design,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+machining,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+macros,0,1,0,0,1,0,0,1,0,0,0,0,0,3,Hard Skill
+macular degeneration,0,0,0,0,0,0,0,0,0,0,0,2,0,2,Hard Skill
+magine,0,0,0,1,0,0,3,0,0,0,0,0,0,4,Hard Skill
+mail order,0,2,0,0,1,0,0,0,0,0,0,0,0,3,Hard Skill
+maintainability,0,0,0,2,0,1,4,0,0,0,1,0,0,8,Hard Skill
+maintenance engineering,0,0,0,0,0,0,0,0,0,18,1,0,0,19,Hard Skill
+maintenance testing,0,1,0,0,0,0,0,2,0,0,0,0,0,3,Hard Skill
+malpractice,0,0,0,0,0,0,0,2,0,0,0,0,0,2,Hard Skill
+mammography,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+manage profitability,0,0,3,0,0,0,0,0,0,0,0,0,0,3,Hard Skill
+managed accounts,1,0,0,0,0,1,0,0,0,0,0,0,0,2,Hard Skill
+managed care,0,3,0,0,1,0,0,17,0,0,0,0,0,21,Hard Skill
+managed markets,0,2,0,0,0,0,0,0,0,0,0,0,0,2,Hard Skill
+managed services,0,0,0,0,0,0,0,8,0,4,1,0,0,13,Hard Skill
+management consulting,0,0,0,0,0,0,0,1,0,0,1,0,0,2,Hard Skill
+management contract,4,0,0,0,0,2,0,2,0,3,1,0,0,12,Hard Skill
+management control,0,9,0,0,0,0,1,0,0,0,8,0,0,18,Hard Skill
+management development,0,1,8,1,0,0,1,0,0,0,1,0,3,15,Hard Skill
+management information base,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+management information systems,0,2,2,0,0,2,1,0,0,0,1,0,0,8,Hard Skill
+management process,10,4,0,2,2,6,2,1,0,1,2,0,0,30,Hard Skill
+management systems,0,4,5,1,3,3,12,4,0,0,9,2,0,43,Hard Skill
+manifests,0,1,0,0,0,0,0,1,0,0,1,0,0,3,Hard Skill
+manufacturing engineering,0,0,0,0,0,0,4,0,0,0,1,0,0,5,Hard Skill
+manufacturing operations,0,0,0,0,0,0,4,0,0,0,0,0,0,4,Hard Skill
+manufacturing processes,0,0,0,0,0,0,12,0,0,0,0,0,0,12,Hard Skill
+mapping,0,1,0,1,1,0,2,4,0,1,1,0,0,11,Hard Skill
+mapr,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+mapreduce,0,0,0,2,0,0,0,0,0,0,0,0,0,2,Hard Skill
+mari,0,0,0,0,0,0,4,0,0,0,0,0,0,4,Hard Skill
+marine engineering,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+market access strategy,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+market analysis,0,1,0,0,0,1,0,0,0,0,0,0,0,2,Hard Skill
+market area,0,0,0,0,0,1,0,1,0,1,0,0,0,3,Hard Skill
+market data,0,1,0,0,0,1,0,0,0,0,0,0,0,2,Hard Skill
+market development,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+market intelligence,0,0,0,0,1,1,0,0,0,0,0,0,0,2,Hard Skill
+market pricing,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+market research,0,5,3,0,0,0,0,1,0,0,4,0,0,13,Hard Skill
+market segmentation,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+market share,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+market trend,1,0,2,0,3,1,1,0,0,0,2,0,0,10,Hard Skill
+marketing analytics,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Hard Skill
+marketing collateral,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Hard Skill
+marketing communications,0,0,2,0,1,0,0,2,0,0,3,0,0,8,Hard Skill
+marketing management,0,0,0,0,1,0,0,0,0,0,1,0,0,2,Hard Skill
+marketing materials,0,0,3,0,1,0,0,1,0,0,0,0,0,5,Hard Skill
+marketing operations,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+marketing research,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+marketing strategies,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+mass production,0,0,0,0,0,0,0,0,0,0,0,5,0,5,Hard Skill
+massages,0,0,0,0,0,8,0,0,0,0,0,0,0,8,Hard Skill
+massive,0,0,0,3,0,0,2,0,0,0,4,0,0,9,Hard Skill
+master data management,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+material flow,0,0,0,0,0,0,5,0,0,0,0,0,0,5,Hard Skill
+material handling,0,0,0,0,9,0,2,0,0,0,0,0,0,11,Hard Skill
+materials engineering,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+materials management,0,0,0,0,1,2,2,0,0,0,0,0,0,5,Hard Skill
+materials science,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+materials testing,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+maternity,0,0,0,0,0,0,0,0,0,0,1,2,0,3,Hard Skill
+mathematical modeling,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+matlab,0,0,0,0,0,2,7,0,0,0,1,0,0,10,Hard Skill
+mcollective,0,1,0,0,2,2,4,0,0,0,2,0,30,41,Hard Skill
+meat products,0,0,0,0,0,0,0,0,0,0,0,2,0,2,Hard Skill
+mechanical engineering,0,0,0,0,0,1,17,0,0,0,1,0,0,19,Hard Skill
+mechanical systems,0,0,0,0,4,0,0,0,0,0,0,0,0,4,Hard Skill
+mechanicals,0,0,0,0,10,5,23,0,0,0,2,0,0,40,Hard Skill
+mechanics,0,0,0,0,1,2,3,0,0,0,0,0,0,6,Hard Skill
+mechatronics,0,0,0,0,0,0,3,0,0,0,1,0,0,4,Hard Skill
+media buying,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Hard Skill
+median,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+mediation,0,0,0,0,3,0,8,13,10,0,0,11,1,46,Hard Skill
+medic,0,0,0,1,0,0,2,0,0,0,0,0,0,3,Hard Skill
+medicaid,0,0,0,0,0,0,0,11,0,0,0,0,0,11,Hard Skill
+medicaid waiver,0,0,0,0,0,0,0,5,0,0,0,0,0,5,Hard Skill
+medical case management,0,0,6,0,0,0,0,0,0,0,0,0,0,6,Hard Skill
+medical devices,0,1,0,0,0,0,0,0,0,0,1,0,0,2,Hard Skill
+medical education,0,1,0,0,1,0,0,2,0,0,0,0,0,4,Hard Skill
+medical emergency,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+medical equipment,0,0,0,0,1,0,0,2,0,0,0,0,0,3,Hard Skill
+medical management,0,0,10,0,1,0,0,22,0,0,0,0,1,34,Hard Skill
+medical necessity,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+medical office procedures,0,0,0,0,0,0,0,2,0,0,0,0,0,2,Hard Skill
+medical practices,0,0,0,0,1,0,0,7,0,0,0,0,0,8,Hard Skill
+medical prescription,0,0,0,0,1,0,0,1,0,0,0,0,0,2,Hard Skill
+medical procedure,0,0,0,0,0,0,0,2,0,0,0,0,0,2,Hard Skill
+medical records,0,0,6,0,1,0,0,19,0,0,0,0,0,26,Hard Skill
+medical terminology,0,2,6,0,0,0,0,10,0,0,0,0,0,18,Hard Skill
+medical writing,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+medicare,0,0,2,0,0,0,0,34,0,0,0,0,0,36,Hard Skill
+medicare advantage,0,0,0,0,0,0,0,11,0,0,0,0,0,11,Hard Skill
+medication reconciliation,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+medication therapy management,0,0,0,0,0,0,0,0,3,0,0,0,0,3,Hard Skill
+meet commitments,0,0,6,0,0,0,0,0,0,0,0,0,0,6,Hard Skill
+mental health,0,0,49,0,7,0,0,7,0,0,1,0,0,64,Hard Skill
+merchandising,6,0,0,17,2,0,1,0,1,0,5,14,6,52,Hard Skill
+merchant services,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+message-oriented middleware,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+metadata,0,2,2,0,0,1,0,0,0,0,1,0,0,6,Hard Skill
+metadata standards,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+metallurgy,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+metric systems,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+metro ethernet,0,0,0,0,2,0,0,0,0,0,0,0,0,2,Hard Skill
+micrometer,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+microprocessor,0,0,0,0,2,0,6,0,0,0,0,0,0,8,Hard Skill
+microservices,0,0,3,5,0,0,8,2,0,0,4,2,0,24,Hard Skill
+microsoft access,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+microsoft azure,0,0,3,0,1,1,0,1,0,0,0,0,0,6,Hard Skill
+microsoft dynamics,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+microsoft project,0,2,0,0,0,0,0,0,0,0,0,0,0,2,Hard Skill
+microsoft publisher,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+microsoft skills,0,0,0,0,0,1,0,1,0,0,0,0,0,2,Hard Skill
+microsoft softwares,0,0,5,0,1,0,0,0,0,0,0,0,0,6,Hard Skill
+microsoft sql servers,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+microwaves,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+middleware,0,1,0,0,0,3,2,0,0,1,0,0,0,7,Hard Skill
+mifi,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+milestones,0,3,3,0,0,0,12,0,0,3,0,0,0,21,Hard Skill
+military security,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+military services,0,0,0,0,0,0,0,0,0,0,0,7,0,7,Hard Skill
+mills,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+minitab,0,1,0,0,0,0,0,0,0,0,1,0,0,2,Hard Skill
+mise en place,0,0,0,0,0,2,0,0,0,0,1,0,0,3,Hard Skill
+mission planning,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+mitigating control,0,0,0,0,0,0,0,0,0,5,0,0,0,5,Hard Skill
+mitigation,0,3,0,2,2,1,5,1,0,5,3,0,0,22,Hard Skill
+mnos,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+mobile app,0,0,0,4,0,0,1,67,0,2,2,1,0,77,Hard Skill
+mobile application development,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+mobile application testing,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Hard Skill
+mobile network operator,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+mobile phones,0,0,0,0,0,0,2,0,0,0,1,0,0,3,Hard Skill
+mobile security,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Hard Skill
+mobility,8,3,0,3,0,0,24,0,0,8,0,0,0,46,Hard Skill
+mock ups,0,0,0,1,0,0,1,0,0,0,1,0,0,3,Hard Skill
+mockup,0,0,0,0,0,0,3,0,0,0,0,0,0,3,Hard Skill
+modal analysis,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+model based systems engineering,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+modelling skills,0,1,0,0,0,1,0,0,0,0,0,0,0,2,Hard Skill
+modems,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+modo,0,0,0,0,0,25,0,3,0,0,0,0,0,28,Hard Skill
+molding,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+mongodb,0,0,0,1,0,0,0,1,0,0,0,0,0,2,Hard Skill
+monit,0,0,0,0,0,0,15,0,0,0,0,0,0,15,Hard Skill
+monitoring results,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+mono,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+motion analysis,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+motivational interviewing,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+mpls vpn,0,0,0,0,2,0,0,0,0,0,0,0,0,2,Hard Skill
+msc software,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+mule,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+mulesoft,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+multimedia,0,0,0,21,0,0,0,0,0,1,2,0,0,24,Hard Skill
+multiplexing,0,0,0,5,0,0,0,0,0,0,0,0,0,5,Hard Skill
+multitasking,0,3,0,5,0,2,0,2,0,0,0,0,0,12,Hard Skill
+multivariate statistics,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+multivariate testing,0,0,0,0,0,0,0,1,0,0,0,1,0,2,Hard Skill
+muscles,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Hard Skill
+music video,13,0,0,0,0,0,0,0,0,0,0,0,0,13,Hard Skill
+mvs,0,0,0,0,0,2,0,0,0,0,0,0,0,2,Hard Skill
+mysql,0,0,0,12,0,0,1,2,0,0,1,0,0,16,Hard Skill
+mysql++,0,0,0,12,0,0,1,2,0,0,1,0,0,16,Hard Skill
+nagios,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Hard Skill
+nastran,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+national electrical codes,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+natural language processing,0,0,0,0,0,0,0,0,0,0,3,0,0,3,Hard Skill
+natural language understanding,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+naval architecture,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+ncover,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Hard Skill
+ndepend,0,0,0,0,0,0,27,0,0,0,0,0,0,27,Hard Skill
+needs analysis,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+needs assessment,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+negotiation strategies,0,0,0,0,2,2,0,0,0,0,0,0,0,4,Hard Skill
+nephrology,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+netscaler,0,0,0,0,1,2,0,0,0,0,0,0,0,3,Hard Skill
+netsuite,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+network access control,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+network analysis,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Hard Skill
+network architecture,0,0,0,0,2,0,1,0,0,18,0,0,0,21,Hard Skill
+network automation,0,0,0,0,0,1,1,0,0,0,0,0,0,2,Hard Skill
+network booting,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+network communications,0,1,0,0,1,0,0,0,0,0,0,0,0,2,Hard Skill
+network computer,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+network control,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+network element,0,0,0,0,0,0,0,0,0,26,0,0,0,26,Hard Skill
+network engineering,0,0,0,0,0,0,1,0,0,3,0,0,0,4,Hard Skill
+network forensics,0,0,2,0,0,0,0,0,0,0,0,0,0,2,Hard Skill
+network improvement,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+network infrastructure,0,2,0,0,2,1,2,0,0,18,1,0,0,26,Hard Skill
+network interface,0,0,0,0,0,0,0,0,0,8,0,0,0,8,Hard Skill
+network management,0,0,1,0,2,0,0,1,0,8,0,0,0,12,Hard Skill
+network monitoring,0,0,0,1,0,0,0,1,0,0,0,0,0,2,Hard Skill
+network performance,0,0,0,0,1,0,1,0,0,18,1,0,0,21,Hard Skill
+network protocols,0,0,0,1,2,2,0,0,0,18,0,0,0,23,Hard Skill
+network security,0,0,3,0,0,4,1,0,0,8,0,0,0,16,Hard Skill
+network security policy,0,0,0,0,0,0,0,0,0,2,0,0,0,2,Hard Skill
+network service,0,0,0,0,0,3,1,0,0,4,0,0,0,8,Hard Skill
+network storage,0,0,0,0,0,1,0,0,0,1,0,0,0,2,Hard Skill
+network troubleshooting,0,0,0,0,0,0,1,0,0,18,0,0,0,19,Hard Skill
+network virtualization,0,0,0,0,0,0,0,0,0,2,0,0,0,2,Hard Skill
+networking basics,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+neurology,0,0,0,0,2,0,0,0,0,0,0,0,0,2,Hard Skill
+new business development,0,1,0,0,1,0,1,0,0,0,0,0,0,3,Hard Skill
+new product development,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+new ventures,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+newsletters,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+nginx,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+nhibernate,0,0,0,0,0,0,0,2,0,0,0,0,0,2,Hard Skill
+nice,0,0,0,1,0,3,0,0,0,0,1,0,0,5,Hard Skill
+node.js,0,0,0,7,0,0,0,0,0,0,0,0,0,7,Hard Skill
+nodes,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+nosql,0,1,7,4,1,1,2,4,0,6,1,0,0,27,Hard Skill
+novation,0,0,0,0,0,1,23,0,0,0,0,0,0,24,Hard Skill
+ns,0,0,0,0,0,0,0,5,0,0,0,0,0,5,Hard Skill
+numeracy,0,0,0,0,0,4,0,0,0,0,0,0,0,4,Hard Skill
+nursing,0,10,1,0,3,1,0,12,26,0,0,0,1,54,Hard Skill
+nursing care,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Hard Skill
+nursing homes,0,0,0,0,0,0,0,2,26,0,0,0,0,28,Hard Skill
+nursing practices,0,1,0,0,0,0,0,1,0,0,0,0,0,2,Hard Skill
+oauth,0,0,0,0,0,0,0,0,0,0,2,0,0,2,Hard Skill
+object-oriented design,0,0,0,0,0,0,1,0,0,0,16,0,0,17,Hard Skill
+object-oriented programming,0,0,0,0,0,1,2,0,0,0,0,0,0,3,Hard Skill
+objective function,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+objective j,0,1,3,2,0,3,0,50,0,0,1,0,0,60,Hard Skill
+objectstore,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+obsolescence,0,0,0,0,0,0,4,0,0,0,0,0,0,4,Hard Skill
+occupational health,0,0,0,0,0,2,0,1,0,0,0,0,0,3,Hard Skill
+occupational injuries,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+office app,0,2,0,0,0,0,0,0,0,0,0,0,0,2,Hard Skill
+office assistant,0,0,0,0,0,0,0,2,0,0,0,0,0,2,Hard Skill
+office management,0,0,0,0,1,2,0,0,0,3,0,0,0,6,Hard Skill
+office procedures,0,0,0,0,0,0,0,2,0,0,0,2,0,4,Hard Skill
+ogre,0,0,0,0,0,0,5,0,0,0,0,0,0,5,Hard Skill
+oil platforms,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+oils,0,0,0,0,1,1,0,0,0,0,0,0,0,2,Hard Skill
+on prem,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+onboarding,1,1,2,1,4,0,0,2,4,2,3,0,1,21,Hard Skill
+oncology,0,1,0,0,13,0,0,1,0,0,0,0,1,16,Hard Skill
+oncology nursing,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+onekey,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+online assessments,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+online surveys,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+openid,0,0,0,0,0,1,0,0,0,0,2,0,0,3,Hard Skill
+openshift,0,0,0,0,0,4,0,5,0,0,0,0,0,9,Hard Skill
+openstack,0,0,0,0,0,0,0,0,0,20,0,0,0,20,Hard Skill
+openup,3,0,0,0,0,0,0,0,0,0,0,0,0,3,Hard Skill
+opera,0,0,0,0,0,0,53,0,0,0,0,0,0,53,Hard Skill
+operability,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+operating budget,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+operating expense,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+operating systems,0,8,1,18,0,0,2,2,0,0,1,0,0,32,Hard Skill
+operational auditing,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+operational excellence,0,1,0,0,2,1,0,0,0,1,6,8,29,48,Hard Skill
+operational maintenance,0,0,0,0,0,0,1,0,4,0,0,1,0,6,Hard Skill
+operational planning,0,0,0,0,1,0,2,0,0,0,0,0,0,3,Hard Skill
+operational reporting,0,0,0,0,0,1,0,0,0,0,1,0,0,2,Hard Skill
+operations architecture,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+operations management,0,0,0,0,4,1,0,0,0,0,2,0,20,27,Hard Skill
+operations research,0,0,0,0,0,0,0,1,0,0,2,0,0,3,Hard Skill
+operations security,0,0,1,1,0,1,0,0,0,5,1,0,0,9,Hard Skill
+optics,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+optistruct,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+optometry,0,0,0,0,0,0,0,2,0,0,0,4,0,6,Hard Skill
+oracle applications,0,0,0,1,0,0,0,1,0,0,0,0,0,2,Hard Skill
+oracle cloud,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+oracle databases,0,1,0,0,0,0,2,1,0,0,0,0,0,4,Hard Skill
+oracledb,0,0,0,1,0,0,0,1,0,0,0,0,0,2,Hard Skill
+oral hygiene,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Hard Skill
+orator,0,0,0,0,0,0,5,0,0,0,0,0,0,5,Hard Skill
+orcad,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+order delivery,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+order fulfillment,0,9,0,0,1,0,0,0,0,0,0,0,0,10,Hard Skill
+order management systems,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+order picking,0,0,0,0,14,0,0,0,0,0,0,0,0,14,Hard Skill
+order processing,0,0,0,0,2,0,0,1,0,0,1,0,0,4,Hard Skill
+ordinances,0,0,50,0,0,0,0,0,93,0,6,0,0,149,Hard Skill
+organization development,0,1,0,0,0,0,2,0,0,0,1,0,0,4,Hard Skill
+organizational architecture,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+organizational behavior,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+organizational change,0,0,0,0,0,0,0,0,0,0,1,3,0,4,Hard Skill
+organizational charts,0,0,0,0,0,0,1,0,0,0,1,0,0,2,Hard Skill
+organizational communications,0,1,0,0,3,1,0,0,0,0,1,0,1,7,Hard Skill
+organizational effectiveness,0,0,0,0,0,0,0,0,0,0,2,0,0,2,Hard Skill
+organizational leadership,0,0,0,0,0,0,0,1,0,0,1,0,0,2,Hard Skill
+organizational learning,0,0,0,0,0,0,0,2,0,0,0,0,0,2,Hard Skill
+organizational performance,0,0,0,0,0,0,0,0,0,18,2,0,0,20,Hard Skill
+organizational structure,0,0,0,0,1,0,0,0,0,1,1,0,0,3,Hard Skill
+oscilloscope,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+osteopathy,0,0,0,0,0,0,0,2,0,0,0,0,0,2,Hard Skill
+outcomes research,0,2,0,0,0,0,0,1,0,0,0,0,0,3,Hard Skill
+outliers,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+outsourcing,0,0,0,0,0,0,0,1,0,0,1,0,0,2,Hard Skill
+outsystems,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+package delivery,0,0,0,0,0,0,0,0,0,0,2,0,0,2,Hard Skill
+package sorting,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+packet loss,0,0,0,0,0,0,0,0,0,18,0,0,0,18,Hard Skill
+pain management,0,0,0,0,0,0,0,2,0,0,0,0,0,2,Hard Skill
+pair programming,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+palliative care,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+pandas,0,0,0,0,0,1,0,0,0,0,1,0,0,2,Hard Skill
+paperworks,0,3,0,0,1,1,0,3,0,0,0,18,0,26,Hard Skill
+parallel computing,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+parameter,0,2,8,0,0,1,3,0,0,18,1,0,0,33,Hard Skill
+partner development,0,1,0,0,0,0,0,0,0,0,1,0,0,2,Hard Skill
+patch management,0,1,0,0,1,2,0,0,0,0,0,0,0,4,Hard Skill
+patent applications,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+pathology,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+patient assessment,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+patient coordination,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+patient education,0,5,0,0,2,0,0,4,0,0,0,0,1,12,Hard Skill
+patient monitoring,0,1,0,0,0,0,0,1,0,0,0,0,0,2,Hard Skill
+patient registration,0,0,0,0,0,0,0,1,4,0,0,2,0,7,Hard Skill
+patient safety,0,0,0,0,1,0,0,1,0,0,0,0,30,32,Hard Skill
+pattern recognition,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+payer marketing,0,2,0,0,0,0,0,0,0,0,0,0,0,2,Hard Skill
+payment method,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+payment processing,0,3,0,0,0,0,0,0,0,0,0,2,0,5,Hard Skill
+payment systems,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Hard Skill
+payroll processing,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+payroll tax,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+pc design,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Hard Skill
+pc tools,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+pediatrics,0,0,0,0,0,0,0,5,0,0,0,0,1,6,Hard Skill
+peer review,0,0,7,0,1,0,5,0,0,0,0,0,0,13,Hard Skill
+peer support,0,1,0,0,0,0,1,0,0,2,0,0,0,4,Hard Skill
+penetration testing,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+pension funds,0,0,0,0,0,14,0,0,0,0,0,0,0,14,Hard Skill
+perfmon,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+performance analysis,0,0,1,0,0,0,1,0,0,18,0,0,0,20,Hard Skill
+performance appraisal,0,0,2,0,0,0,0,0,0,0,0,0,2,4,Hard Skill
+performance engineering,0,0,0,2,0,0,1,0,0,0,0,0,0,3,Hard Skill
+performance improvement,0,1,0,0,1,0,1,3,5,18,2,0,0,31,Hard Skill
+performance management,0,8,2,0,1,0,0,2,12,1,3,2,1,32,Hard Skill
+performance measurement,0,0,0,0,0,0,0,1,0,0,1,0,0,2,Hard Skill
+performance metric,0,7,0,0,7,0,0,1,0,0,6,0,0,21,Hard Skill
+performance monitor,0,3,3,0,0,0,1,1,0,0,1,0,0,9,Hard Skill
+performance reporting,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+performance review,0,2,0,0,0,0,0,0,3,1,1,0,0,7,Hard Skill
+performance testing,0,0,0,2,0,0,2,1,0,0,0,0,0,5,Hard Skill
+performance tuning,0,0,0,23,0,0,10,0,0,0,1,0,0,34,Hard Skill
+perfusion,0,5,0,0,1,0,0,0,0,0,0,0,0,6,Hard Skill
+peripheral iv,0,0,0,0,1,0,0,1,0,0,0,0,0,2,Hard Skill
+perl,0,1,0,1,0,0,0,3,0,11,0,0,0,16,Hard Skill
+perm,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+permutation,0,0,2,0,0,0,0,0,0,0,0,0,0,2,Hard Skill
+perpetual inventory,0,0,0,0,0,0,0,0,0,0,0,5,0,5,Hard Skill
+persona,0,0,0,5,1,25,0,0,0,0,0,0,0,31,Hard Skill
+personal protective equipment,0,0,0,17,0,0,0,23,0,0,0,0,0,40,Hard Skill
+personalization,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+perspective,0,5,2,1,9,18,91,3,0,3,14,3,0,149,Hard Skill
+petrochemical,0,0,0,0,0,4,0,0,0,0,0,0,0,4,Hard Skill
+petroleum engineering,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+petroleums,0,0,0,0,0,21,0,0,0,0,0,0,0,21,Hard Skill
+pharmaceutical sales,0,2,0,0,1,0,0,0,0,0,0,0,0,3,Hard Skill
+pharmaceuticals,0,44,0,0,38,0,0,1,37,0,1,7,0,128,Hard Skill
+pharmacology,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+pharmacovigilance,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+pharmacy operations,0,0,0,0,2,0,0,0,37,0,0,0,0,39,Hard Skill
+pharmacy practices,0,1,0,0,0,0,0,0,37,0,0,0,0,38,Hard Skill
+phase,1,1,0,0,0,3,3,1,0,0,2,0,0,11,Hard Skill
+phlebotomy,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+phone support,0,2,0,0,0,0,0,4,0,0,0,0,0,6,Hard Skill
+photography,2,0,0,0,0,0,0,1,0,0,1,0,0,4,Hard Skill
+php,0,0,0,2,0,1,0,0,0,1,0,0,0,4,Hard Skill
+physical design,0,0,0,0,0,0,0,0,0,6,0,0,0,6,Hard Skill
+physical inventory,0,2,0,0,0,0,0,0,0,0,0,0,0,2,Hard Skill
+physical security,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+physical tests,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+physical therapy,0,0,0,0,0,0,0,2,0,0,0,0,0,2,Hard Skill
+physics,0,0,0,0,0,0,6,0,0,0,1,0,0,7,Hard Skill
+physiology,0,0,1,0,0,0,0,2,0,0,0,0,0,3,Hard Skill
+ping,0,0,0,6,0,1,58,0,0,0,0,0,0,65,Hard Skill
+pipe,0,0,0,0,0,1,8,0,0,0,0,0,0,9,Hard Skill
+pivot point,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+plan execution,0,0,0,1,0,0,4,0,0,0,0,0,2,7,Hard Skill
+planned maintenance,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+planning tools,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Hard Skill
+planogram,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+plasma,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+platform tools,0,0,0,0,0,0,0,1,0,19,0,0,0,20,Hard Skill
+platformic,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+plumbing,0,0,0,0,2,0,0,0,0,0,0,0,0,2,Hard Skill
+pneumatics,0,0,0,0,2,0,0,0,0,0,0,0,0,2,Hard Skill
+podiatry,0,0,0,0,0,0,0,2,0,0,0,0,0,2,Hard Skill
+polarization,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+port management,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+port regulations,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+portfolio management,0,0,0,0,1,0,0,0,0,0,1,0,0,2,Hard Skill
+posix,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+post processing,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Hard Skill
+post-production,0,0,0,0,0,2,1,0,0,0,1,0,0,4,Hard Skill
+postgresql,0,0,0,12,0,0,4,1,0,0,1,0,0,18,Hard Skill
+postman,0,0,0,0,0,2,0,1,0,0,0,0,0,3,Hard Skill
+power bi,0,3,7,1,1,1,4,1,0,0,1,0,0,19,Hard Skill
+power distribution,0,0,0,0,1,0,0,0,0,0,1,0,0,2,Hard Skill
+power management,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+powerhouse,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+powerpivot,0,0,0,0,0,2,0,0,0,0,0,0,0,2,Hard Skill
+powerquery,0,0,0,0,0,2,0,0,0,0,0,0,0,2,Hard Skill
+powertrain,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+practice management,0,4,2,0,3,1,0,3,0,0,1,0,0,14,Hard Skill
+practiceworks,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+pre-production,0,1,0,0,0,0,3,0,0,0,0,0,0,4,Hard Skill
+prediction,0,0,0,0,0,0,2,0,0,0,1,0,0,3,Hard Skill
+predictive analytics,0,0,0,0,0,0,0,1,0,0,1,0,0,2,Hard Skill
+predictive modeling,0,0,0,1,1,0,0,0,0,0,1,0,0,3,Hard Skill
+preprocessor,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+presales,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+prescription,0,5,0,0,6,0,0,4,51,0,0,14,31,111,Hard Skill
+presentation training,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+preventive action,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+preventive care,0,0,0,0,0,0,0,5,0,0,0,0,0,5,Hard Skill
+preventive healthcare,0,0,0,0,0,0,0,0,7,0,0,0,0,7,Hard Skill
+preventive maintenance,0,0,0,0,4,1,1,0,0,0,1,3,0,10,Hard Skill
+prewriting,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+pricing strategies,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+pricing systems,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+primary care,0,1,0,0,1,0,0,9,0,0,0,0,0,11,Hard Skill
+primary health care,0,0,0,0,0,0,0,0,0,0,0,2,0,2,Hard Skill
+primary market,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+primary nursing,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+primary research,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+prior authorization,0,0,0,0,0,0,0,4,0,0,0,0,0,4,Hard Skill
+privacy law,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+private cloud,0,0,0,0,0,0,2,1,0,2,1,1,0,7,Hard Skill
+private pub,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+probability,0,0,4,0,0,0,1,1,0,0,0,0,0,6,Hard Skill
+probation,0,0,0,0,0,0,0,8,0,0,0,0,0,8,Hard Skill
+problem management,0,0,0,3,2,2,0,0,0,0,0,0,0,7,Hard Skill
+process analysis,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+process architecture,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+process control,0,0,1,0,1,0,3,0,0,0,1,0,0,6,Hard Skill
+process design,0,1,1,0,0,0,3,1,0,6,3,0,0,15,Hard Skill
+process development,0,1,5,1,1,1,11,1,0,1,1,0,0,23,Hard Skill
+process engineering,0,0,0,1,0,0,4,0,0,0,2,1,0,8,Hard Skill
+process flow diagrams,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+process improvements,0,6,3,3,6,9,3,10,0,16,13,7,0,76,Hard Skill
+process integration,0,2,0,1,0,1,0,0,0,0,0,0,0,4,Hard Skill
+process lifecycle,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+process management,10,4,0,2,2,6,2,1,0,1,2,0,0,30,Hard Skill
+process manufacturing,0,0,0,0,0,0,12,0,0,0,0,0,0,12,Hard Skill
+process modeling,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+process optimization,0,0,0,0,0,0,0,3,0,0,0,0,0,3,Hard Skill
+process safety,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Hard Skill
+process validation,0,0,0,0,0,0,2,0,0,0,1,1,0,4,Hard Skill
+procurement,0,3,0,1,4,6,3,1,0,2,1,0,0,21,Hard Skill
+procurement management,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+product demonstration,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Hard Skill
+product description,2,11,0,0,0,0,0,0,0,0,0,0,0,13,Hard Skill
+product design,0,2,1,0,1,0,6,1,0,0,4,0,0,15,Hard Skill
+product engineering,0,0,0,3,0,0,2,0,0,4,1,0,0,10,Hard Skill
+product innovation,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+product layout,0,0,0,0,0,0,0,0,0,0,0,10,0,10,Hard Skill
+product leadership,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+product lifecycle,0,1,0,0,1,1,0,1,0,6,1,0,0,11,Hard Skill
+product management,0,2,7,1,3,1,3,0,0,3,7,0,0,27,Hard Skill
+product marketing,0,0,2,0,0,0,0,1,0,0,2,0,0,5,Hard Skill
+product photography,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+product planning,0,0,0,0,0,0,0,0,0,2,0,0,0,2,Hard Skill
+product quality,0,0,3,0,0,1,2,3,0,1,1,20,0,31,Hard Skill
+product recall,0,0,0,0,0,0,0,0,0,0,0,11,0,11,Hard Skill
+product requirements,0,1,0,1,0,0,2,0,0,0,1,0,0,5,Hard Skill
+product strategies,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+product support,1,0,0,3,0,0,1,1,0,0,2,0,0,8,Hard Skill
+product testing,0,0,0,0,0,0,1,0,0,0,1,0,0,2,Hard Skill
+production code,0,0,0,1,0,0,0,0,0,0,1,0,0,2,Hard Skill
+production equipment,0,0,0,0,2,0,0,0,0,0,0,0,0,2,Hard Skill
+production management,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+production process,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+production schedule,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+production support,0,0,0,5,0,2,4,3,0,1,0,0,0,15,Hard Skill
+production systems,0,0,0,1,2,1,0,0,0,0,0,0,0,4,Hard Skill
+productivity improvement,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+professional communication,0,2,0,0,1,0,0,0,0,0,2,0,0,5,Hard Skill
+professional diving,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+professional services,0,2,0,0,0,0,0,0,0,0,4,1,0,7,Hard Skill
+profiling,0,1,0,0,0,0,1,0,0,0,0,0,0,2,Hard Skill
+profitability analysis,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+profitable growth,0,0,2,0,1,0,0,0,0,0,0,0,0,3,Hard Skill
+program database,0,2,0,0,0,0,0,0,0,0,0,0,0,2,Hard Skill
+program development,0,0,0,0,0,1,2,1,0,0,1,0,3,8,Hard Skill
+program evaluation,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+program optimization,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+program scope,0,0,0,0,1,0,1,0,0,0,0,0,0,2,Hard Skill
+program standards,0,1,1,0,0,1,0,0,0,0,0,0,0,3,Hard Skill
+programmable logic controllers,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+programming,0,2,8,24,1,9,23,5,0,10,21,1,0,104,Hard Skill
+progress monitoring,0,1,0,0,0,0,0,0,0,0,0,9,0,10,Hard Skill
+progress reporting,0,1,0,0,0,0,0,0,0,1,1,0,0,3,Hard Skill
+progressive enhancement,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+project collaboration,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+project communications,0,2,0,0,0,0,0,0,0,0,0,0,0,2,Hard Skill
+project coordination,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+project documentation,0,0,0,0,0,0,1,1,0,0,0,0,0,2,Hard Skill
+project engineering,0,0,0,0,0,0,0,0,0,2,2,0,0,4,Hard Skill
+project evaluation,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+project implementation,0,0,0,0,1,1,0,3,0,0,2,0,0,7,Hard Skill
+project management,0,9,0,3,11,6,17,11,0,35,14,0,0,106,Hard Skill
+project management office,0,0,0,0,1,1,0,0,0,3,0,0,0,5,Hard Skill
+project management process,0,0,0,0,1,0,0,1,0,0,0,0,0,2,Hard Skill
+project management software,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+project manufacturing,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+project method,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+project planning,0,2,0,0,0,1,4,1,0,1,2,0,0,11,Hard Skill
+project proposals,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+project resources,0,1,0,0,0,0,1,0,0,0,0,0,0,2,Hard Skill
+project risk management,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+project schedules,0,0,0,0,1,0,1,1,0,0,0,0,0,3,Hard Skill
+project scoping,0,1,0,0,0,0,1,0,0,0,3,0,0,5,Hard Skill
+project stakeholders,0,1,0,0,1,0,1,0,0,0,0,0,0,3,Hard Skill
+prometheus,0,0,0,0,0,0,0,1,0,26,0,0,0,27,Hard Skill
+promotional merchandise,0,0,0,0,0,0,0,0,0,0,0,0,2,2,Hard Skill
+proofreading,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+property insurance,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+property maintenance,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+property management,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+prophylaxis,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Hard Skill
+proportion,0,1,8,0,0,0,0,0,0,0,0,0,0,9,Hard Skill
+proposal development,0,2,0,0,1,0,0,0,0,0,0,0,0,3,Hard Skill
+proposal writing,0,2,0,0,0,0,0,0,0,0,0,0,0,2,Hard Skill
+proprietary software,0,0,5,0,0,0,0,0,0,0,0,0,0,5,Hard Skill
+propulsion,0,0,0,0,0,0,15,0,0,0,0,0,0,15,Hard Skill
+protected health information,0,0,0,0,0,0,0,9,0,0,0,0,0,9,Hard Skill
+protocol analyzer,0,0,0,0,0,0,0,0,0,18,0,0,0,18,Hard Skill
+prototype,0,0,14,4,2,0,10,4,0,0,8,2,0,44,Hard Skill
+prototyping,0,1,0,0,1,0,4,2,0,6,0,0,0,14,Hard Skill
+provider model,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+proxy servers,0,0,3,0,0,0,0,0,0,0,0,0,0,3,Hard Skill
+pspice,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+psychology,0,1,0,0,1,0,0,1,0,3,2,0,0,8,Hard Skill
+public affairs,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+public cloud,0,2,0,0,0,0,0,1,0,0,1,0,0,4,Hard Skill
+public health,0,2,0,0,1,1,0,5,0,0,0,0,0,9,Hard Skill
+public relations,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+pumps,0,0,0,0,0,1,1,0,0,0,0,0,0,2,Hard Skill
+puppet,0,1,0,1,0,8,0,0,0,1,1,0,0,12,Hard Skill
+purchasing,5,2,0,0,3,1,12,0,0,3,1,38,0,65,Hard Skill
+purchasing management,0,0,0,0,1,0,1,0,0,0,0,0,0,2,Hard Skill
+python,0,2,0,19,1,18,26,8,0,37,13,3,0,127,Hard Skill
+pyunit,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+qnx,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+qt,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+quadratic equations,0,0,2,0,0,0,0,0,0,0,0,0,0,2,Hard Skill
+qualitative analysis,0,0,0,0,0,1,0,0,0,0,1,0,0,2,Hard Skill
+quality assessment,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+quality auditing,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+quality control,0,1,1,0,0,3,0,3,0,0,0,0,0,8,Hard Skill
+quality improvement,0,2,0,0,0,0,2,4,44,0,0,0,0,52,Hard Skill
+quality management,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+quality management system auditor,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+quality management systems,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+quality monitoring,0,0,0,0,0,0,1,1,0,0,1,0,0,3,Hard Skill
+quality of services,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+quality policy,0,1,1,0,0,0,0,0,0,0,0,0,0,2,Hard Skill
+quality procedures,0,0,0,0,0,1,0,1,0,0,0,0,0,2,Hard Skill
+qualtrics,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+quantification,0,0,0,3,0,0,0,0,0,0,0,0,0,3,Hard Skill
+quantitative analysis,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+quantitative marketing research,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+quantitative research,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+query languages,0,0,0,0,0,0,1,0,0,0,2,0,0,3,Hard Skill
+query optimization,0,0,0,1,0,1,0,0,0,0,0,0,0,2,Hard Skill
+query tuning,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Hard Skill
+question answering,0,2,1,0,0,0,0,0,1,0,1,15,0,20,Hard Skill
+quotations,0,0,5,0,0,1,0,0,0,0,0,0,0,6,Hard Skill
+r,0,2,0,0,1,2,0,2,0,11,5,1,0,24,Hard Skill
+r base,0,0,0,5,0,0,1,0,0,0,0,0,0,6,Hard Skill
+r commander,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+rabbitmq,0,0,0,0,0,1,1,0,0,0,0,0,0,2,Hard Skill
+radar,0,0,0,0,0,0,4,0,0,0,0,0,0,4,Hard Skill
+radio frequency,0,10,0,0,1,0,0,0,0,0,0,0,0,11,Hard Skill
+radiography,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+radiology,0,0,0,0,0,0,0,4,0,0,0,0,0,4,Hard Skill
+raid,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+ransac,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+rapid prototyping,0,0,0,0,1,0,4,0,0,0,0,0,0,5,Hard Skill
+raw data,0,0,0,0,0,0,0,1,0,0,0,1,0,2,Hard Skill
+react native,0,0,3,0,0,0,0,0,0,0,1,0,0,4,Hard Skill
+react redux,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+react.js,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+real time data,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+real-time computing,0,0,0,0,0,0,14,0,0,0,0,0,0,14,Hard Skill
+realsense,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+rebase,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+receivables,0,1,0,1,1,3,1,2,0,0,0,0,0,9,Hard Skill
+recipes,0,0,0,0,0,0,0,0,0,0,0,8,0,8,Hard Skill
+reconciliation,0,4,0,0,1,8,0,2,0,0,0,0,0,15,Hard Skill
+redcarpet,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+redis,0,0,0,1,0,1,2,0,0,0,0,0,0,4,Hard Skill
+reduction,0,4,0,0,0,4,10,0,0,6,2,0,0,26,Hard Skill
+reengineering,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Hard Skill
+reference architecture,0,0,3,0,0,0,0,0,0,0,1,0,0,4,Hard Skill
+reference data,0,0,2,0,0,0,0,0,0,0,0,0,0,2,Hard Skill
+refinancing,0,0,0,0,0,0,89,0,0,0,0,0,0,89,Hard Skill
+refinement,0,0,2,0,0,0,0,1,0,0,0,0,0,3,Hard Skill
+refining,0,0,0,0,0,5,1,0,0,0,0,0,0,6,Hard Skill
+refresher training,0,2,0,0,0,0,0,0,0,0,0,0,0,2,Hard Skill
+regional sales,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Hard Skill
+registration,0,2,0,0,1,0,0,2,11,0,0,3,31,50,Hard Skill
+regression testing,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+regulatory compliance,0,1,1,0,3,2,0,1,16,1,2,0,1,28,Hard Skill
+regulatory developments,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+regulatory filings,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+regulatory requirements,0,0,2,0,4,2,0,3,0,0,1,0,1,13,Hard Skill
+rehabilitation,0,0,2,0,0,0,0,0,0,0,1,0,0,3,Hard Skill
+relational database management systems,0,0,0,1,0,0,1,0,0,0,0,0,0,2,Hard Skill
+relational databases,0,0,2,2,1,1,4,4,0,0,4,0,0,18,Hard Skill
+relationship building,1,3,1,3,5,0,0,4,0,0,0,4,0,21,Hard Skill
+relay logic,0,0,0,0,4,0,0,0,0,0,0,0,0,4,Hard Skill
+relays,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+release builds,0,0,0,0,0,0,1,0,0,1,1,0,0,3,Hard Skill
+release engineering,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+release management,0,0,0,0,0,0,0,2,0,0,0,0,0,2,Hard Skill
+reliability engineering,0,0,0,4,0,0,1,0,0,0,1,0,0,6,Hard Skill
+remittance,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+remuneration,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+renewable energy,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+repairing,0,0,0,0,0,0,1,0,0,0,0,3,0,4,Hard Skill
+reporting tools,0,0,2,0,0,0,1,0,0,3,1,0,0,7,Hard Skill
+reportlab,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+requirements analysis,0,0,0,0,0,0,1,2,0,0,1,0,0,4,Hard Skill
+requirements engineering,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+requirements management,0,1,0,0,0,0,2,0,0,0,1,0,0,4,Hard Skill
+requirements specifications,0,1,0,0,3,0,2,0,0,0,0,0,0,6,Hard Skill
+requisition,0,0,2,0,0,2,0,0,0,0,0,0,0,4,Hard Skill
+research experiences,0,1,0,0,0,0,0,0,0,0,1,0,0,2,Hard Skill
+research methodologies,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+research reports,0,0,0,0,0,0,0,0,0,18,0,0,0,18,Hard Skill
+reservoir engineering,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+resolving customer problems,0,0,0,0,0,0,0,2,0,0,0,0,0,2,Hard Skill
+resource allocation,0,1,0,0,1,0,0,0,0,0,0,0,0,2,Hard Skill
+resource management,0,0,0,2,1,1,0,2,0,0,1,0,0,7,Hard Skill
+resource planning,0,0,0,0,1,1,1,0,0,0,1,0,0,4,Hard Skill
+resource utilization,0,1,0,0,0,0,1,0,0,0,0,0,0,2,Hard Skill
+resourcing,0,0,0,0,0,1,0,0,0,3,3,0,0,7,Hard Skill
+rest client,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Hard Skill
+restful api,0,0,0,1,0,2,1,0,0,1,0,1,0,6,Hard Skill
+restocking shelves,0,0,0,0,0,0,0,0,0,0,0,0,35,35,Hard Skill
+restricted stock,0,0,0,0,0,0,0,0,0,0,7,0,0,7,Hard Skill
+resume screening,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+retail design,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+retail management,0,0,0,0,0,0,0,0,8,0,0,0,9,17,Hard Skill
+retrospect,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+retrospective reviews,0,0,3,0,0,0,1,0,0,0,0,0,0,4,Hard Skill
+return on investment,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+return-to-work management,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+revaluation,0,2,2,0,2,8,8,3,4,0,4,2,0,35,Hard Skill
+revenue analysis,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+revenue cycle management,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+revenue enhancement,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+revenue growth,0,0,0,0,0,0,0,0,0,0,1,0,1,2,Hard Skill
+revenue management,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+reverse logistics,0,0,0,0,0,0,0,0,16,0,0,0,0,16,Hard Skill
+review contracts,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+revisions,0,1,6,0,1,0,0,0,60,0,0,0,0,68,Hard Skill
+rexx,0,0,0,0,0,2,0,0,0,0,0,0,0,2,Hard Skill
+rheumatology,0,0,0,0,2,0,0,2,0,0,0,0,0,4,Hard Skill
+rigging,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+ring networks,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+ring theory,0,0,0,0,0,0,9,0,0,0,0,0,0,9,Hard Skill
+risc os,0,0,0,0,0,0,0,2,0,0,0,0,0,2,Hard Skill
+risk analysis,0,0,1,0,0,2,1,0,0,0,1,0,0,5,Hard Skill
+risk analytics,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+risk appetite,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+risk control,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+risk management,0,1,3,0,2,0,0,2,0,0,5,0,0,13,Hard Skill
+risk management information systems,0,0,2,0,0,0,0,0,0,0,0,0,0,2,Hard Skill
+risk mitigation,0,2,0,1,0,0,0,1,0,0,3,0,0,7,Hard Skill
+risk prevention,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+risk reduction,0,0,0,0,0,1,0,0,0,3,0,0,0,4,Hard Skill
+riverbed,0,0,0,1,2,0,0,0,0,0,0,0,0,3,Hard Skill
+rmiregistry,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+rna,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+robot framework,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+robotic automation software,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+robotics,0,0,0,0,1,0,3,0,0,0,2,0,0,6,Hard Skill
+robust control,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+roofing,0,0,0,0,0,0,3,0,0,0,0,0,0,3,Hard Skill
+root cause analysis,0,1,3,5,0,5,8,1,0,2,2,1,0,28,Hard Skill
+routing protocols,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+rowing,0,0,0,5,0,0,7,0,0,0,0,0,0,12,Hard Skill
+rpart,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+rsa,0,0,0,0,0,0,3,0,0,0,0,0,0,3,Hard Skill
+ruby,0,0,0,0,0,0,0,0,0,1,5,0,0,6,Hard Skill
+rust,0,0,0,0,0,0,8,0,0,0,1,0,0,9,Hard Skill
+s expression,0,0,0,0,0,0,0,81,0,0,0,0,0,81,Hard Skill
+s interface,0,2,3,2,1,11,15,0,0,0,7,1,0,42,Hard Skill
+s voice,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+safety culture,0,0,0,0,0,2,0,0,0,0,0,0,0,2,Hard Skill
+safety engineering,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+safety management systems,0,0,0,0,0,2,0,0,0,0,0,0,0,2,Hard Skill
+safety organizations,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+safety science,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+safety standards,0,8,0,0,0,1,1,1,0,0,0,19,0,30,Hard Skill
+safety training,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+sales administration,0,1,0,0,0,1,1,0,0,0,0,0,0,3,Hard Skill
+sales effectiveness,0,0,0,0,1,1,0,0,0,0,0,0,0,2,Hard Skill
+sales enablement,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+sales excellence,1,0,0,0,0,1,0,0,0,0,0,0,0,2,Hard Skill
+sales management,0,0,0,0,0,1,0,0,0,0,0,0,1,2,Hard Skill
+sales operations,0,1,0,0,1,0,0,1,0,0,0,0,0,3,Hard Skill
+sales order,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+sales process,0,0,0,0,1,2,0,0,0,0,0,0,0,3,Hard Skill
+sales promotion,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+sales tax,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+sales training,0,0,0,0,1,0,0,0,0,0,1,0,1,3,Hard Skill
+salesforce.com,0,1,0,0,2,0,0,0,0,0,2,0,0,5,Hard Skill
+salesforce.com,0,1,0,0,2,0,0,0,0,0,2,0,0,5,Hard Skill
+salt stack,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+sampling,0,0,2,1,0,0,0,0,0,0,0,0,1,4,Hard Skill
+sanitization,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Hard Skill
+sap abap,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+sap configuration,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+sap fi,0,0,0,0,0,3,0,0,0,0,0,0,0,3,Hard Skill
+sap fiori,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+sap hana,0,0,0,0,0,2,1,0,0,0,0,0,0,3,Hard Skill
+sap implementation,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+sap solution manager,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+sas,0,1,0,1,1,2,4,3,0,0,2,1,0,15,Hard Skill
+sass,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+satellite communications,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+scala,0,0,0,2,0,1,13,3,0,0,1,1,0,21,Hard Skill
+scalability,0,0,0,1,0,1,2,1,0,2,6,0,0,13,Hard Skill
+scale,1,2,0,16,2,2,13,11,0,6,34,7,0,94,Hard Skill
+scaled agile framework,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+schematic capture,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+scheme,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+scope management,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+scripting,0,1,3,4,3,9,2,6,0,7,5,1,0,41,Hard Skill
+scrum,0,2,3,1,1,8,10,3,0,0,3,1,0,32,Hard Skill
+seal,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+search technologies,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+secondary education,0,2,0,0,0,0,0,0,0,0,0,0,0,2,Hard Skill
+secure coding,0,0,3,0,0,4,0,0,0,0,0,0,0,7,Hard Skill
+secure environment,0,0,0,0,0,0,0,0,0,0,2,0,0,2,Hard Skill
+security awareness,0,0,4,0,0,2,0,0,0,3,0,0,0,9,Hard Skill
+security controls,0,0,0,0,0,4,2,0,0,0,3,0,0,9,Hard Skill
+security domain,0,0,3,0,0,0,1,0,0,5,0,0,0,9,Hard Skill
+security engineering,0,0,0,0,1,0,0,0,0,8,1,0,0,10,Hard Skill
+security managing,0,0,0,0,0,0,0,0,0,5,0,0,0,5,Hard Skill
+security policies,0,1,1,0,0,0,0,0,0,2,0,0,0,4,Hard Skill
+security requirements analysis,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+security software,0,0,3,0,0,0,0,0,0,5,0,0,0,8,Hard Skill
+security systems,0,0,1,1,1,1,0,0,0,5,2,0,0,11,Hard Skill
+security technology,0,0,1,0,0,1,2,0,0,0,1,0,0,5,Hard Skill
+security testing,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+security vision,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+selenium,0,0,3,0,0,0,3,1,0,2,0,0,0,9,Hard Skill
+self care,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+self checkout,0,0,0,0,0,0,0,0,0,0,0,9,0,9,Hard Skill
+selling techniques,0,0,0,0,0,0,0,0,0,12,0,0,0,12,Hard Skill
+semen analysis,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+sensor fusion,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+sequent,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+servant leadership,0,1,0,0,0,0,1,0,0,0,0,0,0,2,Hard Skill
+server administration,0,0,0,0,0,1,1,0,0,0,0,0,0,2,Hard Skill
+server-side,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Hard Skill
+service accounts,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+service delivery,0,2,0,1,3,2,1,2,0,0,5,0,0,16,Hard Skill
+service design,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+service desk,0,0,0,0,1,0,0,0,0,1,0,0,0,2,Hard Skill
+service innovation,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+service level,0,5,2,1,2,0,0,7,0,0,2,0,6,25,Hard Skill
+service management,0,2,0,0,1,1,2,14,0,0,3,0,0,23,Hard Skill
+service object,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+service provider,0,2,3,1,1,3,4,5,0,4,0,0,0,23,Hard Skill
+service provider,0,2,3,1,1,3,4,5,0,4,0,0,0,23,Hard Skill
+service provisioning,0,0,0,0,0,2,0,0,0,0,0,0,0,2,Hard Skill
+service quality,1,1,1,0,0,0,2,1,0,0,1,20,0,27,Hard Skill
+service set,1,0,0,0,0,0,0,0,0,0,1,0,0,2,Hard Skill
+service strategy,0,0,0,0,0,0,0,0,7,0,0,0,0,7,Hard Skill
+services marketing,0,0,1,0,0,0,0,0,0,12,1,0,0,14,Hard Skill
+sesam,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+session,0,0,0,3,0,0,1,1,0,0,0,0,0,5,Hard Skill
+settlement,0,0,6,0,0,3,0,0,0,0,0,0,0,9,Hard Skill
+shaper,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Hard Skill
+shared resource,0,0,3,0,0,0,0,0,0,0,0,0,0,3,Hard Skill
+sheet metal,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+shell script,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+shiny,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+ship management,0,0,0,0,0,0,4,0,0,0,0,0,0,4,Hard Skill
+shopping lists,0,0,0,0,0,0,0,0,0,0,0,8,0,8,Hard Skill
+shrink wrapping,0,0,0,0,0,0,4,0,0,0,0,0,0,4,Hard Skill
+siemens nx,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+sign tests,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+signal generators,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+signal processing,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+signaling,0,0,0,0,0,0,0,0,0,18,0,0,0,18,Hard Skill
+simula,0,0,0,0,0,0,10,0,0,0,0,0,0,10,Hard Skill
+simulation software,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+simulations,0,1,0,0,0,0,11,2,0,0,3,0,0,17,Hard Skill
+simulink,0,0,0,0,0,0,9,0,0,0,0,0,0,9,Hard Skill
+simultaneous engineering,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+single page application,0,0,0,0,0,0,1,0,0,0,1,0,0,2,Hard Skill
+site reliability engineering,0,0,0,4,0,0,1,0,0,0,0,0,0,5,Hard Skill
+site security,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+situation analysis,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+sketch,0,0,0,0,1,0,3,1,0,0,1,0,0,6,Hard Skill
+sketching,0,1,0,0,0,0,1,0,0,0,0,0,0,2,Hard Skill
+smart cards,0,0,0,0,0,0,0,0,0,8,0,0,0,8,Hard Skill
+sme servers,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+sms,0,0,0,0,0,0,3,0,0,0,0,0,0,3,Hard Skill
+smtp,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+snowflake,0,0,3,1,0,1,0,1,0,0,0,0,0,6,Hard Skill
+soap client,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+soapui,0,0,0,0,1,0,3,1,0,0,0,0,0,5,Hard Skill
+soasta cloudtest,0,0,0,2,0,0,0,0,0,0,0,0,0,2,Hard Skill
+social psychology,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+social security,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+social work,0,0,0,0,0,0,0,4,0,0,0,0,0,4,Hard Skill
+sociology,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+soft power,0,2,0,0,0,0,0,0,0,0,0,0,0,2,Hard Skill
+software architecture,0,0,0,0,0,0,0,1,0,0,3,0,0,4,Hard Skill
+software business analysis,0,0,3,0,0,0,0,0,0,0,0,0,0,3,Hard Skill
+software coding,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+software configuration management,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+software defined networking,0,0,0,0,0,0,0,0,0,2,0,0,0,2,Hard Skill
+software deployment,0,0,0,0,0,0,0,0,0,0,2,0,0,2,Hard Skill
+software design,0,0,1,2,0,3,2,0,0,0,1,1,0,10,Hard Skill
+software design patterns,0,0,0,1,0,2,0,0,0,0,0,1,0,4,Hard Skill
+software development,0,2,12,27,3,4,24,5,0,6,24,0,0,107,Hard Skill
+software development life cycle,0,0,0,22,1,0,1,2,0,0,7,0,0,33,Hard Skill
+software development methodologies,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+software documentation,0,0,1,0,0,0,4,0,0,0,1,0,0,6,Hard Skill
+software engineering,0,0,13,3,0,0,13,6,0,0,12,3,0,50,Hard Skill
+software engineering process,0,0,0,0,0,0,0,0,0,0,2,0,0,2,Hard Skill
+software features,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+software maintenance,0,0,0,0,0,0,0,2,0,0,0,0,0,2,Hard Skill
+software product management,0,0,3,0,0,0,0,0,0,0,0,0,0,3,Hard Skill
+software project management,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+software quality,0,1,0,3,0,0,4,0,0,0,2,0,0,10,Hard Skill
+software security,0,0,3,0,0,0,0,0,0,5,0,0,0,8,Hard Skill
+software suite,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+software systems,0,0,0,0,0,0,12,0,1,0,8,0,0,21,Hard Skill
+software testing,0,0,0,3,0,0,9,0,0,0,0,0,0,12,Hard Skill
+software testing automation framework,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Hard Skill
+software validation,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+solderability,0,0,0,0,1,0,0,0,0,0,2,0,0,3,Hard Skill
+soldering,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+solenoid,0,0,0,0,3,0,0,0,0,0,0,0,0,3,Hard Skill
+solidworks,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+solution architecture,0,0,0,0,0,1,2,1,0,0,1,0,0,5,Hard Skill
+sonar,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+sonarqube,0,0,0,0,0,0,4,1,0,0,0,0,0,5,Hard Skill
+sonicwall,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+source,1,3,0,10,1,5,33,2,0,21,10,0,29,115,Hard Skill
+source codes,0,1,0,2,0,0,0,0,0,1,0,0,0,4,Hard Skill
+source data,0,6,0,0,2,2,1,3,0,0,4,1,0,19,Hard Skill
+space technology,0,0,0,0,0,0,0,0,0,97,0,0,0,97,Hard Skill
+spark streaming,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+sparse,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+specialty pharmaceuticals,0,0,0,0,2,0,0,0,0,0,0,0,0,2,Hard Skill
+specimen collection,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+spectrum analyzer,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+speech analytics,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+speech recognition,0,0,0,0,0,0,1,1,0,0,1,0,0,3,Hard Skill
+spice,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+splinting,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+splunk,0,0,0,3,1,5,0,1,0,0,0,0,0,10,Hard Skill
+spock,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+spread spectrum,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+spring aop,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Hard Skill
+spring batch,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Hard Skill
+spring boot,0,0,0,0,0,0,5,2,0,0,0,1,0,8,Hard Skill
+spring security,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Hard Skill
+sprint planning,0,1,3,0,0,3,1,1,0,0,0,0,0,9,Hard Skill
+sprint retrospectives,0,0,0,0,0,1,1,0,0,0,0,0,0,2,Hard Skill
+spservices,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+spss,0,1,0,0,0,0,1,0,0,0,3,0,0,5,Hard Skill
+spy++,0,0,0,0,0,0,4,0,0,0,0,0,0,4,Hard Skill
+sql,0,5,10,23,2,12,16,11,0,42,14,3,0,138,Hard Skill
+sql server integration services,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+sql server reporting services,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+sql services,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+sqoop,0,0,0,0,0,0,1,0,0,0,1,0,0,2,Hard Skill
+staff management,0,0,0,1,2,0,0,1,0,0,0,0,0,4,Hard Skill
+stage management,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+staging,0,9,0,0,0,0,5,0,0,0,0,10,0,24,Hard Skill
+stakeholder communications,0,0,0,0,0,0,0,0,0,0,2,0,0,2,Hard Skill
+stakeholder engagement,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+stakeholder management,0,0,0,0,1,0,1,1,0,0,0,0,0,3,Hard Skill
+stakeholder requirements,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+stakeholder training,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+stall,0,0,0,0,0,0,8,0,0,0,0,0,0,8,Hard Skill
+stamping,0,0,0,0,0,0,3,0,0,0,0,0,0,3,Hard Skill
+standard operating procedure,0,5,0,1,2,0,4,1,3,0,3,0,0,19,Hard Skill
+standards organization,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+stata,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+state income tax,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+state laws,0,0,2,0,0,0,0,1,1,0,1,0,31,36,Hard Skill
+stateflow,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+static data,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Hard Skill
+static testing,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+statistica,0,2,8,1,2,3,5,3,0,0,5,1,0,30,Hard Skill
+statistical hypothesis testing,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+statistical inference,0,0,4,0,0,0,0,0,0,0,0,0,0,4,Hard Skill
+statistical methods,0,1,0,0,0,0,2,0,0,0,0,0,0,3,Hard Skill
+statistical modeling,0,0,0,0,0,1,0,1,0,0,1,0,0,3,Hard Skill
+statistical process controls,0,0,0,0,0,0,1,0,0,0,1,0,0,2,Hard Skill
+statistical softwares,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+statistics,0,2,6,0,1,3,0,4,0,3,4,1,0,24,Hard Skill
+steady state,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+stewardship,0,0,2,0,0,5,1,0,0,0,0,0,0,8,Hard Skill
+stock control,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+stock management,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+stock rotation,0,0,0,0,0,0,0,0,56,0,0,0,0,56,Hard Skill
+stocks,0,18,0,0,0,0,0,0,0,0,0,10,0,28,Hard Skill
+storage systems,0,1,0,0,0,0,2,0,0,0,0,0,0,3,Hard Skill
+storage virtualization,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+stored functions,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+stored procedure,0,0,1,0,0,0,1,1,0,0,0,0,0,3,Hard Skill
+storytelling,0,0,0,1,1,0,0,0,0,0,1,0,0,3,Hard Skill
+strategic alignment,0,2,0,0,0,0,1,0,0,0,0,0,0,3,Hard Skill
+strategic communication,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Hard Skill
+strategic decision-making,0,0,5,0,0,0,0,0,0,0,0,0,0,5,Hard Skill
+strategic leadership,0,0,0,0,0,0,0,0,0,3,0,0,3,6,Hard Skill
+strategic management,0,0,0,0,0,0,0,0,0,1,1,0,0,2,Hard Skill
+strategic partnership,0,0,0,1,1,0,0,0,0,0,0,0,0,2,Hard Skill
+strategic planning,0,1,7,0,1,0,0,0,0,0,1,0,0,10,Hard Skill
+strategic resources,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+strategic roadmaps,0,0,0,0,0,0,0,0,0,5,0,0,0,5,Hard Skill
+strategic sourcing,0,0,0,0,0,0,0,0,0,3,0,0,0,3,Hard Skill
+strategy execution,0,0,0,0,0,0,1,0,0,3,2,0,0,6,Hard Skill
+stream processing,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+streamlines,0,1,0,4,1,0,3,0,0,1,0,0,0,10,Hard Skill
+streamlining,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+structured analysis,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+structured finance,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+structured settlement,0,0,2,0,0,0,0,0,0,0,0,0,0,2,Hard Skill
+style guides,0,0,0,0,0,0,0,0,0,0,2,0,0,2,Hard Skill
+subcontracting,0,0,0,0,1,1,0,0,0,0,0,0,0,2,Hard Skill
+subrogation,0,0,2,0,0,0,0,2,0,0,0,0,0,4,Hard Skill
+subrogation,0,0,2,0,0,0,0,2,0,0,0,0,0,4,Hard Skill
+subsidies,0,0,2,0,0,0,0,0,0,0,0,0,0,2,Hard Skill
+substance abuse,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+subsystems,0,1,0,0,0,0,21,0,0,0,0,0,0,22,Hard Skill
+succession planning,0,2,0,0,0,0,0,1,0,0,0,2,0,5,Hard Skill
+supercomputing,0,0,0,0,0,0,14,0,0,0,0,0,0,14,Hard Skill
+superstructure,0,0,0,0,0,0,0,0,59,0,0,0,0,59,Hard Skill
+supervisord,0,2,8,0,4,2,2,5,13,0,0,4,21,61,Hard Skill
+supplier diversity,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+supplier evaluation,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+supplier relationship management,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+supply chain,9,1,0,1,12,14,7,0,0,9,15,2,0,70,Hard Skill
+supply chain management,0,0,0,0,9,1,4,0,0,3,4,0,0,21,Hard Skill
+supply chain network,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+supply chain optimization,0,0,0,0,0,1,0,0,0,0,1,0,0,2,Hard Skill
+supply chain planning,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Hard Skill
+supply chain risk management,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+supply management,0,0,0,0,0,0,0,0,0,3,1,0,0,4,Hard Skill
+support engineering,0,0,0,0,0,0,2,0,0,0,1,0,0,3,Hard Skill
+supportworks,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+surfacing,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+surgery,0,0,0,0,10,0,0,0,0,0,0,2,0,12,Hard Skill
+surgical procedures,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+surveys,0,1,0,0,0,1,3,0,0,0,1,0,2,8,Hard Skill
+sustainability,0,1,0,0,0,3,0,0,0,1,5,6,0,16,Hard Skill
+swift,0,0,2,0,0,0,0,0,0,1,1,0,0,4,Hard Skill
+switch,4,0,0,0,0,0,2,0,2,0,0,0,0,8,Hard Skill
+switchgear,0,0,0,0,4,0,0,0,0,0,0,0,0,4,Hard Skill
+sync,0,0,0,0,0,0,3,0,0,0,0,0,0,3,Hard Skill
+synchro,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+syntax,0,0,3,0,0,0,0,0,0,0,0,0,0,3,Hard Skill
+system administration,0,0,2,0,0,5,1,0,0,18,1,0,0,27,Hard Skill
+system call,0,2,0,0,0,0,0,0,0,0,0,0,0,2,Hard Skill
+system center configuration manager,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+system configuration,0,1,0,0,1,2,0,0,0,18,0,0,0,22,Hard Skill
+system deployment,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+system integration testing,0,3,0,1,0,0,0,0,0,1,0,0,0,5,Hard Skill
+system integrity,0,0,0,0,0,3,0,0,0,0,1,0,0,4,Hard Skill
+system lifecycle,0,0,0,0,0,0,1,0,0,0,1,0,0,2,Hard Skill
+system monitor,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+system monitoring,0,0,0,0,0,2,1,0,0,1,1,5,0,10,Hard Skill
+system procedures,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+system programming,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+system requirements,0,3,0,0,0,0,13,1,0,0,0,0,0,17,Hard Skill
+system requirements specification,0,0,0,0,0,0,6,0,0,0,0,0,0,6,Hard Skill
+system safety,0,0,0,0,0,0,4,0,0,0,0,0,0,4,Hard Skill
+system software,0,0,0,0,0,0,10,0,1,0,8,0,0,19,Hard Skill
+system support,0,3,0,1,0,0,2,1,0,0,2,0,0,9,Hard Skill
+system testing,0,1,0,0,0,0,0,0,0,1,0,0,0,2,Hard Skill
+systems analysis,0,0,0,2,0,0,4,0,0,18,1,0,0,25,Hard Skill
+systems architecture,0,0,2,0,0,4,2,0,0,0,5,0,0,13,Hard Skill
+systems controls,0,0,2,0,3,0,9,1,0,0,1,0,0,16,Hard Skill
+systems design,0,1,0,1,0,6,12,0,0,0,3,0,0,23,Hard Skill
+systems development,0,0,2,0,0,1,6,0,0,0,1,0,0,10,Hard Skill
+systems engineering,0,2,0,1,0,2,11,0,0,0,3,0,0,19,Hard Skill
+systems implementations,0,1,0,0,0,0,1,1,0,0,0,0,0,3,Hard Skill
+systems integration,0,3,0,1,0,2,4,0,0,1,1,1,0,13,Hard Skill
+systems thinking,0,0,0,0,0,1,1,0,0,0,0,0,0,2,Hard Skill
+tableau,0,1,0,0,4,6,3,0,0,18,4,1,0,37,Hard Skill
+tablespace,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+tablets,0,0,0,0,1,0,1,0,0,0,0,1,0,3,Hard Skill
+tag management,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+talend,0,0,0,0,0,0,0,2,0,0,0,0,0,2,Hard Skill
+talent acquisition,0,3,0,0,0,0,0,1,0,0,2,0,0,6,Hard Skill
+talent management,0,2,2,0,0,0,0,0,0,1,3,0,0,8,Hard Skill
+taleo,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+target acquisition,0,0,2,0,0,0,0,0,0,0,0,0,0,2,Hard Skill
+target audience,0,0,0,1,0,0,0,1,0,0,1,1,0,4,Hard Skill
+target market,0,0,2,0,0,0,0,0,0,0,1,0,0,3,Hard Skill
+task analysis,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+task management,0,0,0,0,1,0,1,0,4,0,0,0,35,41,Hard Skill
+taskstream,0,0,0,0,0,0,0,0,16,0,0,0,0,16,Hard Skill
+tax accounting,0,0,0,0,0,3,0,0,0,0,0,0,0,3,Hard Skill
+tax compliance,0,0,0,0,0,2,0,0,0,0,0,0,0,2,Hard Skill
+tax return,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+taxact,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+taxonomy,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+tcpdump,0,0,0,0,0,0,0,0,0,18,0,0,0,18,Hard Skill
+tcptrace,0,0,0,0,0,0,0,0,0,18,0,0,0,18,Hard Skill
+team nursing,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+team processes,0,1,0,0,0,0,1,0,0,0,1,0,0,3,Hard Skill
+teamcenter,0,0,0,0,0,0,3,0,0,0,0,0,0,3,Hard Skill
+teamsite,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+teamspeak,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+tebis,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+technical analysis,0,0,0,1,0,1,2,0,0,18,0,0,0,22,Hard Skill
+technical assistance,1,2,0,0,0,0,0,0,0,0,1,0,0,4,Hard Skill
+technical audit,0,0,2,0,0,0,0,0,0,0,1,0,0,3,Hard Skill
+technical communication,0,0,0,0,0,0,1,0,0,0,6,0,0,7,Hard Skill
+technical debt,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+technical documentation,0,0,2,1,1,2,8,0,0,0,0,0,0,14,Hard Skill
+technical information,0,1,3,0,0,3,0,0,0,0,2,0,0,9,Hard Skill
+technical management,0,1,0,1,0,0,0,0,0,0,3,0,0,5,Hard Skill
+technical report,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+technical sales,2,0,0,7,0,0,0,0,0,0,2,0,0,11,Hard Skill
+technical savvy,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+technical services,0,0,0,0,0,0,1,0,0,0,1,0,0,2,Hard Skill
+technical standard,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+technical supervision,0,0,0,0,0,0,0,0,0,0,2,0,0,2,Hard Skill
+technical support,15,1,9,0,0,7,4,0,0,1,2,0,0,39,Hard Skill
+technical training,0,1,0,0,0,0,1,0,0,0,0,0,0,2,Hard Skill
+technical writing,0,0,0,0,3,1,6,1,0,0,0,0,0,11,Hard Skill
+technology cad,0,0,0,0,0,0,0,0,0,0,2,0,0,2,Hard Skill
+technology education,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+technology integration,0,0,0,0,0,0,2,1,0,0,0,0,0,3,Hard Skill
+technology research,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+technology roadmap,0,0,3,0,0,2,1,0,0,1,0,0,0,7,Hard Skill
+technology solutions,20,1,3,3,3,1,3,3,0,0,2,0,0,39,Hard Skill
+technology strategies,0,0,0,0,0,2,1,0,0,0,0,0,0,3,Hard Skill
+techskills,0,0,0,2,0,0,0,0,0,0,0,0,0,2,Hard Skill
+telecommunications,0,1,8,3,0,3,0,0,0,4,1,0,0,20,Hard Skill
+telecommunications networks,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+telehealth,0,0,0,0,0,0,0,3,0,0,0,0,0,3,Hard Skill
+telematics,0,0,0,0,0,0,17,0,0,0,0,0,0,17,Hard Skill
+telemedicine,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+telephony,0,1,0,0,0,1,0,0,0,0,0,0,0,2,Hard Skill
+telepresence,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+telepsychiatry,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+template toolkits,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+templates,0,0,5,0,0,4,2,0,0,2,2,1,0,16,Hard Skill
+tensorflow,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+teradata sql,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Hard Skill
+terminal emulators,0,0,0,0,0,2,0,0,0,0,0,0,0,2,Hard Skill
+terminal server,0,0,0,0,0,3,0,0,0,0,0,0,0,3,Hard Skill
+terraform,0,1,0,5,1,2,0,2,0,0,0,0,0,11,Hard Skill
+test automation,0,0,3,3,1,0,5,2,0,0,1,0,0,15,Hard Skill
+test case,0,2,7,0,0,0,8,2,0,1,1,0,0,21,Hard Skill
+test data,0,0,0,2,0,0,3,1,0,0,1,0,0,7,Hard Skill
+test design,0,0,0,0,0,3,5,0,0,0,0,0,0,8,Hard Skill
+test engineering,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+test equipment,0,0,0,0,0,0,3,0,0,0,1,0,0,4,Hard Skill
+test management,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+test method,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+test planning,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+test script,0,0,0,0,0,0,5,2,0,0,0,0,0,7,Hard Skill
+test strategy,0,0,0,0,0,2,1,0,0,0,0,0,0,3,Hard Skill
+test-driven development,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+testability,0,0,0,0,0,0,1,0,0,0,1,0,0,2,Hard Skill
+testlink,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+text mining,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+tform,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Hard Skill
+thermal management,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+thermal simulation,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+thermal testing,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+thinning,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+thought leadership,0,1,0,0,0,0,0,3,0,5,2,0,0,11,Hard Skill
+threading,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+threat assessment,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+threat modeling,0,0,0,0,0,0,0,0,0,0,2,0,0,2,Hard Skill
+throughput,0,0,0,0,1,0,11,0,0,19,0,0,0,31,Hard Skill
+thymeleaf,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+time complexity,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+time series,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+time study,0,0,0,0,0,0,3,0,0,0,0,0,0,3,Hard Skill
+tires,0,0,0,0,0,0,0,0,0,0,0,3,0,3,Hard Skill
+togaf,0,0,0,0,1,1,0,0,0,0,0,0,0,2,Hard Skill
+tomography,0,0,0,0,0,0,0,0,0,0,0,2,0,2,Hard Skill
+tool management,0,3,2,0,2,3,2,1,0,11,2,2,0,28,Hard Skill
+tool steel,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+toolchain,0,0,0,0,0,1,1,0,0,0,0,0,0,2,Hard Skill
+tooling,0,1,0,0,0,1,7,1,0,0,2,0,0,12,Hard Skill
+toolkits,0,1,0,0,0,0,1,0,0,0,1,0,0,3,Hard Skill
+topography,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+torque,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+touchpoint,0,2,0,0,0,2,1,0,0,0,0,0,0,5,Hard Skill
+toy industry,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Hard Skill
+traceability,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+traceroute,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+track,7,18,3,21,11,3,24,9,0,12,27,1,1,137,Hard Skill
+tracking,0,5,4,0,3,2,1,7,1,4,10,11,1,49,Hard Skill
+tracking systems,0,1,3,0,0,0,1,0,0,0,0,0,0,5,Hard Skill
+traffic engineering,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Hard Skill
+traffic flow,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+traffic laws,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+transaction processing,0,0,0,0,0,0,0,0,0,0,0,8,0,8,Hard Skill
+transcriber,0,0,0,0,0,0,0,0,0,0,2,0,0,2,Hard Skill
+transformation,12,2,3,28,1,5,18,4,15,11,1,1,0,101,Hard Skill
+transformation rules,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+transformational leadership,0,0,0,0,0,0,0,0,0,3,0,0,0,3,Hard Skill
+transformers,0,0,0,0,6,0,0,0,0,0,0,0,0,6,Hard Skill
+transition management,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Hard Skill
+translations,0,1,0,0,0,0,0,0,0,6,1,0,0,8,Hard Skill
+transmission,0,0,1,0,1,0,8,0,0,0,0,0,0,10,Hard Skill
+transparency,0,0,50,0,2,2,4,0,0,0,0,0,0,58,Hard Skill
+transport management systems,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+transportation management systems,0,2,0,0,0,0,0,0,0,0,0,0,0,2,Hard Skill
+transportation systems management,0,2,0,0,0,0,0,0,0,0,0,0,0,2,Hard Skill
+travel coordination,0,0,0,0,0,0,0,0,0,1,2,0,0,3,Hard Skill
+treasury,0,0,0,1,0,1,0,0,0,0,0,0,0,2,Hard Skill
+trend analysis,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+triage,0,0,1,6,1,0,1,5,0,0,1,0,0,15,Hard Skill
+trial balance,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+trifacta,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+trimming,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Hard Skill
+trusted platform module,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+tuberculosis,0,0,0,0,0,0,0,4,0,0,0,0,0,4,Hard Skill
+tunnels,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+turbines,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+turnkey,0,0,0,0,1,0,2,0,0,0,0,0,0,3,Hard Skill
+tutorials,0,0,0,0,0,0,0,0,0,0,3,0,0,3,Hard Skill
+type approval,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+typescript,0,0,0,0,0,1,0,0,0,0,2,0,0,3,Hard Skill
+typography,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+ubuntu,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Hard Skill
+ui patterns,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+underwriting,0,0,14,0,0,0,0,0,0,0,0,0,0,14,Hard Skill
+unemployment benefits,0,0,0,0,0,0,0,0,0,0,0,7,0,7,Hard Skill
+unit testing,0,0,10,0,0,3,3,3,0,0,1,2,0,22,Hard Skill
+unittest++,0,0,0,21,0,10,3,3,0,0,1,0,0,38,Hard Skill
+unix,0,1,0,13,0,2,1,1,0,6,0,0,0,24,Hard Skill
+unix shell,0,0,0,1,0,0,0,1,0,0,0,0,0,2,Hard Skill
+unstructured data,0,1,0,0,0,4,0,1,0,0,0,0,0,6,Hard Skill
+upselling,0,0,0,0,1,0,0,0,0,0,0,0,1,2,Hard Skill
+upskilling,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+uptime,0,0,0,1,0,0,0,0,0,0,1,0,0,2,Hard Skill
+urgent care,0,0,0,0,0,0,0,3,0,0,0,0,0,3,Hard Skill
+urinalysis,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+urine drug screen,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+urology,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+usability,1,0,0,3,1,4,8,1,0,1,5,0,0,24,Hard Skill
+usability testing,0,0,0,0,0,1,1,0,0,0,0,0,0,2,Hard Skill
+usb,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+user experience,0,1,5,1,2,3,1,1,0,21,6,0,0,41,Hard Skill
+user experience design,0,0,3,1,1,0,0,0,0,0,2,0,0,7,Hard Skill
+user feedback,0,0,0,0,0,1,1,0,0,0,0,0,0,2,Hard Skill
+user flows,0,1,0,0,1,0,0,0,0,0,0,0,0,2,Hard Skill
+user guide,2,0,0,0,0,0,0,0,0,0,0,0,0,2,Hard Skill
+user information,0,0,1,0,0,0,0,0,0,0,1,0,0,2,Hard Skill
+user interface,0,1,2,1,1,1,0,0,0,0,3,0,0,9,Hard Skill
+user interface specification,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+user interface testing,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Hard Skill
+user story,0,0,3,0,0,1,0,0,0,0,0,0,0,4,Hard Skill
+usergroups,0,0,0,0,0,2,0,0,0,0,0,0,0,2,Hard Skill
+utilization management,0,0,1,0,0,1,0,0,0,0,0,0,0,2,Hard Skill
+ux research,0,0,0,0,0,0,0,1,0,0,1,0,0,2,Hard Skill
+vaccination,0,0,0,0,0,1,0,4,0,0,2,0,0,7,Hard Skill
+vaccines,0,0,0,0,0,0,0,0,4,0,0,0,0,4,Hard Skill
+validation controls,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+validations,0,1,3,1,0,5,26,4,0,2,2,1,0,45,Hard Skill
+value chain,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+value proposition,9,2,2,0,4,0,0,0,0,0,4,0,0,21,Hard Skill
+value systems,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+valves,0,0,0,0,3,1,1,0,0,0,0,0,0,5,Hard Skill
+variance analysis,0,0,2,0,0,0,0,0,0,0,0,1,0,3,Hard Skill
+vascular access,0,0,0,0,0,0,0,1,0,0,0,0,1,2,Hard Skill
+vascular access device,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+vcenter,0,0,0,0,0,2,0,0,0,0,0,0,0,2,Hard Skill
+vehicle dynamics,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+vehicle inspection,0,0,0,0,9,0,0,0,0,0,1,0,0,10,Hard Skill
+vehicle maintenance,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+vendor contracts,0,1,0,0,0,0,0,0,0,0,1,0,0,2,Hard Skill
+vendor management,0,0,2,0,1,4,2,1,0,5,2,0,0,17,Hard Skill
+venipuncture,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+ventilation,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Hard Skill
+verification and validation,0,0,0,0,0,0,4,0,0,0,0,0,0,4,Hard Skill
+version control,0,0,0,0,0,0,1,1,0,0,0,1,0,3,Hard Skill
+vertica,0,0,0,2,0,0,1,0,0,0,0,0,0,3,Hard Skill
+vibrations,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+video analytics,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Hard Skill
+video cameras,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+video editing,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+video email,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+video post-production,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+video production,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+videoconferencing,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+videography,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+vim,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+virtual application,0,0,0,0,0,0,0,0,0,2,0,0,0,2,Hard Skill
+virtual classroom,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+virtual desktops,0,0,0,0,0,2,0,0,0,0,0,0,0,2,Hard Skill
+virtual environment,0,0,0,0,0,2,1,0,7,0,0,0,0,10,Hard Skill
+virtual event,0,0,0,1,0,0,0,1,0,0,1,0,0,3,Hard Skill
+virtualization,0,0,0,0,0,4,1,0,0,9,1,0,0,15,Hard Skill
+visual acuity,0,0,0,0,1,0,0,0,0,0,0,2,36,39,Hard Skill
+visual basic,0,0,0,0,1,1,0,0,0,0,0,0,0,2,Hard Skill
+visual basic .net,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+visual c++,0,0,1,0,0,2,0,0,0,0,0,0,0,3,Hard Skill
+visual communications,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Hard Skill
+visual design,0,0,0,0,1,1,0,1,0,0,2,0,0,5,Hard Skill
+visual inspections,0,0,0,0,0,0,0,0,0,0,0,0,65,65,Hard Skill
+visual merchandising,6,0,0,0,0,0,0,0,0,0,0,0,0,6,Hard Skill
+visual perception,0,0,0,0,0,0,0,0,0,0,0,2,0,2,Hard Skill
+visualforce,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+visualization,0,0,2,5,3,8,4,1,0,17,3,0,0,43,Hard Skill
+vital signs,0,0,0,0,0,0,0,2,0,0,0,0,0,2,Hard Skill
+vm,0,0,0,0,0,2,0,0,0,0,0,0,0,2,Hard Skill
+vmware virtualization,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+voice interaction,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+voltage,0,0,0,0,5,0,6,0,0,0,0,0,0,11,Hard Skill
+vse,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+vue.js,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+vulnerability,0,0,3,0,1,0,0,0,0,5,0,0,0,9,Hard Skill
+vulnerability assessments,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+vulnerability management,0,0,1,0,1,0,0,0,0,5,0,0,0,7,Hard Skill
+vulnerability scanning,0,0,0,0,0,0,0,0,0,5,0,0,0,5,Hard Skill
+vxlan,0,0,0,0,0,0,0,0,0,2,0,0,0,2,Hard Skill
+wan optimization,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Hard Skill
+wan technologies,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Hard Skill
+warehouse inventory management,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+warehouse management,0,0,0,0,4,0,4,0,0,0,1,0,0,9,Hard Skill
+warehouse management systems,0,0,0,0,3,0,4,0,0,0,0,0,0,7,Hard Skill
+warehouse operations,0,1,0,0,1,0,2,0,0,0,0,0,0,4,Hard Skill
+warehousing,0,1,0,1,0,1,4,2,0,6,2,0,0,17,Hard Skill
+waste minimization,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+wastewater,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+water quality,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+web application development,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+web applications,0,2,10,1,1,2,1,3,0,1,0,0,0,21,Hard Skill
+web design,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+web development,0,0,0,0,0,0,0,2,0,0,1,0,0,3,Hard Skill
+web dynpro,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+web frameworks,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+web language,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+web servers,0,0,0,2,0,2,0,1,0,1,1,0,0,7,Hard Skill
+web services,0,1,0,2,1,3,2,2,0,0,17,0,0,28,Hard Skill
+web tools,0,0,0,0,0,0,1,0,0,0,1,0,0,2,Hard Skill
+web trends,0,0,0,0,0,0,0,2,0,0,0,0,0,2,Hard Skill
+web ui,0,0,4,0,0,0,0,0,0,0,0,0,0,4,Hard Skill
+webpack,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+website metrics,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+websphere 7,0,0,0,0,0,0,1,0,0,1,0,0,0,2,Hard Skill
+websphere 8,0,0,0,0,0,0,1,0,0,1,0,0,0,2,Hard Skill
+welding,0,0,0,0,1,0,2,0,0,0,0,0,0,3,Hard Skill
+well services,1,0,0,0,1,0,0,0,0,0,0,0,0,2,Hard Skill
+well testing,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hard Skill
+white paper,0,0,0,0,0,0,0,0,0,0,2,0,0,2,Hard Skill
+whitespace,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+wholesaling,0,0,0,0,10,0,0,0,0,0,0,0,0,10,Hard Skill
+winches,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+windows console,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Hard Skill
+windows controls,0,0,0,0,0,0,0,0,0,2,0,0,0,2,Hard Skill
+windows desktop,0,0,4,0,0,2,0,0,0,0,0,0,0,6,Hard Skill
+windows servers,0,0,0,0,0,2,0,0,0,0,0,0,0,2,Hard Skill
+windows user,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Hard Skill
+winshuttle,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+wireless broadband,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Hard Skill
+wireless networks,0,0,0,0,0,0,0,0,0,4,0,0,0,4,Hard Skill
+wireshark,0,0,2,0,0,0,0,0,0,26,0,0,0,28,Hard Skill
+wiring diagram,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Hard Skill
+wms,0,0,0,0,1,0,4,0,0,0,0,0,0,5,Hard Skill
+work measurement,0,0,0,0,0,0,4,0,0,0,0,0,0,4,Hard Skill
+work order,0,0,0,0,4,0,2,0,0,0,0,1,0,7,Hard Skill
+workbench,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+workday,0,3,0,0,0,0,2,1,0,0,0,0,2,8,Hard Skill
+workflows,0,3,3,1,5,4,1,1,0,6,9,0,0,33,Hard Skill
+workforce development,0,0,0,0,0,0,0,0,0,0,1,2,0,3,Hard Skill
+workforce planning,0,3,0,0,0,0,0,0,0,0,3,0,0,6,Hard Skill
+working capital,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Hard Skill
+workstations,0,0,0,0,0,2,0,0,0,0,0,0,1,3,Hard Skill
+wound care,0,0,0,0,0,0,0,3,0,0,0,0,0,3,Hard Skill
+x platform,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+x terminals,0,0,0,0,0,1,1,0,0,0,0,0,0,2,Hard Skill
+x++,0,0,0,0,1,2,3,0,0,0,0,0,0,6,Hard Skill
+xamarin,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+xceed,0,0,0,3,0,0,3,0,0,0,0,0,0,6,Hard Skill
+xcircuits,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Hard Skill
+xunit,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Hard Skill
+zoning,0,0,3,0,0,0,0,0,0,1,0,27,0,31,Hard Skill
+aws certified solutions architect,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Certification
+certified business analysis professional,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Certification
+certified coding specialist,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Certification
+certified commercial contracts manager,0,0,0,0,0,0,0,0,0,3,0,0,0,3,Certification
+certified documentation improvement practitioner,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Certification
+certified ethical hacker,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Certification
+certified inpatient coder,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Certification
+certified medical assistant,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Certification
+certified pharmacy technician,0,0,0,0,0,0,0,1,19,0,0,0,0,20,Certification
+certified professional coder,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Certification
+certified professional contracts manager,0,0,0,0,0,0,0,0,0,3,0,0,0,3,Certification
+certified purchasing manager,0,0,0,0,0,0,0,0,0,3,0,0,0,3,Certification
+certified registered nurse infusion,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Certification
+certified risk adjustment coder,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Certification
+certified safety professional,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Certification
+certified scrum master,0,1,0,0,0,1,0,0,0,0,0,0,0,2,Certification
+certified translator,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Certification
+coder certification,0,0,0,0,0,0,0,2,0,0,0,0,0,2,Certification
+cosmetology license,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Certification
+food safety certification,0,0,0,0,0,0,0,0,0,0,0,5,0,5,Certification
+giac certified incident handler,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Certification
+giac information security professional,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Certification
+giac penetration tester,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Certification
+immunization certification,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Certification
+licensed practical nurse,0,2,0,0,0,0,0,1,0,0,0,0,0,3,Certification
+licensed social worker,0,0,0,0,0,0,0,2,0,0,0,0,0,2,Certification
+licensed vocational nurses,0,0,0,0,0,0,0,2,0,0,0,0,0,2,Certification
+medical license,0,0,0,0,0,0,0,2,0,0,0,0,0,2,Certification
+microsoft certified solution developer,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Certification
+microsoft office specialist,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Certification
+nist cybersecurity framework,0,0,1,0,0,0,1,0,0,0,0,0,0,2,Certification
+nurse practitioner,0,0,0,0,0,0,0,15,0,0,0,0,0,15,Certification
+professional engineer,0,0,0,0,0,2,0,0,0,0,0,0,0,2,Certification
+registered dietitian,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Certification
+registered health information administrator,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Certification
+registered health information technician,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Certification
+registered practical nurse,0,2,0,0,0,0,0,0,0,0,0,0,0,2,Certification
+six sigma certification,0,0,0,0,1,0,1,0,0,0,0,0,0,2,Certification
